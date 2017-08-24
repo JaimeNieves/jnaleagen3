@@ -1,0 +1,179 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Creador de PJs v2.0</title>
+
+<script type="text/javascript" charset="utf-8" src="js/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="js/aleajn.js"></script>
+
+<link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" charset="utf-8" href="assets/jnaleagen.css">
+
+<script type="text/javascript">
+
+	var aficiones = aleajn.load("csv/pj2/aficiones.csv");
+	var apariencia = aleajn.load("csv/pj2/apariencia.csv");
+	var cabellocolor = aleajn.load("csv/pj2/cabellocolor.csv");
+	var cabellotipo = aleajn.load("csv/pj2/cabellotipo.csv");
+	var caracter = aleajn.load("csv/pj2/caracter.csv");
+	var clasebase = aleajn.load("csv/pj2/clasebase.csv");
+	var clasetemas = aleajn.load("csv/pj2/clasetemas.csv");
+	var complexionpose = aleajn.load("csv/pj2/complexionpose.csv");
+	var familia = aleajn.load("csv/pj2/familia.csv");
+	var interpretacion = aleajn.load("csv/pj2/interpretacion.csv");
+	var motivacion = aleajn.load("csv/pj2/motivacion.csv");
+	var ojoscolor = aleajn.load("csv/pj2/ojoscolor.csv");
+	var ojosrasgo = aleajn.load("csv/pj2/ojosrasgo.csv");
+	var organizacion = aleajn.load("csv/pj2/organizacion.csv");
+	var origen = aleajn.load("csv/pj2/origen.csv");
+	var personalidad = aleajn.load("csv/pj2/personalidad.csv");
+	var piel = aleajn.load("csv/pj2/piel.csv");
+	var profesion = aleajn.load("csv/pj2/profesion.csv");
+	var religion = aleajn.load("csv/pj2/religion.csv");
+	var vellofacial = aleajn.load("csv/pj2/vellofacial.csv");
+	var probabilidades = 0;
+		probabilidades = aficiones.length * apariencia.length * cabellocolor.length * cabellotipo.length * caracter.length * clasebase.length * 
+		clasetemas.length * complexionpose.length * familia.length * interpretacion.length * motivacion.length * ojoscolor.length * 
+		ojosrasgo.length * organizacion.length * origen.length * personalidad.length * piel.length * profesion.length * religion.length * 
+		vellofacial.length;
+		
+	
+	
+	$(document).ready(function() {
+	
+		$("#texto").html( "Aún no has conocido a nadie de los " + String(probabilidades.toPrecision(4)) + " personajes disponibles." );
+		
+		$("#btnLanzar").click( function(){
+		
+			var resultado = "";
+		
+			resultado += "<b>Clase: </b>" + aleajn.cap(aleajn.choose(clasebase)) + "<br>";	
+			resultado += "<b>Rasgos de clase: </b>" + aleajn.choose(clasetemas) + ", " + aleajn.choose(clasetemas) + "<br><br>";
+
+			resultado += "<b>Motivación: </b>" + aleajn.cap(aleajn.choose(motivacion)) + "<br>";	
+			resultado += "<b>Origen: </b>" + aleajn.cap(aleajn.choose(origen)) + "<br>";	
+			resultado += "<b>Carácter: </b>" + aleajn.choose(caracter) + ", " + aleajn.choose(caracter) + ", " + aleajn.choose(caracter) + "<br><br>";
+			
+			var apariencia = [];
+				apariencia[0] = "<b>Color del cabello: </b>" + aleajn.cap(aleajn.choose(cabellocolor)) + "<br>";
+				apariencia[1] = "<b>Estilo de cabello: </b>" + aleajn.cap(aleajn.choose(cabellotipo)) + "<br>";
+				apariencia[2] = "<b>Color de ojos: </b>" + aleajn.cap(aleajn.choose(ojoscolor)) + "<br>";
+				apariencia[3] = "<b>Rasgo de ojos: </b>" + aleajn.cap(aleajn.choose(ojosrasgo)) + "<br>";
+				apariencia[4] = "<b>Vello facial: </b>" + aleajn.cap(aleajn.choose(vellofacial)) + "<br>";
+				apariencia[5] = "<b>Piel: </b>" + aleajn.cap(aleajn.choose(piel)) + "<br>";
+				apariencia[6] = "<b>Complexión y pose: </b>" + aleajn.cap(aleajn.choose(complexionpose)) + "<br>";
+				apariencia[7] = "<b>Rasgo de apariencia: </b>" + aleajn.cap(aleajn.choose(apariencia)) + "<br>";
+				
+				var apariencia1 = aleajn.dice(1,8);
+				var apariencia2 = 0;
+				do {
+					apariencia2 = aleajn.dice(1,8);
+					} while (apariencia2 == apariencia1);
+			resultado += apariencia[apariencia1-1] + apariencia[apariencia2-1] + "<br>";
+			
+			var trasfondo = [];
+				trasfondo[0] = "<b>Organización: </b>" + aleajn.cap(aleajn.choose(organizacion)) + "<br>";
+				trasfondo[1] = "<b>Trasfondo: </b>" + aleajn.cap(aleajn.choose(personalidad)) + "<br>";
+				trasfondo[2] = "<b>Familia y relaciones: </b>" + aleajn.cap(aleajn.choose(familia)) + "<br>";
+				trasfondo[3] = "<b>Profesión relacionada: </b>" + aleajn.cap(aleajn.choose(profesion)) + "<br>";
+				trasfondo[4] = "<b>Religión: </b>" + aleajn.cap(aleajn.choose(religion)) + "<br>";
+				trasfondo[5] = "<b>Afición: </b>" + aleajn.cap(aleajn.choose(aficiones)) + "<br>";
+				
+				var trasfondo1 = aleajn.dice(1,6);
+				var trasfondo2 = 0;
+				do {
+					trasfondo2 = aleajn.dice(1,6);
+					} while (trasfondo2 == trasfondo1);
+			
+			resultado += trasfondo[trasfondo1-1] + trasfondo[trasfondo2-1];
+			resultado += "<b>Detalle de interpretación: </b>" + aleajn.cap(aleajn.choose(interpretacion)) + "<br>";
+
+			$("#texto").html( resultado );
+		});
+		
+		$("#btnCompleto").click( function(){
+		
+			var resultado = "";
+		
+			resultado += "<b>Clase: </b>" + aleajn.cap(aleajn.choose(clasebase)) + "<br>";	
+			resultado += "<b>Rasgos de clase: </b>" + aleajn.cap(aleajn.choose(clasetemas)) + ", " + aleajn.choose(clasetemas) + "<br><br>";
+
+			resultado += "<b>Motivación: </b>" + aleajn.cap(aleajn.choose(motivacion)) + "<br>";	
+			resultado += "<b>Origen: </b>" + aleajn.cap(aleajn.choose(origen)) + "<br>";	
+			resultado += "<b>Carácter: </b>" + aleajn.cap(aleajn.choose(caracter)) + ", " + aleajn.choose(caracter) + ", " + aleajn.choose(caracter) + "<br><br>";
+			
+			var apariencia = [];
+				apariencia[0] = "<b>Color del cabello: </b>" + aleajn.cap(aleajn.choose(cabellocolor)) + "<br>";
+				apariencia[1] = "<b>Estilo de cabello: </b>" + aleajn.cap(aleajn.choose(cabellotipo)) + "<br>";
+				apariencia[2] = "<b>Color de ojos: </b>" + aleajn.cap(aleajn.choose(ojoscolor)) + "<br>";
+				apariencia[3] = "<b>Rasgo de ojos: </b>" + aleajn.cap(aleajn.choose(ojosrasgo)) + "<br>";
+				apariencia[4] = "<b>Vello facial: </b>" + aleajn.cap(aleajn.choose(vellofacial)) + "<br>";
+				apariencia[5] = "<b>Piel: </b>" + aleajn.cap(aleajn.choose(piel)) + "<br>";
+				apariencia[6] = "<b>Complexión y pose: </b>" + aleajn.cap(aleajn.choose(complexionpose)) + "<br>";
+				apariencia[7] = "<b>Rasgo de apariencia: </b>" + aleajn.cap(aleajn.choose(apariencia)) + "<br>";
+				
+				for (a in apariencia){
+					resultado += apariencia[a];
+				}
+				
+			resultado += "<br>";
+			
+			var trasfondo = [];
+				trasfondo[0] = "<b>Organización: </b>" + aleajn.cap(aleajn.choose(organizacion)) + "<br>";
+				trasfondo[1] = "<b>Trasfondo: </b>" + aleajn.cap(aleajn.choose(personalidad)) + "<br>";
+				trasfondo[2] = "<b>Familia y relaciones: </b>" + aleajn.cap(aleajn.choose(familia)) + "<br>";
+				trasfondo[3] = "<b>Profesión relacionada: </b>" + aleajn.cap(aleajn.choose(profesion)) + "<br>";
+				trasfondo[4] = "<b>Religión: </b>" + aleajn.cap(aleajn.choose(religion)) + "<br>";
+				trasfondo[5] = "<b>Afición: </b>" + aleajn.cap(aleajn.choose(aficiones)) + "<br>";
+				
+				for (t in trasfondo){
+					resultado += trasfondo[t];
+				}
+			
+			resultado += "<b>Detalle de interpretación: </b>" + aleajn.cap(aleajn.choose(interpretacion)) + "<br>";
+			resultado += "<br>";
+
+			$("#texto").html( resultado );
+		});
+	});
+</script>
+
+</head>
+
+
+<body>
+<div id="global">
+	<div class="header" id="header"></div>
+		<div id="main" class="main" style="height: 640px;">
+			<div>
+				<p class="textTitle">Constructor de PJs</p>
+				<p class="textSubTitle"><i>El creador definitivo de personajes aleatorios.</i></p>
+			</div>
+			<br>
+			
+			<div>
+				<input class="boton" type="button" id="btnLanzar" value="Simple"></input>
+				<input class="boton" type="button" id="btnCompleto" value="Completo"></input>
+			</div>
+			<br>
+			
+			<p class="texto" style="font-size: 16px;" id="texto">Aún no has conocido a nadie.</p>
+			
+			
+			
+		</div>
+		
+	<div class="footer">
+		<br><br>
+		<a style="font-size:10px; text-decoration: none;" href="http://www.jaimenieves.es">Jaime Nieves, 2017</a>
+	</div>
+		
+</div>
+
+
+
+</body>
+
+

@@ -1,0 +1,185 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>JN Random Generator v0.3</title>
+
+<script type="text/javascript" charset="utf-8" src="js\jquery-1.11.1.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="js\aleajn.js"></script>
+<script type="text/javascript" charset="utf-8" src="js\main.js"></script>
+
+
+
+
+<link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" charset="utf-8" href="assets\jnaleagen.css">
+
+<script type="text/javascript">
+	
+	var lista = [];
+	var nombres = [];
+	var markov = {};
+	var modo = 0;
+	var resultado = 0;
+	var panico = 0;
+	var nmbelec = 0;
+	var tramaPersonaje = aleajn.load("csv/trama_personajes.csv");
+	var tramaObjeto = aleajn.load("csv/trama_objetos.csv");
+	var tramaAccion = aleajn.load("csv/trama_acciones.csv");
+	var tramaComplicacion = aleajn.load("csv/trama_complicaciones.csv");
+	var cpClase = aleajn.load("csv/claseprestigio_clase.csv");
+	var cpAdjetivo = aleajn.load("csv/claseprestigio_adjetivo.csv");
+	var cpObjeto = aleajn.load("csv/claseprestigio_objeto.csv");
+	var pj1raza = aleajn.load("csv/pj_1raza.csv");
+	var pj2origen = aleajn.load("csv/pj_2origen.csv");
+	var pj3infancia = aleajn.load("csv/pj_3infancia.csv");
+	var pj4juventud = aleajn.load("csv/pj_4juventud.csv");
+	var pj5porello = aleajn.load("csv/pj_5porello.csv");
+	var pj6persigue = aleajn.load("csv/pj_6persigue.csv");
+	var pj7loquepersigue = aleajn.load("csv/pj_7loquepersigue.csv");
+	var dungeonUso = aleajn.load("csv/dungeon_uso.csv");
+	var dungeonEvento = aleajn.load("csv/dungeon_evento.csv");
+	var dungeonObjeto = aleajn.load("csv/dungeon_objeto.csv");
+
+$(document).ready(function() {
+	 
+	console.log("Iniciando");
+	//Iniciar("csv/jnaleagen2_20151116.csv", ";");
+	//MarkovInit("csv/jnaleagen2_nombres_20150411.csv", ";");
+
+	
+	$("#btnLimpiar").click( function () {
+		$("#texto").text("Sólo el vacío");
+	});
+	
+	$("#btnLanzar").click( function(){
+		modo = ComprobarModo();
+		modonmb = ComprobarModoNombre();
+		resultado = Generar(modo,modonmb);
+		$("#texto").html( resultado );
+	});
+	
+	$("#btnPanico").click( function(){
+		$("#camuflage").html('<iframe style="width: 100%; height: 1700px;" src="fakesite/fakeservice.html"/>');
+		$("#global").hide();
+		document.title = "EEAP Public Map Services";
+	});
+	
+	$("#btnIncognito").click( function(){
+		$("#camuflage").html('<iframe style="width: 100%; height: 1700px;" src="fakesite/fakeservice.html"/>');
+		document.title = "EEAP Public Map Services";
+	});
+	
+	$("#select1").change( function(){
+		var opt = $("#select1 option:selected").val();
+		console.log(opt);
+		if ( opt == "Nombres" ){
+			$("#selectnom").css('visibility', 'visible');
+		}
+		else {
+			$("#selectnom").css('visibility', 'hidden');
+		}
+	});
+	
+
+	$('#btnEmbeber').click(function() {
+		window.prompt("Copiar al portapapeles: Ctrl+C, Enter", '<iframe width="600px" height="500px" src="http://jaimenieves.aleagen.s3-website-eu-west-1.amazonaws.com/"></iframe>');
+	});
+	
+});
+
+    
+</script>
+
+
+</head>
+
+
+<body>
+
+	<div id="camuflage" class="camuflage"></div>
+	<div id="global">
+		<div class="header" id="header"></div>
+		<div id="main" class="main">
+
+			<div id="genSelect">
+				<select id="select1" class="miSelect">
+					<option value="Nada" selected> -- Elige una opción -- </option>
+					<option value="Trama">Trama</option>
+					<option value="Prestigio">Clase de Prestigio</option>
+					<option value="Personaje">Personaje</option>
+					<option value="Dungeon">Sala de Dungeon</option>
+					<!--<option value="Gancho" >Gancho</option>
+					<option value="Motivacion">Motivación</option>
+					<option value="Personaje">Personajes</option>
+					<option value="Cuentos">Cuentos</option>
+					<option value="Trampas">Trampas</option>
+					<option value="Dungeon">Dungeon</option>
+					<option value="Simbolo">Símbolos</option>
+					<option value="Deidad">Deidades</option>
+					<option value="Taberna">Tabernas</option>
+					<option value="Objeto">Objeto o lugar fantástico</option>
+					<option value="Leyenda">Leyendas</option>
+					<option value="Frases">Frases</option>
+					<option value="Pocion">Pociones</option>
+					<option value="Lugar">Lugares interesantes</option>
+					<option value="Nombres">Nombres</option>-->
+				</select>
+				<select id="selectnom" style="visibility: hidden; width: 220px;" class="miSelect">
+					<option value="1" selected>Forgotten Realms - Hombre</option>
+					<option value="2">Forgotten Realms - Mujer</option>
+					<option value="3">Forgotten Realms - Elfo (hombre)</option>
+					<option value="4">Forgotten Realms - Elfo (mujer)</option>
+					<option value="5">Forgotten Realms - Enano (hombre) </option>
+					<option value="6">Forgotten Realms - Enano (mujer)</option>
+					<option value="7">Forgotten Realms - Drow (hombre)</option>
+					<option value="8">Forgotten Realms - Orco o Trasgoide</option>
+					<option value="9">Artúrico</option>
+					<option value="10">Tolkien - Black Speech</option>
+					<option value="11">Tolkien - Común</option>
+					<option value="12">Tolkien - Kuzdûl</option>
+					<option value="13">Tolkien - Sindarin</option>
+					<option value="14">Vikingo</option>
+					<option value="15">Inglés</option>
+					<option value="16">Irlandés</option>
+					<option value="17">Irlandés (apellidos)</option>
+					<option value="18">Hispánico</option>
+					<option value="19">Egipcio</option>
+					<option value="20">Asirio</option>
+					<option value="21">Bíblico</option>
+					<option value="22">Persa</option>
+					<option value="23">Francos - Masculino</option>
+					<option value="24">Francos - Femenino</option>
+					<option value="25">Demonios</option>
+					<option value="26">LCN - Andelon - Masculino</option>
+					<option value="27">LCN - Andelon - Femenino</option>
+					<option value="28">LCN - Andelon - Lugares</option>
+					<option value="29">LCN - Treste - Masculino</option>
+					<option value="30">LCN - Treste - Femenino</option>
+					<option value="31">LCN - Treste - Lugares</option>
+					<option value="32">LCN - Treste - Apellidos</option>
+					
+				</select>
+			</div>
+			<br>
+			<div id="buttonsArea">
+				<input class="boton" type="button" id="btnLanzar" value="Generar"></input>
+				<input class="boton" type="button" id="btnLimpiar" value="Limpiar"></input>
+
+			</div>
+			<br>
+			<p class="texto" id="texto">Sólo el vacío</p>
+
+		</div>
+		<div class="footer">
+			<input class="boton2" type="button" id="btnPanico" value="Pánico"></input>
+			<input class="boton2" type="button" id="btnIncognito" value="Incógnito"></input>
+			<input class="boton2" type="button" id="btnEmbeber" value="Embeber"></input>
+		</div>
+
+	</div>
+
+</body>
+
+
