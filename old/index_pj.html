@@ -1,0 +1,229 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Creador de PJs</title>
+
+<script type="text/javascript" charset="utf-8" src="js/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="js/aleajn.js"></script>
+<script type="text/javascript" charset="utf-8" src="js/mainpj.js"></script>
+
+<link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" type="text/css" charset="utf-8" href="assets/jnaleagen.css">
+
+<script type="text/javascript">
+
+	var resultado = "";
+	var motivacionPrincipal = aleajn.load("csv/pj/motivacion_principal.csv");
+	var conector = aleajn.load("csv/pj/conector.csv");
+	var motivacionPrincipalEx = aleajn.load("csv/pj/motivacion_principal_ex.csv");
+	var tendenciaEmocional = aleajn.load("csv/pj/tendencia_emocional.csv");
+	var estabilidadCaracter = aleajn.load("csv/pj/estabilidad_caracter.csv");
+	var estabilidadCaracterEx = aleajn.load("csv/pj/estabilidad_caracter_ex.csv");
+	var visionMundo = aleajn.load("csv/pj/vision_mundo.csv");
+	var integridad = aleajn.load("csv/pj/integridad.csv");
+	var impulsividad = aleajn.load("csv/pj/impulsividad.csv");
+	var valor = aleajn.load("csv/pj/valor.csv");
+	var trato = aleajn.load("csv/pj/trato.csv");
+	var relaciones = aleajn.load("csv/pj/relaciones.csv");
+	var comportamiento = aleajn.load("csv/pj/comportamiento.csv");
+	var sentidoHumor = aleajn.load("csv/pj/sentido_humor.csv");
+	var conversacion = aleajn.load("csv/pj/conversacion.csv");
+	var aficionesHobbies = aleajn.load("csv/pj/aficiones_hobbies.csv");
+	var religionMilitancia = aleajn.load("csv/pj/religion_militancia.csv");
+	var religionTolerancia = aleajn.load("csv/pj/religion_tolerancia.csv");
+	var religionExpresion = aleajn.load("csv/pj/religion_expresion.csv");
+	var religionProselitismo = aleajn.load("csv/pj/religion_proselitismo.csv");
+	var religionActitud = aleajn.load("csv/pj/religion_actitud.csv");
+	var religionAsociacion = aleajn.load("csv/pj/religion_asociacion.csv");
+	var manias = aleajn.load("csv/pj/manias.csv");
+	var profesion = aleajn.load("csv/pj/profesion.csv");
+	
+	var cpClase = aleajn.load("csv/claseprestigio_clase.csv");
+	var cpAdjetivo = aleajn.load("csv/claseprestigio_adjetivo.csv");
+	var cpObjeto = aleajn.load("csv/claseprestigio_objeto.csv");
+	
+	$(document).ready(function() {
+		$("#btnLanzar").click( function(){
+		
+			var prestigio = aleajn.title(aleajn.choose(cpClase));
+			prestigio += " " + aleajn.choose(cpClase);
+			if (aleajn.d20(10)){ 
+				prestigio += " " + aleajn.choose(cpObjeto); 
+			} else { 
+				prestigio += " " + aleajn.choose(cpAdjetivo); 
+			}
+			$("#texto").html( "<b><i>" + prestigio + "</b></i>" );
+			$("#texto").css( 'visibility', 'visible' );
+			
+			
+			var miMotivacion = aleajn.chooseTwo(motivacionPrincipal,motivacionPrincipalEx);
+			$("#motivacionPrincipal").html( miMotivacion[0] + " <i>(" + aleajn.choose(conector) + " " + miMotivacion[1] + ")</i>" );	
+			
+			$("#tendenciaEmocional").html( aleajn.cap(aleajn.choose(tendenciaEmocional)) + "." );
+			
+			var miEstabilidad = aleajn.chooseTwo(estabilidadCaracter,estabilidadCaracterEx);
+			$("#estabilidadCaracter").html( aleajn.cap(miEstabilidad[0]) + " <i>(" + miEstabilidad[1] + ")</i>" );
+			
+			$("#visionMundo").html( aleajn.cap(aleajn.choose(visionMundo)) + "." );
+			$("#integridad").html( aleajn.cap(aleajn.choose(integridad)) + "." );
+			$("#impulsividad").html( aleajn.cap(aleajn.choose(impulsividad)) + "." );
+			$("#valor").html( aleajn.cap(aleajn.choose(valor)) + "." );
+			$("#trato").html( aleajn.cap(aleajn.choose(trato)) + "." );
+			$("#relaciones").html( aleajn.cap(aleajn.choose(relaciones)) + "." );
+			$("#comportamiento").html( aleajn.cap(aleajn.choose(comportamiento)) + "." );
+			$("#sentidoHumor").html( aleajn.cap(aleajn.choose(sentidoHumor)) + "." );
+			$("#conversacion").html( aleajn.cap(aleajn.choose(conversacion)) + "." );
+			$("#aficionesHobbies").html( aleajn.cap(aleajn.choose(aficionesHobbies)) + "." );
+			$("#religionMilitancia").html( aleajn.cap(aleajn.choose(religionMilitancia)) + "." );
+			$("#religionTolerancia").html( aleajn.cap(aleajn.choose(religionTolerancia)) + "." );
+			$("#religionExpresion").html( aleajn.cap(aleajn.choose(religionExpresion)) + "." );
+			$("#religionProselitismo").html( aleajn.cap(aleajn.choose(religionProselitismo)));
+			$("#religionActitud").html( aleajn.cap(aleajn.choose(religionActitud)) + "." );
+			$("#religionAsociacion").html( aleajn.cap(aleajn.choose(religionAsociacion)) + "." );
+			$("#manias").html( aleajn.cap(aleajn.choose(manias)) + "." );
+			$("#profesion").html( aleajn.cap(aleajn.choose(profesion)) + "." );
+			
+			
+			//$("#aficionesHobbies").css('visibility', 'hidden');
+			
+			
+		});
+	});
+</script>
+
+</head>
+
+
+<body>
+<div id="global">
+	<div class="header" id="header"></div>
+		<div id="main" class="main" style="height: 800px;">
+			<div>
+				<p class="textTitle">Constructor de PJs</p>
+				<p class="textSubTitle"><i>El creador definitivo de personajes aleatorios.</i></p>
+			</div>
+			<br>
+			
+			<div>
+				<input class="boton" type="button" id="btnLanzar" value="Generar"></input>
+				<input class="casilla" type="checkbox" name="modoSimple" value="Modo sencillo"><a style="font-size: 12px;">Modo sencillo</a><br>
+			</div>
+			<br>
+			
+			
+			<p class="texto" style="font-size: 16px; visibility: hidden;" id="texto">Sólo el vacío</p>
+			
+			<table>
+				<tr>
+					<th style="width: 240px;"><b>Motivación principal:</b></th>
+					<th id="motivacionPrincipal">Nada</th>
+				</tr>
+			</table>
+			
+			<br>
+			
+			<table>
+				<tr>
+					<th style="width: 240px;"><b>Tendencia emocional:</b></th>
+					<th id="tendenciaEmocional">Nada</th>
+				</tr>
+				<tr>
+					<th style="width: 240px;"><b>Estabilidad de carácter:</b></th>
+					<th id="estabilidadCaracter">Nada</th>
+				</tr>
+			</table>
+			
+			<br>
+			
+			<table>
+				<tr>
+					<th style="width: 240px;"><b>Visión del mundo:</b></th>
+					<th id="visionMundo">Nada</th>
+				</tr>
+				<tr>
+					<th style="width: 240px;"><b>Integridad:</b></th>
+					<th id="integridad">Nada</th>
+				</tr>
+				<tr>
+					<th style="width: 240px;"><b>Impulsividad:</b></th>
+					<th id="impulsividad">Nada</th>
+				</tr>
+				<tr>
+					<th style="width: 240px;"><b>Valentía:</b></th>
+					<th id="valor">Nada</th>
+				</tr>
+				<tr>
+					<th style="width: 240px;"><b>Trato con los demás:</b></th>
+					<th id="trato">Nada</th>
+				</tr>
+				<tr>
+					<th style="width: 240px;"><b>En las relaciones con otros:</b></th>
+					<th id="relaciones">Nada</th>
+				</tr>
+				<tr>
+					<th style="width: 240px;"><b>Comportamiento social:</b></th>
+					<th id="comportamiento">Nada</th>
+				</tr>
+				<tr>
+					<th style="width: 240px;"><b>Sentido del humor:</b></th>
+					<th id="sentidoHumor">Nada</th>
+				</tr>
+				<tr>
+					<th style="width: 240px;"><b>Tema favorito de conversación:</b></th>
+					<th id="conversacion">Nada</th>
+				</tr>
+				<tr>
+					<th style="width: 240px;"><b>Una afición:</b></th>
+					<th id="aficionesHobbies">Nada</th>
+				</tr>
+			</table>	
+				<br>
+			<table>	
+				<tr>
+					<th style="width: 240px;"><b>Religión:</b></th>
+					<th id="religionMilitancia">Nada</th>
+				</tr>
+				<tr>
+					<th style="width: 240px;"><b>Expresión de su fe:</b></th>
+					<th id="religionExpresion">Nada</th>
+				</tr>
+				<tr>
+					<th style="width: 240px;"><b>Tendencia a adoctrinar:</b></th>
+					<th id="religionProselitismo">Nada</th>
+				</tr>
+				<tr>
+					<th style="width: 240px;"><b>Actitud hacia la religión:</b></th>
+					<th id="religionActitud">Nada</th>
+				</tr>
+				<tr>
+					<th style="width: 240px;"><b>Asociación religiosa:</b></th>
+					<th id="religionAsociacion">Nada</th>
+				</tr>
+			</table>	
+				<br>
+			<table>		
+				<tr>
+					<th style="width: 240px;"><b>Manía:</b></th>
+					<th id="manias">Nada</th>
+				</tr>
+				<tr>
+					<th style="width: 240px;"><b>Profesión:</b></th>
+					<th id="profesion">Nada</th>
+				</tr>
+			</table>
+			
+			<div class="footer">
+				<br><br>
+				<a style="font-size:9px;" href="http://www.jaimenieves.es">Jaime Nieves, 2017</a>
+			</div>
+		</div>
+		
+</div>
+
+
+
+</body>
+
+

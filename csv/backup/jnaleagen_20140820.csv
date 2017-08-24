@@ -1,0 +1,452 @@
+﻿Medieval - Taberna - Nombre;Medieval - Taberna - Adjetivo;Medieval - Personaje;Medieval - Acción;Medieval - Lugar;Medieval - Objeto;Medieval - Evento;Medieval - Criatura;Medieval - Organización;Medieval - Personaje - Carácter;Medieval - Personaje - Aspecto;medieval - personaje - especial;Medieval - Nombre;Medieval - Adjetivo;Medieval -Acción;Cuentos de hadas - Personaje;Cuentos de hadas - Acción;Cuentos de hadas - Objeto;Cuentos de hadas - Resultado;Trampas - Elemento;Trampas - Acción;Trampas - Desencadenante;Dungeon - Objeto;Dungeon - Evento
+El abad;Aceitoso;Abogado;Abandonar;Acantilado;Abalorio;Abandono;Aberración;Academia;aburrido;es alto;a la hora de pagar, siempre se dejó la bolsa en casa;aberración;abandonado;acampar;Actor;Adora;Aguja;debe huir;Derrumbamiento;Aplastar;Cerradura;un tesoro (falso);se oyen ruidos extraños
+El acólito;Achispado;Acólito;Abrasar;Aguja;Aceite;Accidente;Abolez;Aldea;acelerado;es ancho de caderas;adora a su hermanita;acantilado;abandonado;acercarse;Adivino;Ambiciona;Agujero;se casa;Terremoto;Cortar;Baldosa;un tesoro;se oyen ruidos fantasmales
+El adivino;Acogedor;Actor;Abrir;Agujero;Acero;Acertijo;Abominación;Arcanos;afable;es ancho de espaldas;adora en secreto a una deidad prohibida;aceite;acuático;activar;Alquimista;Asalta;Alacena;se salva;Aguja;Ahorcar;Hilo;una vasija;se oyen gruñidos
+El agua;Adormilado;Adepto;Acampar;Albergue;Ácido;Acuerdo de paz;Ahogador;Aristocracia;afeminado;es bajo;ama a su madre;acequia;adinerado;adivinar;Ángel;Asesina;Alcoba;muere;Veneno;Asfixiar;Cofre;una lámpara;se oyen voces
+El alcázar;Afilado;Adiestrador;Acechar;Alcantarillas;Adamantita;Adivinación;Ajeno;Asociación;agradable;es barbilampiño;apesta a sudor;acero;afortunado;afectar;Arpía;Atrae;Alfombra;descubre la verdad;Gas;Envenenar;Luz;un trono;hay una ilusión
+El ancla;Ahumado;Adinerado;Aconsejar;Alcázar;Agua;Advertencia;Ángel;Ayuntamiento;ahorrativo;es barbudo;cecea;acertijo;agresivo;alimentar;Astrólogo;Baila;Almena;es derrotado;Lava;Debilitar;Presión;sillas;hay un efecto mágico
+El arado;Alado;Adivino;Acordar;Alcoba;Agua;Alarma;Animado;Banda;alborotador;es barrigudo;conoce a todo el mundo;acólito;alado;alterar;Aventurero;Bebe;Arado;regresa;Bola de fuego;Herir;Ruido;una mesa;hay alguien escondido
+El árbol;Alegre;Adorador;Activar;Aldea;Agujero;Alerta;Animal;Batallón;alegre;es bigotudo;conoce muchos chismorreos;adamantita;alquímico;amenazar;Bailarín;Besa;Árbol;queda embrujado;Lengua de fuego;Lanzar;Columna;un escudo;hay alguien acechando
+El arco;Amarillo;Agricultor;Acusar;Almacén;Alma;Alineamiento planetario;Animal terrible;Cábala;alocado;es bizco;conoce un secreto de alguien;adepto;altanero;aparecer;Bárbaro;Busca;Bandera;lo encuentra;Flecha;Convocar;Altar;una espada;hay telarañas
+El arco;Ambarino;Ajeno;Adivinar;Almena;Amuleto;Amenaza;Ankheg;Caballería;altanero;es cabezón;dice conocer a alguien famoso;adiestrador;alto;aprender;Bardo;Canta;Barco;aprende;Dardo;Teleportar;Puerta;un nicho;hay mucho polvo
+El arcón;Ardiente;Albacea;Advertir;Altar;Anillo;Aniversario;Aranea;Caravana;altivo;es cadavérico;duerme demasiado;adivinación;ambicioso;aproximarse;Bruja;Captura;Boda;se suicida;Lanza;Desintegrar;Bisagra;una tumba;está todo sucio
+El armario;Árido;Alcalde;Ahuyentar;Antiguo;Antorcha;Apertura;Araña;Casa;altruísta;es calvo;es abstemio;adivinanza;ancestral;asesinar;Brujo;Casa;Bordado;lo pierde;Bola de roca;Desmembrar;Tapa;una trampilla ;está todo roto
+El armario;Aromático;Alguacil;Aliarse;Ara;Aparato;Asedio;Archidemonio;Ciudad;amistoso;es calvo;es adicto a alguna droga;advertencia;anciano;asolar;Bufón;Caza;Bosque;lo olvida;Caída de peso;Decapitar;Agujero;un círculo de convocación;está todo viejo
+El arnés;Asado;Aliado;Alimentar;Arboleda;Árbol;Asesinato;Archidiablo;Clan;animoso;es canoso;es adorador de un dios pagano;agricultor;antiguo;atacar;Caballero;Ciñe;Buhardilla;lo recuerda;Foso;Arrastrar;Hongo;un rastrillo;está todo en ruinas
+El arpa;Astado;Alquimista;Alterar;Arena;Arbusto;Ataque;Arconte;Clandestinidad;antisociable;es cargado de hombros;es aficionado al deporte;agua;arcano;atemorizar;Cazador;Cocina;Cadáver;llega a ser rey;Estacas;Atraer;Botón;una palanca;hay una trampa
+El arpón;Asustado;Ambicioso;Alzar;Arrecife;Arcano;Auge;Arpía;Clero;apagado;es cejijunto;es aficionado al licor;águila;arrasado;atontar;Cocinero;Colecciona;Cama;triunfa;Monstruo;Arrojar;Palanca;una máquina que no funciona;está protegido
+El asado;Avaro;Amigo;Ambicionar;Atalaya;Arco;Auxilio;Azotamentes;Colonia;apasionado;es ceñudo;es amante del arte;agujero;artesanal;atrapar;Comediante;Come;Campo;fracasa;Caída;Clavar;Gema;un portal, pero está cerrado;hay un guardián
+El ataúd;Avinagrado;Anciano;Amenazar;Avenida;Arena;Baile;Bandido;Comando;aplicado;es cetrino;es apasionado de la música;aire;asustado;auxiliar;Condenado;Compra;Castillo;es olvidado;Abrojos;Destruir;Moneda;un portal abierto a otro plano;los objetos se animan
+El barco;Azul;Animal de granja;Anunciar;Bajos fondos;Arma;Banquete;Basilisco;Compañía;aprensivo;es cojitranco;es ateo;albergue;ateo;averiguar;Conquistador;Conjura;Catacumba;es desterrado;Hoja;Romper;Joya;un teleportador;hay una neblina
+El barril;Bailarín;Antepasado;Apaciguar;Banco;Armadura;Batalla;Behir;Congregación;arrogante;es corpulento;es bueno consiguiendo cosas;alcantarilla;aterrado;ayudar;Cuervo;Conquista;Cementerio;vive en paz;Filo;Abrir;Bajorrelieve;un acertijo;hay una maldición
+El basilisco;Barbudo;Archimago;Aparecer;Baños;Artefacto;Broma;Bersérker;Consejo;asustadizo;es desdentado;es caluroso;alcázar;avaro;buscar;Demonio;Conspira;Círculo mágico;tiene un hijo;Sierra;Cerrar;Puerta secreta;un mecanismo que no funciona;los monstruos rondan cerca
+El bastardo;Bienvenido;Armero;Aprender;Barbacana;Artilugio;Cacería;Bestia;Conspiración;atrevido;es desgarbado;es cantarín;aldea;bajo;cabalgar;Dragón;Construye;Cocina;derrota a su enemigo;Soga;Atrapar;Cortinas;un mecanismo con trampa;los monstruos murieron aquí
+El bastón;Bizco;Arquero;Apresar;Barco;Báculo;Caída;Bestia barbotante;Criminales;autoritario;es elegante;es ciego;alma;bárbaro;caminar;Duende;Convoca;Códice;escapa;Cuerda;Congelar;Baúl;un mecanismo que hace algo;unos aventureros murieron aquí
+El baúl;Blanco;Artesano;Aproximarse;Barracones;Bandera;Calamidad;Breza movediza;Dinastía;avaricioso;es enano;es cojo;almacén;bonachón;capturar;Embustero;Cuida;Cometa;huye;Hilo;Calentar;Arcón;una palanca que no hace nada;hubo una batalla
+El bosque;Borracho;Artista;Arañar;Barriada;Baraja;Calor;Brujo;Ejército;ávido;es encogido;es cursi;alquimia;bondadoso;cargar;Emperador;Da a luz;Conjuro;se esconde;Sedal;Quemar;Arcada;un botón que activa una trampa;huele raro
+El caballo;Borroso;Asmodeo;Arrancar;Barricada;Barca;Cambio de estación;Bugbear;Embajada;bárbaro;es encorvado;es de familia humilde;alquimista;bromista;cegar;Errante;Decreta;Corona;;Piedras;Abrasar;Silla;un botón que activa una alarma;huele a podrido
+El camino;Brillante;Astrólogo;Arriesgar;Barrio;Barcaza;Campeonato;Caballero de la muerte;Empresa;basto;es enjuto;es de familia noble;amuleto;brutal;coger;Escudero;Desafía;Cuerda;;Rocas;Freír;Trono;un botón que abre algo;algo se oculta en las sombras
+El campo;Brumoso;Avatar;Asegurar;Barrio aristocrático;Barco;Captura;Calavera;Esclavos;bonachón;es fibroso;es duro de oído;anillo;bueno;combatir;Explorador;Descubre;Cueva;;Rampa;Escaldar;Butaca;un botón inútil;algo está invisible
+El castillo;Burlado;Aventurero;Asesinar;Barrios bajos;Barril;Carnaval;Cambiaformas;Escuadra;bondadoso;es fornido;es el alma de la fiesta;animal;calvo;comentar;Fantasma;Destierra;Decreto;;Tobogán;Corroer;Orbe;una cama;la gravedad funciona raro
+El catalejo;Cálido;Bailarina;Asustar;Bastión;Bastón;Carrera;Cambion;Escuela;bribón;es fuerte;es el más guapo del barrio;antorcha;caótico;cometer;Gallina;Destruye;Diadema;;Trampolín;Espolvorear;Corona;un dosel;los objetos levitan
+El cayado;Cerrado;Bandido;Atacar;Bosque;Baúl;Castigo divino;Celestial;Familia;brillante;es gordo;es enamoradizo;aparición;celestial;comprar;Gato;Dirige;Encantamiento;;Peso;Tirar;Celda;un pozo;el techo puede derrumbarse
+El centeno;Ciego;Bandolero;Atraer;Buhardilla;Bebedizo;Catástrofe;Centauro;Fanáticos;bruto;es grueso;es excesivamente cortés;árbol;cercano;confundir;Genio;Duerme;Enredadera;;Rastrillo;Sellar;Llave;un foso;el suelo puede ceder
+El cetro;Cocinado;Bárbaro;Atrapar;Burdel;Bisturí;Celebración religiosa;Cíclope;Flota;caballeroso;es imberbe;es excesivamente suspicaz;arboleda;ciego;conjurar;Granjero;Encanta;Escudo;;Glifo custodio;Caer;Mecanismo;unas estacas;todo está ordenado
+El cincel;Cojo;Bardo;Auxiliar;Cabaña;Botas;Chantaje;Cieno;Gobierno;callado;es jorobado;es fácilmente influenciable;arcón;cojo;conocer;Guardián;Encuentra;Espada;;Palabra de poder;Soltar;Cuerda;un cadáver;todo está muy limpio
+El cinturón;Congelado;Barquero;Averiguar;Cabaret;Brazalete;Circo;Coatl;Gremio;calmado;es larguirucho;es fervorosamente religioso;aristócrata;comercial;conspirar;Guerrero;Enferma;Espejo;;Otro plano;Corromper;Cadena;una máscara;todo parece algo que no es
+El clavo;Cornudo;Bribón;Ayudar;Calabozo;Brebaje;Coacción;Cobrador;Grupo;carismático;es malencarado;es friolero;arma;comprometido;constuír;Hada;Engaña;Estrella;;Otro lugar;Enfermar;Magia;un bajorrelieve;una ilusión cubre la verdad
+El clavo;De acero;Brujo;Bucear;Callejón;Cabello;Colonización;Cocatriz;Guarnición;caritativo;es manco;es fumador;arma;condenado;contaminar;Hermana;Envenena;Evento;;Precipicio;Matar;Hueso;un altar;no hay salida
+El clérigo;De bronce;Bruto;Buscar;Cámara;Cadáver;Cometa;Coloso;Gueto;cauto;es moreno;es inexperto;armadura;congelado;contratar;Hermano;Envía;Flauta;;Esfera de aniquilación;Confundir;Mesa;un montón de agujeros;corre el viento
+El cofre;De cobre;Bufón;Cabalgar;Camino;Cadena;Competición;Constructo;Horda;celoso;es negro;es más joven de lo que parece;arquero;conjurador;controlar;Herrero;Escapa;Foso;;Agujero;Cambiar;Comida;cortinas;huele a comida
+El colchón;De cuero;Caballero;Caminar;Campamento;Caja;Compra;Contemplador;Iglesia;charlatán;es nervudo;es más sensible de lo que le gusta aparentar;arrecife;conocido;convocar;Huérfano;Escribe;Frasco;;Pozo;Sugestionar;Vial;muebles;es un lugar sacrílego
+El comensal;De fuego;Caballo;Castigar;Canal;Cáliz;Compulsión;Criatura interplanaria;Madre Iglesia;chistoso;es obeso;es más viejo de lo que aparenta;artefacto;contaminado;corromper;Inventor;Escucha;Fruta;;Picas;Obligar;Bebedizo;un escudo de armas;es un lugar sagrado
+El cubo;De hierro;Cambista;Cazar;Capilla;Canica;Concilio;Criatura marina;Mafia;cínico;es pálido;es mudo;artesano;convocador;crear;Ladrón;Estudia;Fuego;;Aceite;Dormir;Poción;una chimenea;puede llenarse de gas
+El cuchillo;De madera;Cantante;Cerrar;Cascada;Capa;Condena;Criatura sombría;Manada;circunspecto;es paticorto;es mujeriego;artista;corrupto;criticar;Madre;Fabrica;Granero;;Ácido;Emborrachar;Pergamino;instrumentos de torturas;puede inundarse
+El dado;De Mithril;Capitán;Chantajear;Castillo;Cargamento;Confusión;Demonio;Mercaderes;clemente;es pelirrojo;es otra criatura, polimorfada;asesinato;crucial;cuidar;Madrina;Gana;Granja;;Engranaje;Dejar inconsciente;Libro;cadenas colgando;atraerá la atención de los guardias
+El dardo;De oro;Carnicero;Clausurar;Catacumbas;Carne;Consejo;Derro;Mercado negro;cobardica;es peludo;es pulcro en el vestir;asesino;cruel;cultivar;Maestre;Golpea;Habitación;;Contrapeso;Alterar;Tomo;unas escaleras;alguien ha hecho unas marcas
+El diván;De piedra;Cartógrafo;Coger;Catarata;Cerebro;Conspiración;Destrachan;Mercenarios;codicioso;es pesado;es racista;asociación;culpable;decir;Mago;Hechiza;Hacha;;Cadena;Perder;Escalera;una cascada;alguien ha dejado un mensaje
+El dragón;Dorado;Chamán;Coleccionar;Catedral;Cesta;Construcción;Deva;Monasterio;comedido;es pulcro;es receloso ante la magia;autoridad;culto;decretar;Malabarista;Hiere;Hechizo;;Dama de hierro;Alejar;Bastón;una fuente;alguien ha dejado una advertencia
+El drow;Durmiente;Chambelán;Colocar;Caverna;Cetro;Contrabando;Diablo;Motín;compasivo;es regordete;es sobrenaturalmente atractivo;avatar;chiflado;defender;Mendigo;Huye;Hielo;;Púas;Esconder;Suelo;un charco;alguien ha dejado señales equívocas
+El elfo;Elevado;Chiflado;Colonizar;Celda;Chimenea;Coronación;Dinosaurio;Nobleza;comprensivo;es risueño;es sordo;aventura;débil;delinquir;Mercader;Imagina;Hilo;;Autómata;Mostrar;Techo;un lago;es fácil perderse
+El enano;En conserva;Ciego;Cometer;Cementerio;Cieno;Corrupción;Djinni;Opositores;compulsivo;es rubio;es sudoroso;aventurero;delgado;delirar;Mercenario;Inventa;Huevo;;Muerto viviente;Revelar;Pilares;estalactitas;es fácil coger el camino equivocado
+El engranaje;En salazón;Clérigo;Competir;Ciénaga;Cinturón;Cosecha;Doppelganger;Orden;confiado;es velludo;es un agente secreto del rey;ayuda;demoníaco;desafiar;Minero;Juega;Invento;;Jaula;Inundar;Paredes;estalagmitas;alguien ha quitado unas baldosas
+El escorpión;Enfadado;Cocinero;Comprar;Circo;Cofre;Crimen;Draco;Partida;conformista;es verrugoso;es un artesano aficionado;azotamentes;desaparecido;desaparecer;Monje;Lee;Jarra;;Paredes móviles;Quebrar;Foso;un pozo de levitación;alguien ha quitado algunas piedras de la pared
+El escribano;Escabechado;Comandante;Comprometer;Círculo mágico;Colgante;Culto;Dracoliche;Realeza;conspirador;está contrahecho;es un borrachuzo;bandido;desconocido;descifrar;Muerto;Lucha;Joya;;Techo aplastante;Desaparecer;Túnel;libros;el suelo cruje
+El escudo;Escabroso;Conde;Conducir;Ciudad;Collar;Cumpleaños;Dracónido;Rebeldes;cortés;está desaliñado;es un buen bailarín;bárbaro;descontrolado;descubrir;Músico;Mata;Lago;;Agua;Tropezar;Conducto;una varita;el suelo hace ruido al andar
+El espárrago;Espumoso;Condenado;Confundir;Ciudadela;Columna;Curación;Dragón;Resistencia;corto;está mutilado;es un buscador de bronca;barca;desgraciado;desear;Obispo;Muere;Lanza;;Rayo;Agachar;Corredor;un bastón;la puerta se cierra sola
+El esqueleto;Estival;Condesa;Congelar;Claro del bosque;Comida;Declaración de guerra;Draña;Secta;cotilla;está pelado;es un chismoso;barcaza;desierto;desestabilizar;Ogro;Navega;Laúd;;Frío;Saltar;Pasillo;un cetro;alguien perdió un objeto querido aquí
+El estofado;Frito;Consejero;Conseguir;Cloaca;Componente mágico;Defensa;Dríada;Senado;creativo;le falta una oreja;es un coleccionista;barco;desordenado;desintegrar;Padre;Pacta;Libro;;Agua hirviendo;Hundir;Alfombra;papeles;alguien dejó sus cosas aquí
+El estribo;Furioso;Conspirador;Conspirar;Colina;Contrabando;Derrocamiento;Drow;Servidumbre;crédulo;lleva un pendiente;es un comilón;bardo;despistado;despertar;Paje;Persigue;Lira;;Ajeno;;Cama;pergaminos;hay una boca mágica
+El filete;Gélido;Contrabandista;Construir;Coliseo;Coral;Derrota;Duende;Soldadesca;creído;lleva un piercing;es un criminal convicto;barón;desterrado;despistar;Panadero;Pone;Lluvia;;Cieno;;Escritorio;una hoguera;hay una cámara escondida
+El fogón;Giratorio;Corrupto;Controlar;Comedor;Corona;Desaparición;Duérgar;Sublevados;criticón;lleva una prótesis;es un espíritu libre;barril;destruído;desterrar;Pegaso;Protege;Luz;;Esporas;;Pluma;un fuego;hay un agujero oculto
+El fraile;Hambriento;Criada;Convencer;Corredor;Cristal;Deseo;Elemental;Templo;cruel;luce un peinado extraño;es un fugitivo;bastón;devoto;destilar;Perro;Quema;Magia;;Alarma;;Lago;una imagen de un dios;hay un tesoro escondido
+El fuego;Harapiento;Criminal;Convertir;Costa;Cuadro;Desgracia;Ent;Tribu;cuentista;parece elástico;es un gorrón;bebedizo;diminuto;dibujar;Pescador;Quiere;Mar;;Ojo de mago;;Barca;una imagen de un demonio;alguien escondió algo aquí
+El gato;Humeante;Cuervo;Convocar;Cráter;Cuenco;Destierro;Escorpión;Tripulación;curioso;parece torpón;es un jugador compulsivo;bestia;divino;dispersar;Princesa;Recoge;Mazmorra;;Ilusión;;Estalactita;una estatua;el viento aúlla
+El gigante;Húmedo;Culpable;Correr;Cripta;Cuerno;Destrucción;Esfinge;Tropa;curtido;se afeita con perilla;es un líder vocacional;biblioteca;dorado;dominar;Príncipe;Recompensa;Monedas;;Compulsión;;Estalagmita;jarrones;todo está oscuro
+El gladiador;Iluminado;Cultista;Corroer;Cubil;Daga;Disturbios;Espectro;Universidad;dadivoso;tiene arrugas profundas;es un ligón;bosque;elemental;dormir;Prometida;Recorre;Montaña;;Transmutación;;;una escalera de caracol;hay una oscuridad mágica
+El gnomo;Invernal;Curandero;Corromper;Cueva;Diadema;Eclipse;Esqueleto;Vecindad;de buen corazón;tiene barba de tres días;es un malhablado;bosquecillo;embrujado;edificar;Prometido;Recupera;Mosaico;;Encantamiento;;;ventanas;hay un silencio mágico
+El granjero;Jocoso;Deidad;Cortar;Cúpula;Diente;Edicto;Estirge;;de corazón duro;tiene barba larga;es un maniático;botas;encantado;eliminar;Prostituta;Reina;Música;;Hechizo;;;una vidriera;hay una luz mágica
+El grifo;Jugoso;Demogorgon;Cultivar;Desierto;Droga;Ejecución;Ettercap;;de palabra;tiene barba poblada;es un mentiroso;brebaje;enfermo;encontrar;Protector;Reza;Nube;;Fantasma;;;un órgano;hay demasiada luz
+El guante;Latente;Desconocido;Dar a luz;Despacho;Edicto;Elecciones;Ettin;;decidido;tiene barbilla prominente;es un mocoso;bruja;enigmático;enfermar;Rana;Rige;Oro;;Insectos;;;un instrumento musical;se oye correr el agua
+El guerrero;Lisiado;Desertor;Decidir;Destilería;Emblema;Embrujamiento;Extraplanario;;dedicado;tiene buena planta;es un novato;bruma;enorme;engañar;Ratón;Sana;Oscuridad;;Vacío;;;un arcón cerrado;es un lugar de locura
+El hacha;Lleno;Devoto;Declarar;Embalse;Escama;Enfermedad;Fantasma;;dejado;tiene cicatrices;es un opositor al régimen;búho;entrerrado;engullir;Reina;Secuestra;Pajar;;Alma;;;un baúl cerrado;alguien controla las mentes
+El hada;Mágico;Diabolista;Defender;Enclave;Escudilla;Engaño;Felino;;depravado;tiene dedos de más;es un pelmazo;buque;envenenado;enloquecer;Rey;Sueña;Palacio;;Cepo;;;un baúl abierto;alguien ha hecho de esto su hogar
+El hogar;Manco;Dios;Delinquir;Encrucijada;Escudo;Enigma;Firbolg;;depresivo;tiene dedos de menos;es un piropeador;caballero;erudito;ensordecer;Sabio;Traiciona;Paso;;Abismo;;;un arcón abierto;es la guarida de una criatura
+El horno;Maravilloso;Diplomático;Delirar;Erial;Escultura;Enterramiento;Fomoriano;;derrochador;tiene dientes afilados;es un practicante de religión minoritaria;caballo;esclavo;enterrar;Salvaje;Trepa;Perfume;;Lodo;;;un armario con ropa;aquí intersecan muchos caminos
+El jergón;Marcado;Doctor;Demostrar;Escalera;Esfera;Envenenamiento;Fuego fatuo;;derrotista;tiene dientes de conejo;es un quejica;cabra;escondido;entrar;Secuestrador;Vence;Pergamino;;Arenas movedizas;;;barriles de vino;aquí acaba el camino
+El ladrón;Mareado;Druida;Desaparecer;Escollos;Espada;Epidemia;Gárgola;;descarado;tiene dientes de oro;es un rebelde sin causa;cacería;espeso;envenenar;Serpiente;Vende;Plata;;;;;barriles con agua;parece un callejón sin salida, pero…
+El lagarto;Melancólico;Duque;Descifrar;Escondite;Especias;Erupción volcánica;Genasi;;descortés;tiene dientes grandes;es un sobón;cadáver;etéreo;enviar;Sirena;Viaja;Plato;;;;;viales;en realidad nada es lo que parece
+El lago;Meridional;Duquesa;Descubrir;Escondrijo;Espejo;Escaramuza;Genio;;descuidado;tiene dientes podridos;es un tipo duro;calamidad;excéntrico;esclavizar;Soldado;Vigila;Poción;;;;;un laboratorio;todo parece inofensivo
+El látigo;Montañoso;Electo;Desear;Establos;Espora;Esclavitud;Ghoul;;desdeñoso;tiene el pelo castaño;es un viajero interplanario;calor;exquisito;escoltar;Traidor;Viste;Pozo;;;;;un frasco de veneno;todo parece peligroso
+El laúd;Mudo;Elfo;Desestabilizar;Estadio;Esqueleto;Estado de pánico;Gigante;;desgarbado;tiene el pelo corto;es un zalamero;camino;extranjero;esconder;Troll;Vuela;Puente;;;;;un juego de cartas;todo tiene trampas
+El león;Negro;Embajador;Despertar;Estudio;Estandarte;Esterilidad;Githerai;;desmedido;tiene el pelo cuidado;es veterano en mil batallas;camorrista;extraño;escribir;Unicornio;;Río;;;;;unas misivas;todo está encantado
+El libro;Nevado;Emperador;Desterrar;Excavación;Estatua;Evento astronómico;Githyanki;;desordenado;tiene el pelo ensortijado;esinmigrante;campamento;extraplanario;establecerse;Usurero;;Saco;;;;;un escritorio;todo está maldito
+El limón;Noble;Enano;Destilar;Fábrica;Estrella;Excavación;Gnoll;;despectivo;tiene el pelo grasiento;está afectado por magia;campo;extravagante;estar;Usurpador;;Salón;;;;;una poción;todo es corriente
+El luchador;Norteño;Enemigo;Destruir;Fondo;Filacteria;Expansión;Gnomo;;despilfarrador;tiene el pelo hirsuto;está aquejado de algún tipo de locura;canal;extremista;estudiar;Verdugo;;Sangre;;;;;armas;está todo impregnado de aceite
+El mago;Nublado;Enviado;Diseñar;Fortaleza;Flecha;Expedición;Goblin;;despistado;tiene el pelo lacio;está enamorado de alguien importante;capa;FALSO;excavar;Visir;;Seda;;;;;una armadura;está todo cubierto de ceniza
+El maíz;Occidental;Ermitaño;Disfrazarse;Fosa;Flor;Experimento;Gólem;;despreciable;tiene el pelo largo;está fascinado por la magia;capitán;familiar;exigir;Zapatero;;Suelo;;;;;lanzas;está todo cubierto de polvo
+El mar;Oriental;Erudito;Dormir;Fuente;Forja;Exploración;Grell;;dialogante;tiene el pelo liso;está interesado en algún tipo de monstruo;cárcel;famoso;experimentar;;;Tapiz;;;;;provisiones;está todo cubierto de sangre
+El martillo;Oscuro;Esclavo;Edificar;Fuerte;Fórmula;Explosión;Grifo;;dicharachero;tiene el pelo muy largo;está maldito;cargamento;fanático;explorar;;;Tejado;;;;;cuerdas;
+El mediano;Otoñal;Escriba;Ejecutar;Galeón;Fuego;Expolio;Grimlock;;diplomático;tiene el pelo rizado;está recién salido de la cárcel;carne;fantasmal;explotar;;;Telar;;;;;lámparas;
+El mendigo;Oxidado;Escudero;Emerger;Géiser;Galeón;Falla;Gusano;;discreto;tiene el rostro picado de viruela;frecuentemente guiña el ojo;cartógrafo;fétido;expoliar;;;Tesoro;;;;;agua bendita;
+El mercenario;Pelado;Espadachín;Encarcelar;Glaciar;Ganzúa;Fenómeno atmosférico;Hada;;discutidor;tiene el tabique nasal roto;fue desheredado por su familia;casa;fiel;expulsar;;;Tiara;;;;;un relicario;
+El monje;Piadoso;Espía;Encerrar;Globo aerostático;Garras;Feria;Hidra;;distraído;tiene encías sangrantes;fue desterrado;castillo;flotante;exterminar;;;Tormenta;;;;;un mensaje;
+El murciélago;Plateado;Exarca;Encontrar;Granero;Gema;Fiesta popular;Hobgoblin;;divertido;tiene la boca grande;guarda un terrible secreto;catacumba;fugitivo;extraer;;;Torneo;;;;;lava;
+El naipe;Primaveral;Excéntrico;Enfrentar;Granja;Grilletes;Fiesta privada;Hombre-lagarto;;dócil;tiene la boca pequeña;habla demasiado;catástrofe;gordo;fabricar;;;Torre;;;;;barro;
+El necrófago;Prisionero;Exiliado;Enloquecer;Gremio;Guantelete;Firma de tratado;Hombre-lobo;;dogmático;tiene la cara alargada;habla demasiado despacio;catedral;grave;falsificar;;;Trampa;;;;;tierra;
+El nicho;Púrpura;Explorador;Enterrar;Grieta;Guantes;Frío;Hombre-rata;;dormilón;tiene la frente huidiza;habla mal de sus conocidos;caverna;hechizado;fingir;;;Túnel;;;;;goteras;
+El ogro;Real;Extranjero;Entrar;Gruta;Hacha;Fuga;Homúnculo;;educado;tiene la mandíbula ancha;habla muy bajo;celestial;histórico;flotar;;;Valle;;;;;humedades;
+El ojo;Rebosante;Extraplanario;Entregar;Guarida;Hebilla;Funeral;Hongo;;egoísta;tiene la piel cubierta de llagas;habla muy rápido;cementerio;honesto;forjar;;;Varita;;;;;escombros;
+El olmo;Retorcido;Familiar;Envenenar;Gueto;Herramienta;Granizo;Hormiga gigante;;elitista;tiene la piel curtida;huele a flores del bosque;cereal;honorable;fugarse;;;Veneno;;;;;una trampilla en el techo;
+El orbe;Rojo;Famoso;Escalar;Habitación secreta;Hielo;Guerra;Horror enredadera;;enérgico;tiene la tez aceitunada;idolatra a su padre;cerveza;honrado;hallar;;;Volcán;;;;;una cornisa;
+El orco;Ruidoso;Fanático;Escapar;Hondonada;Hierbas;Guerra civil;Huargo;;envidioso;tiene labios carnosos;le da igual todo;cetro;humilde;hechizar;;;;;;;;una grieta;
+El orco;Sabroso;Fiscal;Esclavizar;Hostal;Hilo;Hambruna;Ifriti;;equilibrado;tiene labios finos;le encantan las apuestas;cielo;impío;herir;;;;;;;;un abismo;
+El orégano;Sagrado;Fugitivo;Escoltar;Iceberg;Hongo;Hechizo;Insecto;;escrupuloso;tiene la mirada esquiva;le falta un dedo;cinturón;implacable;huír;;;;;;;;hongos;
+El órgano;Sediento;Gato;Esconder;Iglesia;Hueso;Heladas;Kelpie;;especulativo;tiene la mirada fría;le gusta mostrar una parte de su cuerpo;ciudad;importante;hundir;;;;;;;;moho;
+El oso;Septentrional;Gemelos;Esperar;Infraoscuridad;Huevo;Herencia;Kóbold;;esquivo;tiene la mirada furibunda;le gusta viajar;clan;impuro;ignorar;;;;;;;;plantas;
+El palacio;Solitario;Genasí;Espiar;Isla;Impuesto;Hundimiento;Kraken;;estricto;tiene la mirada nerviosa;lucha por un ideal;clérigo;incompetente;imaginar;;;;;;;;maleza;
+El paladín;Sombrío;General;Establecer;Isla;Inscripción;Idea;Kuo-toa;;exaltado;tiene la mirada penetrante;masca tabaco;cloaca;incorpóreo;inducir;;;;;;;;vegetación;
+El pantalón;Sureño;Gitano;Estudiar;Isla;Joya;Inauguración;Lamia;;exigente;tiene la mirada pícara;mira de reojo;cofre;inculto;infiltrarse;;;;;;;;enredaderas;
+El pegaso;Triste;Guardabosques;Excavar;Islote;Lámpara;Incendio;Licántropo;;expresivo;tiene la nariz afilada;murmura contínuamente;colina;inestable;informar;;;;;;;;algo enterrado;
+El pergamino;Tuerto;Guardaespaldas;Experimentar;Jardín;Lanza;Incesto;Liche;;extrovertido;tiene la nariz aguileña;no mueve un dedo si no hay oro por medio;combatiente;inexplorado;inmovilizar;;;;;;;;sangre;
+El perro;Vacío;Guardia;Explorar;Jungla;Lápida;Incursión;Limo;;falaz;tiene la nariz ancha;no puede quedarse quieto;comerciante;infernal;interceptar;;;;;;;;restos de comida;
+El pescado;Valiente;Guardián;Expulsar;Laberinto;Lentes;Independencia;Lobo;;FALSO;tiene la nariz colorada;no se fía de nadie;compañía;influyente;interrumpir;;;;;;;;cadáveres;
+El peto;Venenoso;Guerrero;Extirpar;Laboratorio;Libro;Infiltración;Mantícora;;fanático;tiene la nariz prominente;no tiene sentido del humor;componente;inhóspito;intoxicar;;;;;;;;huesos;
+El pícaro;Verde;Heredero;Extraer;Lago;Licor;Inicio;Manto;;fatalista;tiene la nariz puntiaguda;nunca se mete en problemas;conde;inusual;intuír;;;;;;;;insectos muertos;
+El pico;Viejo;Hermano;Fabricar;Laguna;Lodo;Inquisición;Medusa;;fiel;tiene la nariz respingona;nunca se quita sus guantes;condenado;invisible;inventar;;;;;;;;insectos;
+El pimiento;Volador;Héroe;Falsificar;Licorería;Luna;Intoxicación;Micónido;;fiero;tiene la piel de color extraño;odia a casi todos;conjuro;joven;invocar;;;;;;;;grava;
+El pincel;;Herrero;Fingir;Localización arcana;Madera;Inundación;Minotauro;;fisgón;tiene la piel oscura;odia a un animal;conspirador;legal;ir;;;;;;;;un rastrillo cerrado;
+El plato;;Hierofante;Forjar;Localización elemental;Máquina;Invasión;Modrón;;frágil;tiene las cejas pobladas;padece insomnio;constructo;lejano;lanzar;;;;;;;;una compuerta;
+El plebeyo;;Hija;Fortalecer;Lodazal;Marca;Invento;Mole terrosa;;galante;tiene las patillas gruesas;parpadea nerviosamente;contemplador;líder;leer;;;;;;;;una esclusa;
+El poeta;;Hijo;Forzar;Manicomio;Marmita;Invierno;Momia;;generoso;tiene los labios cortados;pertenece a algún gremio;contrabandista;local;limpiar;;;;;;;;un túnel;
+El potaje;;Historiador;Frustrar;Mansión;Máscara;Juicio;Monstruo corrosivo;;gris;tiene los labios gruesos;pertenece a alguna facción;contrabando;loco;linchar;;;;;;;;una reliquia;
+El puchero;;Infernal;Fundir;Mar;Mensaje;Justa;Morfópodo;;grosero;tiene los ojos azules;piensa que cualquier tiempo pasado fue mejor;correo;maduro;llegar;;;;;;;;un objeto olvidado;
+El queso;;Investigador;Ganar;Mar;Mercancía;Ley;Muerto viviente;;guarro;tiene los ojos claros;posee una filosofía vital exótica;cosecha;mágico;maldecir;;;;;;;;restos de una criatura;
+El rey;;Jefe;Hacer trampas;Marca;Mesa;Ley marcial;Murciélago;;harapiento;tiene los ojos de color miel;pronuncia mal;costa;maldito;mandar;;;;;;;;un libro sagrado;
+El rey;;Jinete;Huir;Marjal;Miembro;Linchamiento;Mutante;;heroico;tiene los ojos grandes;proviene de una familia rica venida a menos;cría;malhadado;maquinar;;;;;;;;un anillo;
+El riachuelo;;Juez;Huír;Mausoleo;Misiva;Llamada a las armas;Naga;;hipocondríaco;tiene los ojos grises;quiere a su caballo más que al oro;criatura;maligno;matar;;;;;;;;pinturas al fresco;
+El río;;Juglar;Hundir;Mazmorras;Mithril;Lluvia;Necrófago;;holgazán;tiene los ojos hundidos;repite una coletilla sin cesar;crimen;malvado;medir;;;;;;;;un cuadro;
+El sauce;;Juiblex;Husmear;Megalito;Moneda;Luna llena;Neogi;;honesto;tiene los ojos inyectados;sabe dónde hay enterrado un tesoro;criminal;manco;medrar;;;;;;;;una caja fuerte;
+El soldado;;Ladrón;Impacientarse;Mercado;Naipe;Magnicidio;Nigromante;;honrado;tiene los ojos marrones;se cree un tipo duro;cripta;maravilloso;memorizar;;;;;;;;vidrios;
+El sombrero;;Líder;Incendiar;Mina;Nicho;Maldición;No-muerto;;hosco;tiene los ojos negros;se expresa con pedantería;cubil;mentiroso;nadar;;;;;;;;un orbe;
+El sótano;;Lisiado;Infiltrar;Minarete;Obra de arte;Marea;Ogro;;huidizo;tiene los ojos oscuros;se mesa las barbas;cueva;misterioso;naufragar;;;;;;;;un cuerno;
+El tahalí;;Madre;Influir;Monasterio;Ojo;Marea;Oni;;huraño;tiene los ojos pequeños;se muerde las uñas;culpable;místico;obtener;;;;;;;;una imagen;
+El tambor;;Maestro;Informar;Montaña;Olla;Maremoto;Orco;;idealista;tiene los ojos rasgados;se pega mucho al hablar;cúpula;monstruoso;ocultar;;;;;;;;una figurita;
+El templo;;Maestro gremial;Inmovilizar;Montes;Olvidado;Matrimonio;Osgo;;imaginativo;tiene los ojos saltones;se pelea con todo el mundo;chismorreo;mortal;ofrecer;;;;;;;;una tiara;
+El tenedor;;Mago;Interceptar;Morgue;Orbe;Mensaje;Oso-lechuza;;impío;tiene los ojos verdes;se pone a hablar con cualquiera;delito;muerto;ofrendar;;;;;;;;gemas;
+El tigre;;Malabarista;Interrumpir;Muelles;Oro;Mercado;Otyugh;;imprudente;tiene los pies grandes;se rasca contínuamente;demonio;mutante;oponerse;;;;;;;;gemas falsas;
+El tintero;;Marinero;Introducir;Muralla;Pan;Migración;Parásito;;impulsivo;tiene los pómulos prominentes;se relame;desgracia;natural;orar;;;;;;;;arañas;
+El tomate;;Marmitón;Investigar;Museo;Pendientes;Milagro;Pesadilla;;incansable;tiene los rasgos afilados;se repeina los cabellos;desierto;naufragado;ordenar;;;;;;;;un cadalso;
+El tonel;;Marqués;Invocar;Naufragio;Pergamino;Misión;Plaga;;inculto;tiene mejillas sonrosadas;se ríe por cualquier cosa;destrucción;neutral;organizar;;;;;;;;una pista de baile;
+El toro;;Marquesa;Irritar;Nave mágica;Piel;Monzón;Plaga inteligente;;indeciso;tiene un brazo de menos;sesea;diamante;nigromántico;paralizar;;;;;;;;una criatura petrificada;
+El torrente;;Matón;Lamentar;Navío;Pilar;Muerte;Planodeudo;;independiente;tiene un color de ojos inusual;siempre bromea acerca de todo;difunto;noble;pelear;;;;;;;;una esfera;
+El torreón;;Mayordomo;Lanzar;Necrópolis;Pluma;Nacimiento;Planta;;indiferente;tiene un color de pelo inusual;siempre busca bronca;dimensión;novato;pensar;;;;;;;;un agujero negro;
+El trasgo;;Médico;Leer;Nido;Pócima;Naufragio;Quimera;;indiscreto;tiene un color de piel inusual;siempre contesta con evasivas;dios;olvidado;perderse;;;;;;;;una puerta;
+El tridente;;Mefistófeles;Limpiar;Oasis;Poción;Negociación;Rakshasa;;individualista;tiene un corte de pelo inusual;siempre cuenta anécdotas;diosa;ordenado;petrificar;;;;;;;;un arco;
+El trigo;;Mensajero;Llamar;Océano;Poesía;Niebla;Rata;;indomable;tiene un ojo vacío;siempre cuenta chistes;discordia;paralizado;pintar;;;;;;;;una arcada;
+El troll;;Mercader;Llenar;Olvidado;Portal;Nieve;Remorhaz;;inexpresivo;tiene un parche en el ojo;siempre cuenta sus batallitas;disputa;pedante;polimorfar;;;;;;;;una intersección;
+El tronco;;Merodeador;Llevar;Oscuridad;Probeta;Nombramiento;Roc;;influenciable;tiene un porte noble;siempre está afilando su navaja;dragón;peligroso;poseer;;;;;;;;algo del futuro;
+El unicornio;;Místico;Luchar;Otro plano;Puerta;Nueva ley;Sabandija;;ingenioso;tiene un porte orgulloso;siempre está con que el primo de un amigo se lo dijo;drow;perdido;potenciar;;;;;;;;algo del pasado;
+El vaso;;Monje;Maldecir;Pantano;Rastro;Ofrenda;Sacerdote maligno;;ingenuo;tiene una dentadura perfecta;siempre está con que él sólo mató al dragón;druída;pérfido;pretender;;;;;;;;algo de otro mundo;
+El vestido;;Montaraz;Medir;Páramo;Recompensa;Ola de crímenes;Saga;;inocente;tiene una narizota;siempre está fanfarroneando;dungeon;perseguido;proteger;;;;;;;;una antigüedad;
+El vino;;Náufrago;Meditar;Pasadizo;Regalo;Oscuridad;Sajuaguín;;inquisidor;tiene una pierna de menos;siempre está sacando brillo a su símbolo sagrado;duque;pestilente;quedarse;;;;;;;;un amuleto;
+El violín;;Navegante;Merodear;Patio de armas;Reliquia;Otoño;Salamandra;;inquisitivo;tiene una sonrisa falsa;siempre golpea con el dedo;edificio;petrificado;quemar;;;;;;;;un ritual;
+El zapato;;Nieto;Moldear;Pedregal;Roca;Pánico;Sátiro;;insensato;tiene una sonrisa socarrona;siempre invita a una ronda;efecto;plateado;querer;;;;;;;;incienso;
+El zombi;;Nigromante;Morar;Pirámide;Runa;Parálisis;Señor de los muertos;;insistente;usa muletas;siempre juega con un puñal;ejército;pobre;rastrear;;;;;;;;aceite;
+La alcoba;;Oráculo;Morir;Playa;Saco;Parricidio;Serpiente;;insulso;va bien afeitado;siempre juega con una moneda;elfo;poderoso;reclutar;;;;;;;;ácido;
+La almohada;;Orcus;Mudarse;Plaza;Sarcófago;Penitencia;Shadar-Kai;;intimidante;va enjoyado;siempre lo sabe todo;elixir;poético;recolectar;;;;;;;;;
+La alubia;;Orfebre;Nacer;Portal;Seda;Persecución;Slaad;;intolerante;va siempre guiñado;siempre olvida los nombres;embajador;polimorfado;recorrer;;;;;;;;;
+La antorcha;;Padre;Nadar;Posada;Sello;Pesadilla;Tarasca;;intransigente;viste a la moda;siempre se teme lo peor;enano;poseído;reemplazar;;;;;;;;;
+La araña;;Paje;Navegar;Pozo;Señal;Peste;Tíflin;;intrigante;viste anticuado;siempre tamborilea con los dedos;encantamiento;profundo;regalar;;;;;;;;;
+La avena;;Paladín;Negociar;Pradera;Símbolo;Petrificación;Titán;;intrigante;;siempre vocifera;enigma;prohibido;rendir;;;;;;;;;
+La ballesta;;Peregrino;Obligar;Prisión;Sombrero;Pillaje;Trasgo;;introvertido;;silba contínuamente;erudito;protegido;renegar;;;;;;;;;
+La baraja;;Perro;Ocultar;Profundidades;Suministro;Pista;Troglodita;;iracundo;;sisea;esclavo;psiónico;representar;;;;;;;;;
+La bisagra;;Pescador;Ofrecer;Prostíbulo;Tahalí;Plaga;Troll;;irascible;;su fe se tambalea;escoltar;quemado;rescatar;;;;;;;;;
+La bota;;Pícaro;Otorgar;Pueblo fantasma;Tapiz;Posesión;Unicornio;;irónico;;su negocio se va a pique;escudo;rebelde;resucitar;;;;;;;;;
+La brida;;Pirata;Pagar;Puente;Tatuaje;Previsión;Vampiro;;irrespetuoso;;suele blasfemar;esfera;redimido;rezar;;;;;;;;;
+La burra;;Pitonisa;Pedir;Puerta secreta;Taza;Primavera;Wraith;;irreverente;;"suele decir: ""¡no puede ser cierto!""";espacio;refinado;robar;;;;;;;;;
+La cabaña;;Plebeyo;Perder;Puerto;Tela;Profecía;Yuan-ti;;irritable;;"suele decir: ""¡viva el rey!""";espacio-tiempo;renegado;saber;;;;;;;;;
+La cabra;;Policía;Perseguir;Puesto;Telar;Prohibición;Yugoloth;;jovial;;"suele decir: ""¿cómo dices?""";espada;repugnante;sacrificar;;;;;;;;;
+La cacerola;;Popular;Planear;Refugio;Telaraña;Publicación;Zombi;;juicioso;;"suele decir: ""¿has oído eso?""";espadachín;reservado;salir;;;;;;;;;
+La calavera;;Posadero;Polimorfar;Río;Tentáculo;Quiebra;;;lacónico;;"suele decir: ""¿no sabes con quién estás hablando?""";espejo;retorcido;salvar;;;;;;;;;
+La cama;;Prestidigitador;Presagiar;Ruinas;Tiara;Rapiña;;;lastimero;;"suele decir: ""¿tienes una moneda?""";espía;rico;sanar;;;;;;;;;
+La cama;;Procurador;Profetizar;Ruta;Tinaja;Rebelión;;;legal;;"suele decir: ""¿tu nombre era…?""";espora;robado;saquear;;;;;;;;;
+La camisa;;Profeta;Proteger;Sala acorazada;Tótem;Recaudación;;;lenguaraz;;"suele decir: ""esto me huele muy mal""";estatua;ruin;secuestrar;;;;;;;;;
+La cañada;;Prominente;Quebrar;Sala de baile;Trampa;Regalo;;;lento;;suele encogerse de hombros;estrella;sabio;ser;;;;;;;;;
+La capa;;Prostituta;Quemar;Sala de fiestas;Trampilla;Reunión;;;lisonjero;;sufre aracnofobia;experimento;sacrílego;sobrevivir;;;;;;;;;
+La capucha;;Protector;Raptar;Sala de torturas;Tratado;Revuelta;;;lujurioso;;sufre insomnio;experimento;sagrado;sojuzgar;;;;;;;;;
+La carne;;Ratero;Rasgar;Salón;Tumba;Riada;;;mal genio;;sufre jaquecas;experto;salvaje;solicitar;;;;;;;;;
+La casa;;Renegado;Rastrear;Semiplano;Túnel;Ritual;;;mal hablado;;sufre undefecto de pronunciación;explorador;sanguinario;soliviantar;;;;;;;;;
+La catacumba;;Representante;Reclutar;Sendero;Túnica;Ruina;;;maleducado;;sufrió una tragedia familiar;explosión;secreto;sonreír;;;;;;;;;
+La catedral;;Rey;Recolectar;Sima;Ungüento;Rumor;;;malicioso;;tartamudea;exportación;secuestrado;suministrar;;;;;;;;;
+La caverna;;Rival;Recuperar;Sótano;Valla;Sacrificio;;;manazas;;tiene acento extranjero;extranjero;sencillo;susurrar;;;;;;;;;
+La cebada;;Sabio;Redimir;Submundo;Vara;Saqueo;;;mandón;;tiene algún prejuicio;familiar;sobrenatural;tallar;;;;;;;;;
+La cerradura;;Sacerdote;Regalar;Subterráneos;Vara;Secreto revelado;;;marrullera;;tiene alma de bardo;fantasma;solitario;teleportar;;;;;;;;;
+La cerveza;;Salvaje;Relampaguear;Sumergible;Varita;Secuestro;;;melancólico;;tiene alma de comerciante;filacteria;sombrío;timar;;;;;;;;;
+La chimenea;;Sanador;Rescatar;Sumergido;Vegetal;Señal;;;mentiroso;;tiene andares elásticos;forastero;sordo;traer;;;;;;;;;
+La choza;;Secretario;Resucitar;Taberna;Vela;Sequía;;;meticuloso;;tiene antecedentes militares;forja;sospechoso;tragar;;;;;;;;;
+La cítara;;Secuestrador;Revivir;Taller;Veneno;Siembra;;;mezquino;;tiene debilidad por el sexo opuesto;fórmula;subterráneo;traicionar;;;;;;;;;
+La cocatriz;;Semidiós;Rezar;Tanque;Ventana;Silencio;;;nervioso;;tiene dientes de menos;fortaleza;sucio;transportar;;;;;;;;;
+La colina;;Semielfo;Robar;Teatro;Verja;Sitio;;;neurótico;;tiene la mirada perdida;fuego;sumergido;usurpar;;;;;;;;;
+La copa;;Señor de la guerra;Romper;Tejado;Vial;Suceso;;;noble;;tiene mal aliento;fuente;tatuado;vagar;;;;;;;;;
+La copa;;Siervo;Sacrificar;Teletransportador;Vidrio;Tarea;;;observador;;tiene manos temblorosoas;fuga;temeroso;vender;;;;;;;;;
+La corona;;Sirvienta;Saltar;Templo;Vino;Teatro;;;obstinado;;tiene parásitos;fugitivo;torcido;viajar;;;;;;;;;
+La cripta;;Sirviente;Salvar;Tienda;Víveres;Terremoto;;;ocurrente;;tiene un acento gracioso;futuro;tóxico;merodear;;;;;;;;;
+La cuchara;;Socio;Sanar;Torre;Yelmo;Timo;;;olvidadizo;;tiene un aliento fétido;ganadería;traicionero;avisar;;;;;;;;;
+La cuerda;;Soldado;Saquear;Tumba;;Toque de queda;;;optimista;;tiene un andar peculiar;ganadero;traidor;expandir;;;;;;;;;
+La cueva;;Sultán;Secuestrar;Túmulo;;Tormenta;;;ordenado;;tiene un gemelo malvado;ganado;usurpador;colonizar;;;;;;;;;
+La cumbre;;Sumo sacerdote;Seguir;Túnel;;Torneo;;;orgulloso;;tiene un grupo de seguidores;gárgola;valiente;atacar;;;;;;;;;
+La daga;;Superviviente;Sellar;Vado;;Trampa;;;pacífico;;tiene un hobby característico (pesca, caza…);gato;valioso;marchar;;;;;;;;;
+La doncella;;Tabernero;Sembrar;Valle;;Travesía;;;palurdo;;tiene un olor corporal intenso;gema;vecino;alzar;;;;;;;;;
+La dríada;;Terrateniente;Sentenciar;Villa;;Tributo;;;paranoico;;tiene un peinado extraño;genio;venerable;influír;;;;;;;;;
+La empanada;;Testigo;Sobrevivir;Volcán;;Turba;;;peleón;;tiene un sueño recurrente;gigante;violento;;;;;;;;;;
+La escalera;;Tíflin;Soñar;Vórtice;;Vacío de poder;;;pendenciero;;tiene un talismán o fetiche;glaciar;volador;;;;;;;;;;
+La escudilla;;Timador;Sumergir;Zigurat;;Velatorio;;;perezoso;;tiene un tatuaje especial;gnomo;escabroso;;;;;;;;;;
+La espada;;Torturador;Talar;;;Ventisca;;;perfeccionista;;tiene un tic nervioso;gobierno;avanzado;;;;;;;;;;
+La especia;;Traidor;Tejer;;;Verano;;;perseverante;;tiene una enfermedad desagradable;gólem;minero;;;;;;;;;;
+La espuela;;Trampero;Teleportar;;;Verbena;;;perspicaz;;tiene una marca de nacimiento;granja;leal;;;;;;;;;;
+La estrella;;Trotamundos;Traicionar;;;Viaje;;;pertinaz;;tiene una mascota;gremio;feroz;;;;;;;;;;
+La falda;;Usurero;Transformar;;;Victoria;;;pesimista;;tiene una tos seca;grifo;hostil;;;;;;;;;;
+La flauta;;Usurpador;Transportar;;;Visita diplomática;;;petimetre;;tiene vértigo;grupo;arcano;;;;;;;;;;
+La flecha;;Vagabundo;Trasladar;;;;;;piadoso;;tuerto;guardia;;;;;;;;;;;
+La fritura;;Vasallo;Usurpar;;;;;;pícaro;;va siempre perfumado;guardián;;;;;;;;;;;
+La fruta;;Verdugo;Vaciar;;;;;;polemista;;ve conspiraciones en todas partes;guarida;;;;;;;;;;;
+La fusta;;Viajero;Vagar;;;;;;práctico;;viene de un linaje proscrito;guerra;;;;;;;;;;;
+La ganzúa;;Vidente;Vender;;;;;;preguntón;;vive al margen de la ley;guerrero;;;;;;;;;;;
+La gema;;Vigía;Viajar;;;;;;prepotente;;vive un amor prohibido;gusano;;;;;;;;;;;
+La gruta;;Visir;Volar;;;;;;presumido;;vivió una relación incestuosa;hacha;;;;;;;;;;;
+La guadaña;;;;;;;;;presuntuoso;;vivió una relación que mantiene en secreto;hambre;;;;;;;;;;;
+La guarida;;;;;;;;;pródigo;;;harina;;;;;;;;;;;
+La harina;;;;;;;;;prudente;;;hechicero;;;;;;;;;;;
+La hidra;;;;;;;;;pulcro;;;hechizo;;;;;;;;;;;
+La hierba;;;;;;;;;pusilánime;;;herencia;;;;;;;;;;;
+La hogaza;;;;;;;;;rácano;;;héroe;;;;;;;;;;;
+La honda;;;;;;;;;realista;;;herrería;;;;;;;;;;;
+La hoz;;;;;;;;;reflexivo;;;herrero;;;;;;;;;;;
+La infusión;;;;;;;;;reformista;;;hierro;;;;;;;;;;;
+La jabalina;;;;;;;;;relamido;;;hija;;;;;;;;;;;
+La jarra;;;;;;;;;reservado;;;hijo;;;;;;;;;;;
+La joya;;;;;;;;;retraído;;;hombre;;;;;;;;;;;
+La judía;;;;;;;;;reverente;;;hongo;;;;;;;;;;;
+La lanza;;;;;;;;;riguroso;;;horizonte;;;;;;;;;;;
+La lápida;;;;;;;;;sabelotodo;;;huérfano;;;;;;;;;;;
+La lechuga;;;;;;;;;sabihondo;;;huésped;;;;;;;;;;;
+La lengua;;;;;;;;;sabio;;;huevo;;;;;;;;;;;
+La lira;;;;;;;;;sacrificado;;;humano;;;;;;;;;;;
+La lluvia;;;;;;;;;sádico;;;humanoide;;;;;;;;;;;
+La mansión;;;;;;;;;sagaz;;;iglesia;;;;;;;;;;;
+La manta;;;;;;;;;sarcástico;;;importación;;;;;;;;;;;
+La manzana;;;;;;;;;segundón;;;indicio;;;;;;;;;;;
+La maza;;;;;;;;;servil;;;información;;;;;;;;;;;
+La mazmorra;;;;;;;;;severo;;;insecto;;;;;;;;;;;
+La moneda;;;;;;;;;simplón;;;inundación;;;;;;;;;;;
+La montaña;;;;;;;;;sin sentido común;;;isla;;;;;;;;;;;
+La morada;;;;;;;;;soberbio;;;islote;;;;;;;;;;;
+La muerte;;;;;;;;;sobrio;;;jefe;;;;;;;;;;;
+La nave;;;;;;;;;socarrón;;;jinete;;;;;;;;;;;
+La niebla;;;;;;;;;sociable;;;joya;;;;;;;;;;;
+La nieve;;;;;;;;;soez;;;juglar;;;;;;;;;;;
+La ninfa;;;;;;;;;sofisticado;;;laboratorio;;;;;;;;;;;
+La olla;;;;;;;;;sombrío;;;ladrón;;;;;;;;;;;
+La oreja;;;;;;;;;soñador;;;lago;;;;;;;;;;;
+La oveja;;;;;;;;;soñoloento;;;lámpara;;;;;;;;;;;
+La pala;;;;;;;;;soso;;;lanza;;;;;;;;;;;
+La palanca;;;;;;;;;sospechoso;;;libro;;;;;;;;;;;
+La pera;;;;;;;;;sucio;;;limo;;;;;;;;;;;
+La piedra;;;;;;;;;susceptible;;;lobo;;;;;;;;;;;
+La pimienta;;;;;;;;;suspizaz;;;luna;;;;;;;;;;;
+La pluma;;;;;;;;;tacaño;;;luz;;;;;;;;;;;
+La polea;;;;;;;;;taciturno;;;madera;;;;;;;;;;;
+La posada;;;;;;;;;tarambana;;;madre;;;;;;;;;;;
+La puerta;;;;;;;;;temerario;;;mafioso;;;;;;;;;;;
+La puta;;;;;;;;;temperamental;;;mago;;;;;;;;;;;
+La rana;;;;;;;;;tenaz;;;maíz;;;;;;;;;;;
+La rata;;;;;;;;;testarudo;;;maldición;;;;;;;;;;;
+La reina;;;;;;;;;tierno;;;maleante;;;;;;;;;;;
+La rueda;;;;;;;;;tímido;;;malhechor;;;;;;;;;;;
+La ruleta;;;;;;;;;titubeante;;;manada;;;;;;;;;;;
+La sábana;;;;;;;;;tontorrón;;;mapa;;;;;;;;;;;
+La sal;;;;;;;;;torpe;;;máquina;;;;;;;;;;;
+La sal;;;;;;;;;tosco;;;mar;;;;;;;;;;;
+La salchicha;;;;;;;;;traicionero;;;marjal;;;;;;;;;;;
+La sartén;;;;;;;;;tramposo;;;material;;;;;;;;;;;
+La serpiente;;;;;;;;;trapicheador;;;matón;;;;;;;;;;;
+La silla de montar;;;;;;;;;tratable;;;maza;;;;;;;;;;;
+La soga;;;;;;;;;tristón;;;mazmorra;;;;;;;;;;;
+La sopa;;;;;;;;;trotamundos;;;mediano;;;;;;;;;;;
+La tarta ;;;;;;;;;vacilante;;;memoria;;;;;;;;;;;
+La taza;;;;;;;;;vago;;;mensaje;;;;;;;;;;;
+La tienda;;;;;;;;;valeroso;;;mente;;;;;;;;;;;
+La torre;;;;;;;;;valiente;;;mercader;;;;;;;;;;;
+La tumba;;;;;;;;;veleidoso;;;mercancía;;;;;;;;;;;
+La túnica;;;;;;;;;vengativo;;;mercenario;;;;;;;;;;;
+La vaca;;;;;;;;;veraz;;;mesón;;;;;;;;;;;
+La varita;;;;;;;;;vergonzoso;;;miedo;;;;;;;;;;;
+La vela;;;;;;;;;violento;;;mina;;;;;;;;;;;
+La ventana;;;;;;;;;vivaracho;;;mineral;;;;;;;;;;;
+La verdura;;;;;;;;;;;;misión;;;;;;;;;;;
+Las riendas;;;;;;;;;;;;mithril;;;;;;;;;;;
+Las uvas;;;;;;;;;;;;monje;;;;;;;;;;;
+;;;;;;;;;;;;monstruo;;;;;;;;;;;
+;;;;;;;;;;;;montañas;;;;;;;;;;;
+;;;;;;;;;;;;monte;;;;;;;;;;;
+;;;;;;;;;;;;motín;;;;;;;;;;;
+;;;;;;;;;;;;muerte;;;;;;;;;;;
+;;;;;;;;;;;;muerto viviente;;;;;;;;;;;
+;;;;;;;;;;;;mujer;;;;;;;;;;;
+;;;;;;;;;;;;muralla;;;;;;;;;;;
+;;;;;;;;;;;;naufragio;;;;;;;;;;;
+;;;;;;;;;;;;náufrago;;;;;;;;;;;
+;;;;;;;;;;;;navío;;;;;;;;;;;
+;;;;;;;;;;;;nido;;;;;;;;;;;
+;;;;;;;;;;;;niebla;;;;;;;;;;;
+;;;;;;;;;;;;nigromante;;;;;;;;;;;
+;;;;;;;;;;;;niño;;;;;;;;;;;
+;;;;;;;;;;;;noble;;;;;;;;;;;
+;;;;;;;;;;;;nube;;;;;;;;;;;
+;;;;;;;;;;;;objeto;;;;;;;;;;;
+;;;;;;;;;;;;océano;;;;;;;;;;;
+;;;;;;;;;;;;odisea;;;;;;;;;;;
+;;;;;;;;;;;;ogro;;;;;;;;;;;
+;;;;;;;;;;;;ogro;;;;;;;;;;;
+;;;;;;;;;;;;orbe;;;;;;;;;;;
+;;;;;;;;;;;;orco;;;;;;;;;;;
+;;;;;;;;;;;;orden;;;;;;;;;;;
+;;;;;;;;;;;;organización;;;;;;;;;;;
+;;;;;;;;;;;;oro;;;;;;;;;;;
+;;;;;;;;;;;;oveja;;;;;;;;;;;
+;;;;;;;;;;;;padre;;;;;;;;;;;
+;;;;;;;;;;;;paladín;;;;;;;;;;;
+;;;;;;;;;;;;pan;;;;;;;;;;;
+;;;;;;;;;;;;pánico;;;;;;;;;;;
+;;;;;;;;;;;;pantano;;;;;;;;;;;
+;;;;;;;;;;;;parásito;;;;;;;;;;;
+;;;;;;;;;;;;parroquiano;;;;;;;;;;;
+;;;;;;;;;;;;pasadizo;;;;;;;;;;;
+;;;;;;;;;;;;pasado;;;;;;;;;;;
+;;;;;;;;;;;;pelea;;;;;;;;;;;
+;;;;;;;;;;;;pensamiento;;;;;;;;;;;
+;;;;;;;;;;;;perro;;;;;;;;;;;
+;;;;;;;;;;;;persecución;;;;;;;;;;;
+;;;;;;;;;;;;persona;;;;;;;;;;;
+;;;;;;;;;;;;personaje;;;;;;;;;;;
+;;;;;;;;;;;;pesadilla;;;;;;;;;;;
+;;;;;;;;;;;;pescado;;;;;;;;;;;
+;;;;;;;;;;;;pescador;;;;;;;;;;;
+;;;;;;;;;;;;petición;;;;;;;;;;;
+;;;;;;;;;;;;pícaro;;;;;;;;;;;
+;;;;;;;;;;;;pilar;;;;;;;;;;;
+;;;;;;;;;;;;pillaje;;;;;;;;;;;
+;;;;;;;;;;;;pionero;;;;;;;;;;;
+;;;;;;;;;;;;pirata;;;;;;;;;;;
+;;;;;;;;;;;;pista;;;;;;;;;;;
+;;;;;;;;;;;;plaga;;;;;;;;;;;
+;;;;;;;;;;;;plano;;;;;;;;;;;
+;;;;;;;;;;;;planodeudo;;;;;;;;;;;
+;;;;;;;;;;;;plata;;;;;;;;;;;
+;;;;;;;;;;;;plaza;;;;;;;;;;;
+;;;;;;;;;;;;plebeyo;;;;;;;;;;;
+;;;;;;;;;;;;pócima;;;;;;;;;;;
+;;;;;;;;;;;;poción;;;;;;;;;;;
+;;;;;;;;;;;;poder;;;;;;;;;;;
+;;;;;;;;;;;;portal;;;;;;;;;;;
+;;;;;;;;;;;;posada;;;;;;;;;;;
+;;;;;;;;;;;;profecía;;;;;;;;;;;
+;;;;;;;;;;;;psiónico;;;;;;;;;;;
+;;;;;;;;;;;;pueblo;;;;;;;;;;;
+;;;;;;;;;;;;puente;;;;;;;;;;;
+;;;;;;;;;;;;puerta;;;;;;;;;;;
+;;;;;;;;;;;;rastro;;;;;;;;;;;
+;;;;;;;;;;;;rata;;;;;;;;;;;
+;;;;;;;;;;;;recuerdo;;;;;;;;;;;
+;;;;;;;;;;;;reino;;;;;;;;;;;
+;;;;;;;;;;;;reliquia;;;;;;;;;;;
+;;;;;;;;;;;;remordimiento;;;;;;;;;;;
+;;;;;;;;;;;;revuelta;;;;;;;;;;;
+;;;;;;;;;;;;rey;;;;;;;;;;;
+;;;;;;;;;;;;robo;;;;;;;;;;;
+;;;;;;;;;;;;ruinas;;;;;;;;;;;
+;;;;;;;;;;;;rumor;;;;;;;;;;;
+;;;;;;;;;;;;runa;;;;;;;;;;;
+;;;;;;;;;;;;ruta;;;;;;;;;;;
+;;;;;;;;;;;;sabandija;;;;;;;;;;;
+;;;;;;;;;;;;sabio;;;;;;;;;;;
+;;;;;;;;;;;;sacerdote;;;;;;;;;;;
+;;;;;;;;;;;;saco;;;;;;;;;;;
+;;;;;;;;;;;;sacrificio;;;;;;;;;;;
+;;;;;;;;;;;;sangre;;;;;;;;;;;
+;;;;;;;;;;;;secta;;;;;;;;;;;
+;;;;;;;;;;;;secuestrador;;;;;;;;;;;
+;;;;;;;;;;;;sed;;;;;;;;;;;
+;;;;;;;;;;;;semielfo;;;;;;;;;;;
+;;;;;;;;;;;;semiorco;;;;;;;;;;;
+;;;;;;;;;;;;semiplano;;;;;;;;;;;
+;;;;;;;;;;;;sendero;;;;;;;;;;;
+;;;;;;;;;;;;serpiente;;;;;;;;;;;
+;;;;;;;;;;;;sima;;;;;;;;;;;
+;;;;;;;;;;;;sol;;;;;;;;;;;
+;;;;;;;;;;;;soldado;;;;;;;;;;;
+;;;;;;;;;;;;sótano;;;;;;;;;;;
+;;;;;;;;;;;;suceso;;;;;;;;;;;
+;;;;;;;;;;;;sueño;;;;;;;;;;;
+;;;;;;;;;;;;suministro;;;;;;;;;;;
+;;;;;;;;;;;;superviviente;;;;;;;;;;;
+;;;;;;;;;;;;taberna;;;;;;;;;;;
+;;;;;;;;;;;;tatuaje;;;;;;;;;;;
+;;;;;;;;;;;;tejado;;;;;;;;;;;
+;;;;;;;;;;;;telaraña;;;;;;;;;;;
+;;;;;;;;;;;;teletransportador;;;;;;;;;;;
+;;;;;;;;;;;;templo;;;;;;;;;;;
+;;;;;;;;;;;;terrateniente;;;;;;;;;;;
+;;;;;;;;;;;;terremoto;;;;;;;;;;;
+;;;;;;;;;;;;territorio;;;;;;;;;;;
+;;;;;;;;;;;;tesoro;;;;;;;;;;;
+;;;;;;;;;;;;tiempo;;;;;;;;;;;
+;;;;;;;;;;;;tienda;;;;;;;;;;;
+;;;;;;;;;;;;tierra;;;;;;;;;;;
+;;;;;;;;;;;;timador;;;;;;;;;;;
+;;;;;;;;;;;;tomo;;;;;;;;;;;
+;;;;;;;;;;;;torneo;;;;;;;;;;;
+;;;;;;;;;;;;torre;;;;;;;;;;;
+;;;;;;;;;;;;torreón;;;;;;;;;;;
+;;;;;;;;;;;;trampa;;;;;;;;;;;
+;;;;;;;;;;;;travesía;;;;;;;;;;;
+;;;;;;;;;;;;tributo;;;;;;;;;;;
+;;;;;;;;;;;;trigo;;;;;;;;;;;
+;;;;;;;;;;;;troll;;;;;;;;;;;
+;;;;;;;;;;;;trotamundos;;;;;;;;;;;
+;;;;;;;;;;;;tumba;;;;;;;;;;;
+;;;;;;;;;;;;túnel;;;;;;;;;;;
+;;;;;;;;;;;;túnica;;;;;;;;;;;
+;;;;;;;;;;;;usurpador;;;;;;;;;;;
+;;;;;;;;;;;;vaca;;;;;;;;;;;
+;;;;;;;;;;;;vado;;;;;;;;;;;
+;;;;;;;;;;;;valle;;;;;;;;;;;
+;;;;;;;;;;;;varita;;;;;;;;;;;
+;;;;;;;;;;;;vecino;;;;;;;;;;;
+;;;;;;;;;;;;velero;;;;;;;;;;;
+;;;;;;;;;;;;veneno;;;;;;;;;;;
+;;;;;;;;;;;;viaje;;;;;;;;;;;
+;;;;;;;;;;;;viaje;;;;;;;;;;;
+;;;;;;;;;;;;viajero;;;;;;;;;;;
+;;;;;;;;;;;;vida;;;;;;;;;;;
+;;;;;;;;;;;;villa;;;;;;;;;;;
+;;;;;;;;;;;;vino;;;;;;;;;;;
+;;;;;;;;;;;;volcán;;;;;;;;;;;
+;;;;;;;;;;;;vórtice;;;;;;;;;;;
+;;;;;;;;;;;;brazalete;;;;;;;;;;;
+;;;;;;;;;;;;collar;;;;;;;;;;;
+;;;;;;;;;;;;anillo;;;;;;;;;;;
+;;;;;;;;;;;;corona;;;;;;;;;;;
+;;;;;;;;;;;;cetro;;;;;;;;;;;
+;;;;;;;;;;;;bastón;;;;;;;;;;;
+;;;;;;;;;;;;minero;;;;;;;;;;;
+;;;;;;;;;;;;merodeador;;;;;;;;;;;
+;;;;;;;;;;;;señal;;;;;;;;;;;
+;;;;;;;;;;;;aviso;;;;;;;;;;;
+;;;;;;;;;;;;horda;;;;;;;;;;;
+;;;;;;;;;;;;bastión;;;;;;;;;;;
+;;;;;;;;;;;;páramo;;;;;;;;;;;
+;;;;;;;;;;;;influencia;;;;;;;;;;;
+;;;;;;;;;;;;heredero;;;;;;;;;;;
+;;;;;;;;;;;;tribu;;;;;;;;;;;

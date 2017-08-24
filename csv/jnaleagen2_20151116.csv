@@ -1,0 +1,699 @@
+﻿Index;Los PJs deben;objeto;personaje;complicación;Protagonista;Desea;enemigo;Enfrenta;Necesita;Al final;lugar;objeto;adj;adj2;Medieval - Taberna - Nombre;Medieval - Taberna - Adjetivo;Comida 1;Comida 2;Comida 3;bebida 1;bebida 2;Trampas - Elemento;Trampas - Acción;Trampas - Desencadenante;PNJ profesion;PNJ Origen;PNJ Carácter;PNJ Aspecto;PNJ Especial;Medieval - Personaje;Medieval - Acción;Medieval - Lugar;Medieval - Objeto;Medieval - Evento;Medieval - Criatura;Medieval - Organización;Dungeon - Objeto;Dungeon - Evento;Dungeon - tipo;símbolo - obj;escudo - color;escudo - campo;símbolo - color;Trama PNJ 1;Trama PNJ 2;deidad - ambitos;deidad - adorador;deidad - sacerdotes;deidad - ritos;deidad-arquitectura;poción - textura;poción - tipo;poción - efecto secundario;lugar - color;lugar - nom;lugar - ref;objeto;adj_norm;Frases
+1;robar;un objeto mágico;el rey;otros persiguen el mismo objetivo;una princesa;ayudar a alguien;un ogro;su familia;un amigo fiel;logrará su objetivo;un bosque;el cáliz;negro;de la fortuna;El Abad;Aceitoso|Aceitosa|Aceitosos|Aceitosas;un estofado;perdices;almendras;un licor;endrinas;Derrumbamiento;Aplastar;Cerradura;pueblerino;humano;aburrido;es alto;a la hora de pagar, siempre se dejó la bolsa en casa;Abogado;Abandonar;Acantilado;Abalorio;Abandono;Aberración;Academia;un tesoro (falso);se oyen ruidos extraños;antesala;una garra;de azur;de azur;rojo;un abogado;busca venganza contra;poder;humanos;vestir ropas amplias;sacrificios humanos;sin altar;tiene muchos grumos;Esta poción;da sueño;Bienvenido a;la calle;de la negrura;el abismo;negro|negra|negros|negras;Te veré en el infierno
+2;espiar;un barco;el emperador;otros quieren impedirlo;un príncipe;escapar;un troll;un monstruo;alguien que le acompañe;descubrirá qué es lo importante;la nieve;la gota;primigenio;de la condenación;El Acólito;Achispado|Achispada|Achispados|Achispadas;un guiso;conejo;bayas;una destilación;moras;Terremoto;Cortar;Baldosa;ciudadano;elfo;acelerado;es ancho de caderas;adora a su hermanita;Acólito;Abrasar;Aguja;Aceite;Accidente;Abolez;Aldea;un tesoro;se oyen ruidos fantasmales;salón;una cruz;de gules;de gules;azul;un acólito;quiere robar a;ley;hombres;vestir túnicas bordadas;sacrificios;con un altar cuadrado;tiene una textura espesa;Esta pócima;produce debilidad;No olvides visitar;la avenida;de la espesura;el ácido;primigenio|primigenia|primigenios|primigenias;Afiló su espada
+3;devolver;un cargamento;un mago;alguien no es quien dice ser;un mendigo;aprender;una bruja mala;un acertijo;un conjuro;vencerá a sus enemigos;un pantano;la corona;demoníaco;de los gigantes;El Adivino;Acogedor|Acogedora|Acogedores|Acogedoras;un asado;gamo;zanahorias;una cerveza;cereza;Aguja;Ahorcar;Hilo;peregrino;enano;adaptable;es ancho de espaldas;adora a una deidad inusual;Actor;Abrir;Agujero;Acero;Acertijo;Abominación;Arcanos;una vasija;se oyen gruñidos;sala;una daga;de sinople;de sinople;ocre;un actor;desea algo que tiene;bien;mujeres;llevar hábitos bastos;secretismo;con un altar perfecto;tiene consistencia pegajosa;Este brebaje;deja aturdido;Este lugar es;el camino;del tormento;el adiós;demoníaco|demoníaca|demoníacos|demoníacas;No era lo que ponía el libro
+4;asesinar;unas armas;un guerrero;hay un motivo oculto en la misión;un niño;descubrir;un vampiro;una maldición;un hechizo;se reconciliará;la jungla;el cetro;dorado;de sangre;El Agua;Adormilado|Adormilada|Adormilados|Adormiladas;una sopa;buey;lechuga;una esencia;malta;Veneno;Asfixiar;Cofre;viajero;mediano;afable;es bajo;adora en secreto a una deidad prohibida;Adepto;Acampar;Albergue;Ácido;Acuerdo de paz;Ahogador;Aristocracia;una lámpara;se oyen voces;estancia;una mano;de púrpura;púrpura;naranja;un adepto;necesita algo que tiene;mal;elfos;llevar hábitos humildes;ocultismo;con un altar negro;es ligeramente reluciente;Este elixir;produce mal olor;Todos hablan de;el sendero;de la herradura;el agua;dorado|dorada|dorados|doradas;La profecía lo auguraba
+5;conseguir;una torre;un mercenario;algo no es lo que parece;el rey;explorar;un ladrón;magia poderosa;encontrar un lugar;encontrará lo que busca;una montaña;el bastón;sangriento;de las hadas;El Alcázar;Afilado|Afilada|Afilados|Afiladas;un caldero;vaca;verduras;un vino;lúpulo;Gas;Envenenar;Luz;ermitaño;gnomo;afable;es barbilampiño;ama a su madre;Adiestrador;Acechar;Alcantarillas;Adamantita;Adivinación;Ajeno;Asociación;un trono;hay una ilusión;alcoba;un ojo;de sable;de sable;marrón;un adiestrador;quiere esclavizar a;caos;norteños;lucir tocados;encender velas;con un altar circular;tiene un sabor desagradable;Este ungüento;produce miedo;Has oído hablar de;la casa;de la niebla;el agujero;sangriento|sangrienta|sangrientos|sangrientas;No esperaba morir ese día
+6;perseguir;el ganado;un guardia;les falta información vital;el emperador;encontrar;un duende malo;un largo viaje;encontrar a alguien;fracasará;un castillo;el brazal;maldito;de la pureza;El Ancla;Ahumado|Ahumada|Ahumados|Ahumadas;un potaje;ternera;pimientos;un brandy;cebada;Lava;Debilitar;Presión;guerrero;drow;afeminado;es barbudo;apesta a sudor;Adinerado;Aconsejar;Alcázar;Agua;Advertencia;Ángel;Ayuntamiento;sillas;hay un efecto mágico;pasillo;un cuerno;de morado;morado;dorado;un adinerado;quiere poseer a;orden;sureños;vestir túnicas simples;quemar incienso;con un altar rectangular;tiene un sabor amargo;Este aceite;causa vértigo;Has encontrado;el pico;de la lluvia;el alcázar;maldito|maldita|malditos|malditas;Era el mayor tesoro que habia visto jamás
+7;expulsar;sus recuerdos;un mercader;hay detalles que no se mencionaron;un pescador;la fama;un enano maloso;sus enemigos;comida;descubrirá qué es lo importante;las tierras de las hadas;la espada;prístino;de fuego;El Arado;Alado|Alada|Alados|Aladas;un guisado;burro;setas;un whisky;trigo;Bola de fuego;Herir;Ruido;mago;elemental;agradable;es barrigudo;busca a un criminal;Adivino;Acordar;Alcoba;Agua;Alarma;Animado;Banda;una mesa;hay alguien escondido;corredor;un fresno;de sanguina;sanguíneo;plateado;un adivino;quiere robar el alma de;neutralidad;occidentales;vestir túnicas sencillas;ayuno;con un altar pulido;tiene un sabor dulce;Este fluido;produce amnesia;Has llegado a;la cima;de las aguas;el altar;prístino|prístina|prístinos|prístinas;Matar a un dios no es fácil
+8;desenmascarar;una sustancia alquímica;un juglar;va en contra de la ley;un campesino;ser reconocido;un oso furioso;un enigma;una poción;descubrirá su vocación;las tierras de los elfos;el agua;rojo;de la suerte;El Árbol;Alegre|Alegre|Alegres|Alegres;una fritura;salmón;hongos;un orujo;avena;Lengua de fuego;Lanzar;Columna;hechicero;ajeno;agrio;es bigotudo;busca cierta información;Adorador;Activar;Aldea;Agujero;Alerta;Animal;Batallón;un escudo;hay alguien acechando;encrucijada;un sauce;de aurora;anaranjado;broncíneo;un adorador;quiere alimentarse de;dualidad;orientales;vestir ropas comunes;oración;con un altar de hueso;viene en un vial pequeño;Este compuesto;atonta;Ya estás en;la colina;de la noche;el amanecer;rojo|roja|rojos|rojas;No es bueno hacer enfadar a los dioses
+9;impedir;una planta;un viajero;hay otros interesados en contratarles;un burro;prosperar;un mago malvado;un misterio;un mapa;se convertirá en un héroe;un campamento;el fluído;escarlata;de la magia;El Arco;Amarillo|Amarilla|Amarillos|Amarillas;una plancha;trucha;laurel;un licor;pera;Flecha;Convocar;Altar;brujo;sureño;ahorrativo;es bizco;busca contratar aventureros;Agricultor;Acusar;Almacén;Alma;Alineamiento planetario;Animal terrible;Cábala;una espada;hay telarañas;galería;una flor;de león;leonado;verde;un agricultor;quiere escaparse de;trinidad;campesinos;ir de incógnito;meditación;con un altar de piedra;viene en un gran frasco;Esta fórmula;causa mal aliento;No estás lejos de;el bosque;del alba;el amuleto;escarlata|escarlata|escarlatas|escarlatas;El ejército avanzó por la llanura
+10;escapar;un libro;un gladiador;las indicaciones no son correctas;un conejo;ser rico;un hombre-lobo;un crimen;un bastón;la gente se olvidará;el fin del mundo;el brebaje;flamígero;de los arcanos;El Arco;Ambarino|Ambarina|Ambarinos|Ambarinas;un caldo;mero;tomillo;un licor;manzana;Dardo;Teleportar;Puerta;clérigo;oriental;alborotador;es cabezón;busca el perdón de su familia;Ajeno;Adivinar;Almena;Amuleto;Amenaza;Ankheg;Caballería;un nicho;hay mucho polvo;pasadizo;una amapola;de ceniza;cenizo;amarillo;un ajeno;quiere emplear a;multiplicidad;artesanos;pasar desapercibidos;oración en grupo;con un círculo de convocación;viene en un tarrito;Este bálsamo;causa gases;Desde aquí ves;el cerro;de la mañana;el ánfora;flamígero|flamígera|flamígeros|flamígeras;Lo que encontró al otro lado le perturbó
+11;destruir;un diario;un bárbaro;encontrarán peligros en el camino;un zorro;tener más;un guerrero avaricioso;sus propios miedos;una espada;descubre que todo es un sueño;un laberinto;el orbe;nocturno;del brujo;El Arcón;Ardiente|Ardiente|Ardientes|Ardientes;un cocido;gallo;romero;una bebida;ciruela;Lanza;Desintegrar;Bisagra;explorador;occidental;alegre;es cadavérico;canta de maravilla;Albacea;Advertir;Altar;Anillo;Aniversario;Aranea;Caravana;una tumba;está todo sucio;túnel;una hoz;de bronce;de bronce;aguamarina;un albacea;quiere dejar de trabajar para;duda;alquimistas;llevar armas;meditación guiada;con un círculo mágico;viene en un vial metálico;Este bebedizo;deja un tono de piel peculiar;Puedes ver;el claro;del ocaso;el anillo;nocturno|nocturna|nocturnos|nocturnas;No estaba donde lo dejó
+12;averiguar;una carta;un montaraz;nadie sabe dónde está;el rajá;ser tomado en serio;un asesino;su falta de coraje;ayuda de un dios;descubre que todo es mentira;unas cavernas;la esfera;diabólico;de la muerte;El Armario;Árido|Árida|Áridos|Áridas;una cazuela;pollo;pimienta;un brebaje;cereza;Bola de roca;Desmembrar;Tapa;druida;extranjero;alocado;es calvo;cecea;Alcalde;Ahuyentar;Antiguo;Antorcha;Apertura;Araña;Casa;una trampilla ;está todo roto;bodega;una hoguera;de cobre;de cobre;musgo;un alcalde;busca una alianza con;certeza;sabios;llevar armadura;entrenamiento;con una única nave;viene en un tarro de hueso;Este líquido;ralentiza;Divisas;el río;del mediodía;el ara;diabólico|diabólica|diabólicos|diabólicas;No se debe jugar con la magia
+13;encontrar;un edicto;un druida;es imposible hacerlo sin llamar la atención;un hada;deshacer un hechizo;un bandido;su hermano/a;ayuda;descubre un mundo de fantasía;un palacio;la capa;último;del amanecer;El Armario;Aromático|Aromática|Aromáticos|Aromáticas;un puré;gallina;salvia;un ron;pétalos;Caída de peso;Decapitar;Agujero;bardo;humanoide;altanero;es calvo;conce un secreto peligroso;Alguacil;Aliarse;Ara;Aparato;Asedio;Archidemonio;Ciudad;un círculo de convocación;está todo viejo;sótano;un fuego;de fierro;de fierro;celeste;un alguacil;quiere romper un pacto con;saber;caballeros;ir bien armados;lecturas;con dos naves;viene en un tarro de peltre;;crea ansiedad;Te encuentras en;el arroyo;de la primavera;el árbol;último|última|últimos|últimas;Estaba debajo del dragón
+14;esconder;un mensaje;un dragón;sólo es una distracción;un cazador;romper una maldición;un malhechor;su esposo/a;pruebas;no puede dejar de hacerlo;unas mazmorras;el cinturón;eterno;del atardecer;El Arnés;Asado|Asada|Asados|Asadas;una crema;tocino;enebro;un grog;polen;Foso;Arrastrar;Hongo;noble;tíflin;altivo;es canoso;conoce a todo el mundo;Aliado;Alimentar;Arboleda;Árbol;Asesinato;Archidiablo;Clan;un rastrillo;está todo en ruinas;gran salón;una vela;de plomo;de plomo;negro;un aliado;quiere hacer un trato con;comercio;magos;llevar ropas de viaje;postración ante ídolos;con dos naves en cruz;tiene consistencia lechosa;;potencia la magia;Caminas por;el mar;del verano;el archimago;eterno|eterna|eternos|eternas;Miró a la hidra desde detrás de la columna
+15;activar;un pergamino;un monstruo;el objetivo está bien protegido;una niña;vencer;un hada maligna;su prometido/a;emprender un viaje;perderá a sus seres queridos;un lago;el colgante;eléctrico;de ocaso;El Arpa;Astado|Astada|Astados|Astadas;un ajillo;panceta;canela;un hidromiel;miel;Estacas;Atraer;Botón;plebeyo;dracónido;altruísta;es cargado de hombros;conoce cierto rumor;Alquimista;Alterar;Arena;Arbusto;Ataque;Arconte;Clandestinidad;una palanca;hay una trampa;mina;una llama;de oro;de oro;marino;un alquimista;quiere traicionar a;mercadeo;hechiceros;vestir túnicas ceremoniales;ofrendas florales;con naves paralelas;tiene consistencia grasienta;;reduce la magia;Por aquí llegas a;el estrecho;del otoño;el arco;eléctrico|eléctrica|eléctricos|eléctricas;El pantano apestaba
+16;desactivar;un castillo;una criatura mágica;el objetivo es más poderoso de lo que parece;un huérfano;conquistar;un diablillo;su amigo fiel;un hada;traicionará a sus aliados;el mar;el amuleto;tronante;de la noche;El Arpón;Asustado|Asustada|Asustados|Asustadas;un encebollado;morro;perejil;un aguardiente;lavanda;Monstruo;Arrojar;Palanca;mercader;semielfo;amable;es cejijunto;conoce la ubicación de un tesoro;Ambicioso;Alzar;Arrecife;Arcano;Auge;Arpía;Clero;una máquina que no funciona;está protegido;patio;una guadaña;de plata;de plata;blanco;un ambicioso;quiere evitar ser traicionado por;conocimiento;brujos;llevar túnicas de cuero;ofrendas de bienes;con dos naves en T;tiene consistencia aceitosa;;fomenta la vida;;la isla;del invierno;el arcón;tronante|tronante|tronantes|tronantes;Juró que se vengaría
+17;usar;un pueblo;un humanoide;el objetivo en realidad no es el objetivo;un guerrero;esconder algo;un demonio;su consejo;un espíritu;comprenderá el valor de la amistad;un barco;el anillo;salvaje;de la eternidad;El Asado;Avaro|Avara|Avaros|Avaras;una brocheta;coditos;curry;un coñac;arroz;Caída;Clavar;Gema;artesano;semiorco;amistoso;es ceñudo;conoce muchos chismorreos;Amigo;Ambicionar;Atalaya;Arco;Auxilio;Azotamentes;Colonia;un portal, pero está cerrado;hay un guardián;dormitorio;una calavera;;de armiño;argénteo;un amigo;sospecha de;sabiduría;guerreros;vestir hábitos de lana;quemar objetos;en cuadrado;es un líquido opaco;;produce vómitos;;el monte;del reposo;el arpa;salvaje|salvaje|salvajes|salvajes;Nadie le había robado antes
+18;inutilizar;una ciudad;un señor de la guerra;se encuentra en un lugar remoto;un mago bondadoso;espiar a alguien;un visir avieso;la ley;un deseo;descubrirá el amor de su familia;una torre;la diadema;divino;del conocimiento;El Ataúd;Avinagrado|Avinagrada|Avinagrados|Avinagradas;una parrillada;muslitos;cúrcuma;una sidra;tomate;Abrojos;Destruir;Moneda;sabio;semidemonio;animoso;es cetrino;conoce un secreto de alguien;Anciano;Amenazar;Avenida;Arena;Baile;Bandido;Comando;un portal abierto a otro plano;los objetos se animan;almacén;un cráneo;;de vero;violeta;un anciano;quiere investigar a;inteligencia;gladiadores;vestir con colores vivos;destruir objetos;formando un atrio;es un líquido traslúcido;;causa diarreas;;la llanuras;del águila;el artefacto;divino|divina|divinos|divinas;Podría vivir cómodamente el resto e su vida
+19;traicionar;una aldea;un tirano;hay trampas protegiendo el lugar;una bruja buena;enseñar;un noble ambicioso;la tradición;polvo de estrellas;;un volcán;la carta;feérico;de la razón;El Barco;Azul|Azul|Azules|Azules;una tortilla;alitas;orégano;;fresas;Hoja;Romper;Joya;paladín;enano de las montañas;antisociable;es cojitranco;debe lealtad a un patrón poderoso;Animal de granja;Anunciar;Bajos fondos;Arma;Banquete;Basilisco;Compañía;un teleportador;hay una neblina;cripta;un caballo rampante;;;turquesa;un antepasado;quiere seguir a;lógica;paladines;vestir con hábitos discretos;flagelación;con fuentes;no tiene olor;;da mucha hambre;;el pantano;del buitre;el atardecer;feérico|feérica|feéricos|feéricas;Larga vida al rey
+20;capturar;un lago;un alquimista;hay guardianes vigilando;un herrero;conseguir cierto objeto;un lobo terrible;todos;una flor única;;el desierto;el mazo;silvano;de la locura;El Barril;Bailarín|Bailarín|Bailaríns|Bailaríns;un revuelto;menudillos;albahaca;;bayas;Filo;Abrir;Bajorrelieve;caballero;svirfneblin;apagado;es corpulento;desea desesperadamente conseguir un objeto;Antepasado;Apaciguar;Banco;Armadura;Batalla;Behir;Congregación;un acertijo;hay una maldición;antecámara;un león rampante;;;encarnado;un archimago;quiere espiar a;relaciones;nobles;vestir túnicas lujosas;automutilación;con muchas flores;tiene un olor fuerte;;da mucha sed;;la ciénaga;del cuervo;el atrio;silvano|silvana|silvanos|silvanas;Sufría esa enfermedad desde hacía años
+21;llevar;una isla;un artesano;los monstruos infestan el lugar;un mozo de cuadra;buscar algo especial;un tigre hambriento;;un animal;;un templo;la pluma;sagrado;del bosque;El Basilisco;Barbudo|Barbuda|Barbudos|Barbudas;un pastel;hígado;alcaparras;;anís;Sierra;Cerrar;Puerta secreta;escudero;derro;apasionado;es desdentado;dice conocer a alguien famoso;Archimago;Aparecer;Baños;Artefacto;Broma;Bersérker;Consejo;un mecanismo que no funciona;los monstruos rondan cerca;cámara;un grifo rampante;;;bermellón;un armero;está siendo infiel a;diplomacia;agricultores;portar cetros ceremoniales;ayuda a otros;integradas con la vegetación;emite vapor;;atrae a los insectos;;los yermos;del halcón;el báculo;sagrado|sagrada|sagrados|sagradas;¿Estaría maldito?
+22;guiar;una montaña;un sabio;hay peligros mágicos que sortear;un vagabundo;el poder;un zorro astuto;;una montura;;una catedral;el árbol;sacrílego;de las arenas;El Bastardo;Bienvenido|Bienvenida|Bienvenidos|Bienvenidas;una empanada;riñones;nata;;loto;Soga;Atrapar;Cortinas;devoto;duérgar;aplicado;es desgarbado;duerme demasiado;Armero;Aprender;Barbacana;Artilugio;Cacería;Bestia;Conspiración;un mecanismo con trampa;los monstruos murieron aquí;cueva;un dragón;;;beige;un arquero;está siendo infiel con;camino;ganaderos;llevar hábitos de trabajo;ayuda a la comunidad;con cultivos;emite gas;;duerme las extremidades;;los altos;del azor;el bastón;sacrílego|sacrílega|sacrílegos|sacrílegas;Cabalgó hacia lo desconocido
+23;conducir;un santuario;un superviviente;requiere investigación para avanzar;un aventurero;el conocimiento;un cuervo;;un libro;;un túnel;el martillo;broncíneo;del frío;El Bastón;Bizco|Bizca|Bizcos|Bizcas;unas empanadillas;pulpo;arroz;;amapola;Cuerda;Congelar;Baúl;cultista;elfo silvano;aplicado;es elegante;es abstemio;Arquero;Apresar;Barco;Báculo;Caída;Bestia barbotante;Criminales;un mecanismo que hace algo;unos aventureros murieron aquí;caverna;una mantícora;;;anaranjado;un artesano;quiere ser amado por;viaje;pastores;ir desnudos;trabajo social;con un patio central;tiene burbujas;;entumece los músculos;;la plaza;del gorrión;el bien;broncíneo|broncínea|broncíneos|broncíneas;Todo estaba oscuro
+24;proteger;una capilla;un esclavo;otra persona tiene la información;un monje;conseguir tesoro;un bufón bromista;;una varita;;el campo;el tintero;nublado;del fuego;El Baúl;Blanco|Blanca|Blancos|Blancas;unas croquetas;carpa;legumbres;;grano;Hilo;Calentar;Arcón;acólito;elfo salvaje;aprensivo;es enano;es adicto a alguna droga;Artesano;Aproximarse;Barracones;Bandera;Calamidad;Breza movediza;Dinastía;una palanca que no hace nada;hubo una batalla;distribuidor;un kraken;;;amarillento;un artista;está enamorado de;sendero;orfebres;ir casi desnudos;trabajo a la comunidad;en forma circular;tiene trocitos flotando;;causa excitación;;la fortaleza;de la perdiz;el bosque;nublado|nublada|nublados|nubladas;Vio una luz al final del pasillo
+25;defender;una catedral;un fugitivo;está bien escondido;un clérigo;traicionar a alguien;un tramposo;;un cetro;;las nubes;el icor;helado;del viento;El Bosque;Borracho|Borracha|Borrachos|Borrachas;un salteado;barbo;lentejas;;roble;Sedal;Quemar;Arcada;monje;gnoll;arrogante;es encogido;es adorador de un dios pagano;Artista;Arañar;Barriada;Baraja;Calor;Brujo;Ejército;un botón que activa una trampa;huele raro;comedor;un pulpo;;;granate;Asmodeo;odia profundamente a;recorrido;mercaderes;permanecer ocultos;estudio;formando un rectángulo;tiene polvillo en suspensión;;suprime el deseo sexual;;el castillo;del mirlo;el brazal;helado|helada|helados|heladas;Aquellos ruidos no presagiaban nada bueno
+26;mantener;la iglesia;un no-muerto;deberán enfrentarse al calor del desierto;un montaraz;desenmascarar a un impostor;un genio traicionero;;alas;;el cielo;la sustancia;ardiente;del rayo;El Caballo;Borroso|Borrosa|Borrosos|Borrosas;un flambeado;lubina;judías;;saúco;Piedras;Abrasar;Silla;ladrón;gran trasgo;asustadizo;es encorvado;es aficionado al deporte;Asmodeo;Arrancar;Barricada;Barca;Cambio de estación;Bugbear;Embajada;un botón que activa una alarma;huele a podrido;cocina;una hidra;;;violáceo;un astrólogo;teme a;aprendizaje;peregrinos;hacer voto de castidad;enseñanza;formando un pentágono;;;hace que veas chispitas;;la torre;del búho;el brazo;ardiente|ardiente|ardientes|ardientes;El corregidor ha aparecido asesinado
+27;negociar;el ayuntamiento;un ladrón;deberán enfrentarse al frío de las cumbres;un druida;desentrañar un misterio;un consejero ambicioso;;un empujoncito;;la luna;el corazón;infinito;del archimago;El Camino;Brillante|Brillante|Brillantes|Brillantes;una tarta;merluza;espinacas;;setas;Rocas;Freír;Trono;pícaro;trasgo;atento;es enjuto;es aficionado al licor;Astrólogo;Arriesgar;Barrio;Barcaza;Campeonato;Caballero de la muerte;Empresa;un botón que abre algo;algo se oculta en las sombras;alacena;un pez;;;morado;un avatar;está enemistado con;cultura;viajeros;hacer voto de obediencia;aprendizaje;formando un polígono;;;hace caer el pelo;;el cabo;del oso;el brebaje;infinito|infinita|infinitos|infinitas;No, no era un asesino
+28;convencer;un pozo;un asesino;deberán enfrentarse a los riesgos de los pantanos;un pájaro;resolver un enigma;una urraca ladrona;;un guía;;un carruaje;el cuerno;mortal;del hierofante;El Campo;Brumoso|Brumosa|Brumosos|Brumosas;;pescado de río;acelgas;;hongos;Rampa;Escaldar;Butaca;bárbaro;osgo;atrevido;es fibroso;es amante del arte;Avatar;Asegurar;Barrio aristocrático;Barco;Captura;Calavera;Esclavos;un botón inútil;algo está invisible;cuadra;unas olas;;;ceniza;un aventurero;desea enfermizamente a;libros;incultos;hacer voto de pobreza;adoración de símbolos;en forma de triángulo;;;hace crecer el pelo;;la bahía;del perro;el brujo;mortal|mortal|mortales|mortales;Algunos decían haber visto a la criatura
+29;disuadir;su casa;un noble;deberán viajar a través de la jungla;un gato;el amor;un fuego fatuo;;su verdadero amor;;un río;la flauta;mortífero;del clérigo;El Castillo;Burlado|Burlada|Burlados|Burladas;;pescado;puerro;;enebro;Tobogán;Corroer;Orbe;herrero;eladrín;autoritario;es fornido;es apasionado de la música;Aventurero;Asesinar;Barrios bajos;Barril;Carnaval;Cambiaformas;Escuadra;una cama;la gravedad funciona raro;granero;una espiga;;;óxido;una bailarina;desea envenenar a;magia;cultos;ir enjoyados;adoración de estatuas;en lugares remotos;;;cambia el tono de piel;;la playa;del gato;el cáliz;mortífero|mortífera|mortíferos|mortíferas;No se recordaban ogros aquí desde hace años
+30;liberar;una mansión;un primogénito;deberán viajar a otro plano;un perro;dominar el mundo;un impostor;;una gema;;un sótano;el laberinto;letal;de los dioses;El Catalejo;Cálido|Cálida|Cálidos|Cálidas;;pescado de roca;calabacín;;tomillo;Trampolín;Espolvorear;Corona;marinero;elfo lunar;avaricioso;es fuerte;es ateo;Bailarina;Asustar;Bastión;Bastón;Carrera;Cambion;Escuela;un dosel;los objetos levitan;escaleras;un puño;;;brillante;un bandido;tiene miedo de;nigromancia;malhechores;hacer voto de silencio;bautismos;en lugares frecuentados;;;cambia el color de ojos;;la costa;del lobo;el camino;letal|letal|letales|letales;Podía volar
+31;rescatar;el cementerio;un prometido;deberán resolver un enigma;un tigre;gobernar ;un cambiaformas;;a su pueblo;;una choza;la roca;asesino;del fin del mundo;El Cayado;Cerrado|Cerrada|Cerrados|Cerradas;;solomillo;patatas fritas;;laurel;Peso;Tirar;Celda;capitán;enano salvaje;avaricioso;es gordo;es bueno consiguiendo cosas;Bandido;Atacar;Bosque;Baúl;Castigo divino;Celestial;Familia;un pozo;el techo puede derrumbarse;laboratorio;un guantelete;;;apagado;un bandolero;amenaza a;muerte;ladrones;lucir tatuajes;caminar sobre ascuas;en lugares ocultos;;;provoca tos;;el templo;del león;el caos;asesino|asesina|asesinos|asesinas;Había hech un juramento y lo cumpliría
+32;apresar;una lápida;un hijo;sólo un acertijo revelará el camino;un cuervo;vivir;un traidor;;a su gente;;un camino;la piedra;ligero;de los mundos;El Centeno;Ciego|Ciega|Ciegos|Ciegas;;cabra;patata asada;;almendra;Rastrillo;Sellar;Llave;pirata;aasimar;ávido;es grueso;es bueno imitando a otros;Bandolero;Atraer;Buhardilla;Bebedizo;Catástrofe;Centauro;Fanáticos;un foso;el suelo puede ceder;capilla;una espada;;;oscuro;un bárbaro;recibe una amenaza de;muertos;bardos;lucir piercings;pruebas de fe;fuera de la vista;;;provoca estornudos;;el arco;de la ardilla;el caos;ligero|ligera|ligeros|ligeras;El trabajo parecía peligroso, pero alguien tenía que hacerlo
+33;explorar;una tumba;un licántropo;deberán primero cumplir otra misión;un búho;la redención;;;a quien le crió;;;el monolito;oculto;de los planos;El Cetro;Cocinado|Cocinada|Cocinados|Cocinadas;;gambas;patata cocida;;avellana;Glifo custodio;Caer;Mecanismo;escriba;hombre lagarto;bárbaro;es imberbe;es caluroso;Bárbaro;Atrapar;Burdel;Bisturí;Celebración religiosa;Cíclope;Flota;unas estacas;todo está ordenado;ala;un martillo;;;claro;un bardo;se siente amenazado por;resurrección;bufones;ir descalzos;pruebas de fidelidad;bajo tierra;;;hace eructar;;el pasaje;de la rata;el cetro;oculto|oculta|ocultos|ocultas;La guerra era inminente
+34;descubrir;una mina;un gigante;deberán convencer a otra persona;un escudero;la curación;;;un árbol;;;el obelisco;secreto;del mal;El Cincel;Cojo|Coja|Cojos|Cojas;;calamares;puré de patatas;;nueces;Palabra de poder;Soltar;Cuerda;embajador;hombre lobo;basto;es jorobado;es cantarín;Bardo;Auxiliar;Cabaña;Botas;Chantaje;Cieno;Gobierno;un cadáver;todo está muy limpio;armario;una flecha;;;gris;un barquero;es rival de;vida;la clase alta;cubrirse todo el cuerpo;memorizar pasajes;en cuevas naturales;;;produce impotencia;;el pasadizo;del tiburón;el cielo;secreto|secreta|secretos|secretas;No sabía dónde estaba
+35;cerrar;un túnel;un capitán;deberán viajar a través del bosque;un cocinero;perseguir a alguien;;;agua bendita;;;el círculo;misterioso;del bien;El Cinturón;Congelado|Congelada|Congelados|Congeladas;;jamón;brotes;;vainilla;Otro plano;Corromper;Cadena;posadero;planodeudo;bonachón;es larguirucho;es ciego;Barquero;Averiguar;Cabaret;Brazalete;Circo;Coatl;Gremio;una máscara;todo parece algo que no es;sala de estar;un arco;;;cobalto;un bribón;quiere apresar a;salud;la clase media;afeitarse la cabeza;cocinar;a gran altura;;;causa retortijones;;los muelles;del pez espada;el cinturón;misterioso|misteriosa|misteriosos|misteriosas;Los orcos no eran el problema
+36;bloquear;una cueva;un pirata;deberán viajar a través de las estepas;un sastre;cazar ;;;una reliquia sagrada;;;el camino;onírico;del caos;El Clavo;Cornudo|Cornuda|Cornudos|Cornudas;;oreja;tomate;;caña;Otro lugar;Enfermar;Magia;tabernero;trasgoide;bondadoso;es malencarado;es cojo;Bribón;Ayudar;Calabozo;Brebaje;Coacción;Cobrador;Grupo;un bajorrelieve;una ilusión cubre la verdad;barracón;una ballesta;;;pardo;un brujo;quiere escapar de;bondad;la clase baja;dejarse crecer la barba;crear algo;en torres;;;dificulta la cicatrización;;el puerto;del rape;el círculo;onírico|onírica|oníricos|oníricas;Si sobrevivía sería de milagro
+37;conquistar;una caverna;un contrabandista;deberán escalar las montañas;un plebeyo;coleccionar;;;un arma mágica;;;la pirámide;leal;del demonio;El Clavo;De acero|De acera|De aceros|De aceras;;lengua;ajo;;limón;Precipicio;Matar;Hueso;trilero;bárbaro;bondadoso;es manco;es cursi;Brujo;Bucear;Callejón;Cabello;Colonización;Cocatriz;Guarnición;un altar;no hay salida;sala de juegos;una torre;;;grisáceo;un bruto;quiere acercarse a;maldad;esclavos;ir siempre afeitados;trabajos artesanales;en forma de torre;;;favorece la cicatrización;;el pozo;del salmón;el clérigo;leal|leal|leales|leales;No temía a la magia
+38;limpiar;una cascada;un brujo;tendrán que sumergirse bajo el agua;un noble;completar;;;entender sus deseos;;;la cámara;traicionero;del diablo;El Clérigo;De bronce|De bronce|De bronces|De bronces;;rabo;guisantes;;naranja;Esfera de aniquilación;Confundir;Mesa;estafador;salvaje;bribón;es moreno;es de familia humilde;Bruto;Buscar;Cámara;Cadáver;Cometa;Coloso;Gueto;un montón de agujeros;corre el viento;cuarto;un castillo;;;;un bufón;quiere asesinar a;curación;enanos;automutilarse;masoquismo;como fortalezas;;;nubla la vista;;el valle;de la trucha;el clima;traicionero|traicionera|traicioneros|traicioneras;Se había enfrentado a monstruos antes
+39;asegurar;un río;un chamán;tendrán que atravesar las tierras baldías;un consejero;vivir aventuras;;;vencer sus miedos;;;la tumba;acuático;del fauno;El Cofre;De cobre|De cobre|De cobres|De cobres;;pezuñas;espárragos;;melón;Agujero;Cambiar;Comida;príncipe;indígena;brillante;es negro;es de familia noble;Bufón;Cabalgar;Camino;Cadena;Competición;Constructo;Horda;cortinas;huele a comida;balcón;un trimonte;;;;un caballero;teme un asesinato por parte de;protección;gnomos;dejarse crecer las uñas;castigos;como catedrales;;;deja un pitido de oídos;;la hondonada;de la carpa;el códice;acuático|acuática|acuáticos|acuáticas;Los muertos se alzaban
+40;investigar;un puente;un cacique;tendrán que evitar la lava del volcán;un caballo;salvarse;;;encontrar el valor;;;la montaña;aéreo;de los portales;El Colchón;De cuero|De cuero|De cuero|De cuero;;chuletas;nueces;;lagarto;Pozo;Sugestionar;Vial;mercenario;norteño;bruto;es nervudo;es duro de oído;Caballero;Caminar;Campamento;Caja;Compra;Contemplador;Iglesia;muebles;es un lugar sacrílego;armería;una montaña;;;;un cambista;quiere atacar a;ayuda;orcos;vendarse los ojos;magia;en semicírculo;;;vuelve irascible;;la planicie;de la sardina;el cofre;aéreo|aérea|aéreos|aéreas;Nunca había visto nada igual
+41;cartografiar;un paso;un líder;primero tendrán que escapar;un pez;salvar a otro;;;descubrir su don;;;el pozo;terrestre;del adiós;El Comensal;De fuego|De fuego|De fuego|De fuego;;rape;cebolla;;vinagre;Picas;Obligar;Bebedizo;gladiador;vampiro;caballeroso;es obeso;es el alma de la fiesta;Caballo;Castigar;Canal;Cáliz;Compulsión;Criatura interplanaria;Madre Iglesia;un escudo de armas;es un lugar sagrado;forja;un perro;;;;un cantante;es atacado por;acogida;medianos;drogarse;invocaciones;sin techo;;;hace sudar;;el desierto;del calamar;el colgante;terrestre|terrestre|terrestres|terrestres;Lo encontró dentro del cofre
+42;asaltar;una piedra;un opositor;primero tendrán que crear una distracción;un genio;explorar;;;un don especial;;;el agujero;abisal;de la partida;El Cubo;De hierro|De hierro|De hierro|De hierro;;sardinas;apio;;melocotón;Aceite;Dormir;Poción;bandido;;callado;es pálido;es el más guapo del barrio;Cambista;Cazar;Capilla;Canica;Concilio;Criatura marina;Mafia;una chimenea;puede llenarse de gas;claustro;un lobo;;;;un capitán;quiere asustar a;medicina;drow;usar magia;convocaciones;con muchos ventanales;;;causa depresión;;la tundra;del pulpo;el collar;abisal|abisal|abisales|abisales;Llegó por fin a aquel lugar remoto
+43;salvar;una runa;un traidor;tendrán que hacer una ofrenda a los dioses;un hermano;comer;;;averiguar su valía;;;la cueva;infernal;de los horrores;El Cuchillo;De madera|De madera|De madera|De madera;;higadillos;queso;;violetas;Ácido;Emborrachar;Pergamino;señor de la guerra;;calmado;es paticorto;es enamoradizo;Cantante;Cerrar;Cascada;Capa;Condena;Criatura sombría;Manada;instrumentos de torturas;puede inundarse;mazmorra;un draco;;;;un carnicero;quiere amedrentar a;herbalismo;trasgos;crear pociones;necrofilia;con grandes cúpulas;;;emborracha;;la meseta;de la araña;el colmillo;infernal|infernal|infernales|infernales;No encontró respuesta
+44;recuperar;un megalito;un prisionero;tendrán que consultar a un sabio;un enano;beber;;;un ángel de la guarda;;;la caverna;acuoso;de la niebla;El Dado;De Mithril|De Mithril|De Mithrile|De Mithril;;callos;pepino;;grosella;Engranaje;Dejar inconsciente;Libro;líder;;capaz;es pelirrojo;es excesivamente cortés;Capitán;Chantajear;Castillo;Cargamento;Confusión;Demonio;Mercaderes;cadenas colgando;atraerá la atención de los guardias;calabozo;una sierpe;;;;un cartógrafo;quiere ayudar a;naturaleza;ogros;comerciar con lo que producen;necrofagia;como edificios altos;;;causa 1 minuto de inconsciencia;;la estepa;del escorpión;el conocimiento;acuoso|acuosa|acuosos|acuosas;Sólo un hombre podía ayudarle
+45;recobrar;un monumento;un vampiro;tendrán que consultar a un adivino;un espía;divertirse;;;su fe;;;la bolsa;aguamarina;de las montañas;El Dardo;De Oro|De Oro|De Oro|De Ora;;entresijos;calabacín;;pasas;Contrapeso;Alterar;Tomo;soldado;;caprichoso;es peludo;es excesivamente suspicaz;Carnicero;Clausurar;Catacumbas;Carne;Consejo;Derro;Mercado negro;unas escaleras;alguien ha hecho unas marcas;celda;una serpiente;;;;un chamán;necesita ayuda de;animales;humanoides;buscar acólitos;banquetes;como estructuras austeras;;;causa desorientación momentánea;;la cordillera;de la serpiente;el corazón;aguamarina|aguamarina|aguamarinas|aguamarinas;Era un hereje
+46;revertir;una estatua;un liche;;un bufón;jugar;;;su verdadera familia;;;el polvo;brillante;del olvido;El Diván;De piedra|De piedra|De piedra|De piedra;;lomo;judías verdes;;zazamora;Cadena;Perder;Escalera;guardia;;carismático;es pesado;es fácilmente influenciable;Cartógrafo;Coger;Catarata;Cerebro;Conspiración;Destrachan;Mercenarios;una cascada;alguien ha dejado un mensaje;nave;una rata;;;;un chambelán;necesita encontrar a;alquimia;semihumanos;buscar la soledad;fuego;muy fortificadas;;;hace recordar algo que olvidaste;;los picos;del lagarto;el cuenco;brillante|brillante|brillantes|brillantes;Escaparía como fuera
+47;deshacer;una tienda;un drow;;un paladín;huir;;;;;;el códice;resplandeciente;de orgullo;El Dragón;Dorado|Dorada|Dorados|Doradas;;chuletón;cardo;;durazno;Dama de hierro;Alejar;Bastón;general;;caritativo;es pulcro;es fervorosamente religioso;Chamán;Coleccionar;Catedral;Cesta;Construcción;Deva;Monasterio;una fuente;alguien ha dejado una advertencia;despensa;un barco;;;;un chiflado;quiere buscar a;salvaje;bastardos;ayudar a los demás;agua;en otros planos;;;hace olvidar un recuerdo;;el portal;de la salamandra;el cuerno;resplandeciente|resplandeciente|resplandecientes|resplandecientes;No podría soportar la tortura
+48;;un carromato;el príncipe;;un caballero;crecer;;;;;;el libro;oscuro;de la maldad;El Drow;Durmiente|Durmiente|Durmientes|Durmientes;;ancas;manzana;;pimiento;Púas;Esconder;Suelo;maestro;;cauto;es regordete;es friolero;Chambelán;Colocar;Caverna;Cetro;Contrabando;Diablo;Motín;un charco;alguien ha dejado señales equívocas;sala de espera;un galeón;;;;un ciego;no desea ser encontrado por;árboles;familias;dar cobijo;aceite;con portales a otros planos;;;;;la ribera;de la víbora;el decantador;oscuro|oscura|oscuros|oscuras;Si le hacía caso, sería traición
+49;;un transporte;la princesa;;;transformarse;;;;;;la baraja;brumoso;del hielo;El Elfo;Elevado|Elevada|Elevados|Elevadas;;carne picada;arándanos;;comino;Autómata;Mostrar;Techo;luchador;;celoso;es risueño;es fumador;Chiflado;Colonizar;Celda;Chimenea;Coronación;Dinosaurio;Nobleza;un lago;es fácil perderse;sala de descanso;un navío;;;;un clérigo;quiere expulsar a;cosechas;padres;ser cultos;óleos;en encrucijadas;;;;;el lago;de la muerte;el dedo;brumoso|brumosa|brumosos|brumosas;Se preguntó de qué bando estaba
+50;;un animal;el heredero;;;convertirse;;;;;;el hueso;inacabable;de levedad;El Enano;En conserva|En conserva|En conserva|En conserva;;carne;limón;;pimienta;Muerto viviente;Revelar;Pilares;fugitivo;;charlatán;es rubio;es inexperto;Ciego;Cometer;Cementerio;Cieno;Corrupción;Djinni;Opositores;estalactitas;es fácil coger el camino equivocado;sala de suministros;una puerta;;;;un cocinero;quiere comprar a;cielo;madres;mantener buenos registros;imposición de manos;en caminos;;;;;el delta;de la vida;el demonio;inacabable|inacabable|inacabables|inacabables;Matarle era la única salida
+51;;un árbol;un paladín;;;soñar;;;;;;la varita;místico;de la muerte viviente;El Engranaje;En salazón|En salazón|En salazón|En salazón;;pierna de cordero;cominos;;guindillas;Jaula;Inundar;Paredes;mendigo;;chistoso;es velludo;es más joven de lo que parece;Clérigo;Competir;Ciénaga;Cinturón;Cosecha;Doppelganger;Orden;estalagmitas;alguien ha quitado unas baldosas;nevera;un escudo;;;;un comandante;quiere el negocio de;bóveda celeste;mendigos;vivir como ermitaños;sanación;junto a ríos;;;;;el alcázar;del liche;el destierro;místico|mística|místicos|místicas;Probablemente fuera un castigo divino
+52;;un portal;un caballero;;;despertar;;;;;;la daga;interplanar;de la resurrección;El Escorpión;Enfadado|Enfadada|Enfadados|Enfadadas;;cordero;pimienta;;pepinillo;Paredes móviles;Quebrar;Foso;esclavo;;chistoso;es verrugoso;es más sensible de lo que le gusta aparentar;Cocinero;Comprar;Circo;Cofre;Crimen;Draco;Partida;un pozo de levitación;alguien ha quitado algunas piedras de la pared;bodega;un torreón;;;;un conde;quiere sobornar a;montañas;huérfanos;virir recluidos;curación;junto al mar;;;;;la ciudad;del dragón;el diablo;interplanar|interplanar|interplanares|interplanares;Estaba en su destino
+53;;una puerta;un monje;;;oponerse;;;;;;la flecha;ajeno;de la reanimación;El Escribano;Escabechado|Escabechada|Escabechados|Escabechadas;;oveja;pimiento verde;;flores;Techo aplastante;Desaparecer;Túnel;capataz;;cínico;está contrahecho;es más viejo de lo que aparenta;Comandante;Comprometer;Círculo mágico;Colgante;Culto;Dracoliche;Realeza;libros;el suelo cruje;trastero;un demonio;;;;un condenado;recibe un soborno de;cumbres;bestias;tener una compleja jerarquía;hablar con los espíritus;bajo el agua;;;;;las ruinas;de la sierpe;el diamante;ajeno|ajena|ajenos|ajenas;No volveria a ver a su familia
+54;;un pórtico;un clérigo;;;convencer;;;;;;el arco;extraño;de transformación;El Escudo;Escabroso|Escabrosa|Escabrosos|Escabrosas;;toro;pimiento rojo;;abeto;Agua;Tropezar;Conducto;chamán;;circunspecto;está desaliñado;es miembro de un gremio;Conde;Conducir;Ciudad;Collar;Cumpleaños;Dracónido;Rebeldes;una varita;el suelo hace ruido al andar;recibidor;un diablo;;;;una condesa;quiere coaccionar a;nubes;monstruos;ser desorganizados;hablar con los muertos;en las copas de grandes árboles;;;;;la roca;del centauro;el diente;extraño|extraña|extraños|extrañas;Las ruinas ocultaban algo peor
+55;;una taberna;un devoto;;;la felicidad;;;;;;la gema;múltiple;de polimorfía;El Espárrago;Espumoso|Espumosa|Espumosos|Espumosas;;ave;guindillas;;piña;Rayo;Agachar;Corredor;sacerdote;;clemente;está mutilado;es mudo;Condenado;Confundir;Ciudadela;Columna;Curación;Dragón;Resistencia;un bastón;la puerta se cierra sola;refectorio;una mujer;;;;un consejero;se ve comprometido por;viento;criaturas;guardar reliquias;hablar con los dioses;con madera;;;;;la piedra;de la mantícora;el engaño;múltiple|múltiple|múltiples|múltiples;No era quien decía ser
+56;;una posada;un adorador;;;esconderse de alguien;;;;;;el pico;arbitrario;de ilusiones;El Esqueleto;Estival|Estival|Estivales|Estivales;;gallo;pepinillos;;pino;Frío;Saltar;Pasillo;adepto;;cobardica;está pelado;es mujeriego;Condesa;Congelar;Claro del bosque;Comida;Declaración de guerra;Draña;Secta;un cetro;alguien perdió un objeto querido aquí;catacumba;un guerrero;;;;un conspirador;tiene algo que compromete a;aire;piratas;lanzar conjuros;veneno;con piedra;;;;;el círculo;de la hidra;el escudo;arbitrario|arbitraria|arbitrarios|arbitrarias;¿Podría recuperar su identidad?
+57;;una caja;un sectario;;;ser libre;;;;;;la coraza;aleatorio;de sueño;El Estofado;Frito|Frita|Fritos|Fritas;;ciervo;judías;;eucalipto;Agua hirviendo;Hundir;Alfombra;cazarrecompensas;;codicioso;le falta una oreja;es otra criatura, polimorfada;Consejero;Conseguir;Cloaca;Componente mágico;Defensa;Dríada;Senado;papeles;alguien dejó sus cosas aquí;tumba;una pica;;;;un contrabandista;tiene pruebas en contra de;tierra;jinetes;destilar bebidas;arañas;con piedras exóticas;;;;;el árbol;del minotauro;el fauno;aleatorio|aleatoria|aleatorios|aleatorias;Ya no recordaba cómo empezó todo
+58;;un barril;un espía;;;;;;;;;la armadura;afortunado;de los enanos;El Estribo;Furioso|Furiosa|Furiosos|Furiosas;;gamo;judías pintas;;nuez moscada;Ajeno;;Cama;espía;;comedido;lleva un pendiente;es pulcro en el vestir;Conspirador;Conspirar;Colina;Contrabando;Derrocamiento;Drow;Servidumbre;pergaminos;hay una boca mágica;sala de máquinas;un pico;;;;un corrupto;quiere eliminar las pruebas en poder de;agua;arqueros;organizar fiestas;sabandijas;con gemas y joyas;;;;;el fuerte;de la medusa;el fin;afortunado|afortunada|afortunados|afortunadas;Escapar de aquello fue un golpe de suerte
+59;;una barcaza;un adivino;;;;;;;;;el yelmo;desafortunado;de los elfos;El Filete;Gélido|Gélida|Gélidos|Gélidas;;corzo;judías blancas;;mejorana;Cieno;;Escritorio;contrabandista;;compasivo;lleva un piercing;es racista;Contrabandista;Construir;Coliseo;Coral;Derrota;Duende;Soldadesca;una hoguera;hay una cámara escondida;laboratorio alquímico;un yunque;;;;una criada;se ve acusado por;profundidades;fatas;oficiar ceremonias;insectos;con grandes pórticos;;;;;la cripta;de los elfos;el fluído;desafortunado|desafortunada|desafortunados|desafortunadas;Huír o luchar marcaría cómo le recordarían
+60;;el circo;un oráculo;;;;;;;;;la runa;plateado;de los drow;El Fogón;Giratorio|Giratoria|Giratorios|Giratorias;;lagarto;habas;;cedro;Esporas;;Pluma;niño;;comprensivo;lleva una prótesis;es receloso ante la magia;Corrupto;Controlar;Comedor;Corona;Desaparición;Duérgar;Sublevados;un fuego;hay un agujero oculto;desagüe;un águila;;;;un criminal;quiere acusar a;ríos;criaturas del bosque;mendigar;serpientes;con muchas puertas;;;;;las criptas;de los enanos;el frío;plateado|plateada|plateados|plateadas;Aquel texto lo explicaba todo
+61;;una entrada;un bandido;;;;;;;;;el glifo;estelar;del norte;El Fraile;Hambriento|Hambrienta|Hambrientos|Hambrientas;;pez de roca;jamón;;rosas;Alarma;;Lago;buhonero;;compulsivo;luce un peinado extraño;es sobrenaturalmente atractivo;Criada;Convencer;Corredor;Cristal;Deseo;Elemental;Templo;una imagen de un dios;hay un tesoro escondido;pozo;un halcón;;;;un cuervo;quiere desenmascarar a;océanos;licántropos;vagar predicando;ácido;con una sola entrada;;;;;las mazmorras;de los gnomos;el fuego;estelar|estelar|estelares|estelares;En el mapa se encontraba la respuesta a su búsqueda
+62;;la arena;un mensajero;;;;;;;;;el cofre;cósmico;de las profundidades;El Fuego;Harapiento|Harapienta|Harapientos|Harapientas;;pescado;flores;;albahaca;Ojo de mago;;Barca;artista;;confiado;parece elástico;es sordo;Criminal;Convertir;Costa;Cuadro;Desgracia;Ent;Tribu;una imagen de un demonio;alguien escondió algo aquí;foso;un búho;;;;un culpable;necesita pruebas en contra de;crecimiento;vampiros;sermonear;luz;con varios accesos;;;;;la mazmorra;de los duendes;el glifo;cósmico|cósmica|cósmicos|cósmicas;Tantos años de servicio para esto
+63;;la recaudación;un sacerdote;;;;;;;;;el arcón;profundo;de la tierra;El Gato;Humeante|Humeante|Humeantes|Humeantes;;bacalao;cerveza;;menta;Ilusión;;Estalactita;juglar;;confiado;parece torpón;es sudoroso;Cuervo;Convocar;Cráter;Cuenco;Destierro;Escorpión;Tripulación;una estatua;el viento aúlla;coliseo;una casa;;;;un cultista;se confunde con;cultivo;muertos vivientes;vivir en comunidad;unción;con una vía de escape;;;;;el laberinto;de las hadas;el grimorio;profundo|profunda|profundos|profundas;No merecía la pena el riesgo
+64;;un tesoro;;;;;;;;;;la copa;incompleto;del abismo;El Gigante;Húmedo|Húmeda|Húmedos|Húmedas;;emperador;vino;;hierbabuena;Compulsión;;Estalagmita;bufón;;conformista;se afeita con perilla;es supersticioso;Culpable;Correr;Cripta;Cuerno;Destrucción;Esfinge;Tropa;jarrones;todo está oscuro;arena;un toro;;;;un curandero;quiere controlar a;agricultura;taberneros;formar parte de la sociedad;drogas;con alojamiento;;;;;el cráter;del ent;el guante;incompleto|incompleta|incompletos|incompletas;Esperaba una recompensa mayor por sus servicios
+65;;un cofre;;;;;;;;;;el vaso;perdido;del resplandor;El Gladiador;Iluminado|Iluminada|Iluminados|Iluminadas;;pez espada;frijoles;;sándalo;Transmutación;;;granjero;;conspirador;tiene arrugas profundas;es un agente secreto del rey;Cultista;Corroer;Cubil;Daga;Disturbios;Espectro;Universidad;una escalera de caracol;hay una oscuridad mágica;jaula;un río;;;;un deidad;quiere escapar al control de;estaciones;posaderos;actuar como guía espiritual;orgías;con un refugio;;;;;la llanura;del ojo;el hacha;perdido|perdida|perdidos|perdidas;Si aquello era verdad…
+66;;una llave;;;;;;;;;;la jarra;abandonado;del trueno;El Gnomo;Invernal|Invernal|Invernales|Invernales;;tiburón;tortillas;;siempreviva;Encantamiento;;;pastor;;cortés;tiene barba de tres días;es un artesano aficionado;Curandero;Corromper;Cueva;Diadema;Eclipse;Esqueleto;Vecindad;ventanas;hay un silencio mágico;prisión;un roble;;;;Demogorgon;quiere convencer de algo a;luna;reyes;predecir el futuro;sexo;con zonas de juego;;;;;los acantilados;de la mandíbula;el hechizo;abandonado|abandonada|abandonados|abandonadas;Nadie había regresado jamás
+67;;un sello;;;;;;;;;;el decantador;afilado;del clima;El Granjero;Jocoso|Jocosa|Jocosos|Jocosas;;liebre;bechamel;;jengibre;Hechizo;;;curandero;;corto;tiene barba larga;es un artista;Deidad;Cortar;Cúpula;Diente;Edicto;Estirge;;una vidriera;hay una luz mágica;sala de contención;un olmo;;;;un desconocido;no se deja convencer por;sol;adivinos;aconsejar a los gobernantes;alucinaciones;con biblioteca;;;;;el acantilado;del colmillo;el hielo;afilado|afilada|afilados|afiladas;Siempre hacía lo que le decían los demás
+68;;una clave;;;;;;;;;;la botella;coralino;de las nubes;El Grifo;Jugoso|Jugosa|Jugosos|Jugosas;;pichón;brandy;;hinojo;Fantasma;;;adivino;;cosmopolita;tiene barba poblada;es un borrachuzo;Demogorgon;Cultivar;Desierto;Droga;Ejecución;Ettercap;;un órgano;hay demasiada luz;laboratorio mágico;un tronco;;;;un desertor;quiere convocar a;estrellas;nigromantes;estar locos;visiones;con zonas de trabajo;;;;;el farallón;de los dientes;el hierofante;coralino|coralina|coralinos|coralinas;Lo prudente sería olvidarse del asunto
+69;;un instrumento;;;;;;;;;;el ojo;prismático;de la bruma;El Guante;Latente|Latente|Latentes|Latentes;;jabalí;licor;;uva;Insectos;;;nigromante;;cotilla;tiene barbilla prominente;es un buen bailarín;Desconocido;Dar a luz;Despacho;Edicto;Elecciones;Ettin;;un instrumento musical;se oye correr el agua;biblioteca;un yelmo;;;;un devoto;quiere corromper a;planos;bárbaros;castigar los pecados;predicciones;con áreas de entrenamiento;;;;;el islote;de las garras;el hueso;prismático|prismática|prismáticos|prismáticas;Una última vez y lo dejaría para siempre
+70;;un aparato;;;;;;;;;;el tentáculo;reconfortante;de los mares;El Guerrero;Lisiado|Lisiada|Lisiados|Lisiadas;;cerdo;embutido;;moscatel;Vacío;;;cazadragones;;creativo;tiene buena planta;es un buscador de bronca;Desertor;Decidir;Destilería;Emblema;Embrujamiento;Extraplanario;;un arcón cerrado;es un lugar de locura;cuarto de juegos;un casco;;;;un diabolista;quiere tentar a;enigmas;salvajes;imponer penitencias;mutilaciones;con salas de meditación;;;;;el promontorio;de los cuernos;el icor;reconfortante|reconfortante|reconfortantes|reconfortantes;Estaría en las profundidades
+71;;una poción;;;;;;;;;;el brazo;lejano;de convocación;El Guisante;Lleno|Llena|Llenos|Llenas;;gorrino;especias;;garnacha;Alma;;;;;crédulo;tiene cicatrices;es un chismoso;Devoto;Declarar;Embalse;Escama;Enfermedad;Fantasma;;un baúl cerrado;alguien controla las mentes;mirador;un zapato;;;;un dios;se ve tentado por;acertijos;dragones;encargar misiones;piercings;con salas de lectura;;;;;las cavernas;del cuerno;el laberinto;lejano|lejana|lejanos|lejanas;Lo cegó momentáneamente la luz del sol
+72;;un brebaje;;;;;;;;;;el dedo;remoto;del destierro;El Hacha;Mágico|Mágica|Mágicos|Mágicas;;sangre;cardamomo;;olivas;Cepo;;;;;creído;tiene dedos de más;es un coleccionista;Diabolista;Defender;Enclave;Escudilla;Engaño;Felino;;un baúl abierto;alguien ha hecho de esto su hogar;cuarto de materiales;una lanza;;;;un diplomático;busca el cariño de;soledad;espías;perseguir a los herejes;tatuajes;con sótanos;;;;;la cueva;de las escamas;el laúd;remoto|remota|remotos|remotas;Con esa magia podía ocurrir cualquier cosa
+73;;una alcantarilla;;;;;;;;;;la garra;recóndito;de los tritones;El Hada;Manco|Manca|Mancos|Mancas;;sepia;chorizo;;maíz;Abismo;;;;;criticón;tiene dedos de menos;es un comilón;Dios;Delinquir;Encrucijada;Escudo;Enigma;Firbolg;;un arcón abierto;es la guarida de una criatura;puente;un sol;;;;un doctor;no se ve correspondido por;compañía;aventureros;impartir justicia;profecías;con catacumbas;;;;;el colegio;de las uñas;el libro;recóndito|recóndita|recónditos|recónditas;Nunca pensó que tendría tal poder
+74;;un muro;;;;;;;;;;la mano;humilde;de los ilícidos;El Hogar;Maravilloso|Maravillosa|Maravillosos|Maravillosas;;caracoles;morcilla;;patata;Lodo;;;;;cruel;tiene dientes afilados;es un criminal convicto;Diplomático;Delirar;Erial;Escultura;Enterramiento;Fomoriano;;un armario con ropa;aquí intersecan muchos caminos;pasarela;una luna;;;;un druida;ama en secreto a;vino;mercenarios;castigar a los pecadores;historias y leyendas;cerca de cementerios;;;;;la academia;de los cabellos;el mal;humilde|humilde|humildes|humildes;Oía ruidos detrás de él
+75;;un alcázar;;;;;;;;;;el diente;puro;de inteligencia;El Horno;Marcado|Marcada|Marcados|Marcadas;;marisco;longaniza;;cebolla;Arenas movedizas;;;;;cuentista;tiene dientes de conejo;es un enviado divino;Doctor;Demostrar;Escalera;Esfera;Envenenamiento;Fuego fatuo;;barriles de vino;aquí acaba el camino;enfermería;un girasol;;;;un duque;es el hijo secreto de;mujeres;soldados;hacer guerra santa;reliquias;con un cementerio;;;;;la colegiata;de la cabeza;el martillo;puro|pura|puros|puras;¿Por qué no podía verlo?
+76;;un aljibe;;;;;;;;;;el colmillo;esclavo;de agilidad;El Jergón;Mareado|Mareada|Mareados|Mareadas;;langosta;cebollino;;albaricoque;;;;;;cuidadoso;tiene dientes de oro;es un espía;Druida;Desaparecer;Escollos;Espada;Epidemia;Gárgola;;barriles con agua;parece un callejón sin salida, pero…;quirófano;un olivo;;;;una duquesa;es el hijo bastardo de;hombres;guardias;actuar en las sombras;artefactos;con muros alrededor;;;;;la universidad;de los brazos;el mazo;esclavo|esclava|esclavos|esclavas;Si lo conseguía, nada podría detenerle
+77;;una cosecha;;;;;;;;;;la biblioteca;esclavizante;de fuerza;El Ladrón;Melancólico|Melancólica|Melancólicos|Melancólicas;;rodaballo;rábanos;;pomelo;;;;;;curioso;tiene dientes grandes;es un espíritu libre;Duque;Descifrar;Escondite;Especias;Erupción volcánica;Genasi;;viales;en realidad nada es lo que parece;almacén mágico;una rama;;;;un electo;es un familiar lejano de;sexo;bandidos;;objetos mágicos;con puertas fortificadas;;;;;la poza;de las piernas;el mechón;esclavizante|esclavizante|esclavizantes|esclavizantes;Ninguna de las dos opciones le parecía buena
+78;;un producto;;;;;;;;;;el túnel;susurrante;de fortaleza;El Lagarto;Meridional|Meridional|Meridionales|Meridionales;;atún;cebolleta;;;;;;;;curtido;tiene dientes podridos;es un fugitivo;Duquesa;Descubrir;Escondrijo;Espejo;Escaramuza;Genio;;un laboratorio;todo parece inofensivo;ascensor;una hoja;;;;un elfo;ha recibido una herencia de;amor;criminales;;pociones;completamente abiertos;;;;;el foso;de la cola;el miedo;susurrante|susurrante|susurrantes|susurrantes;El código le impedía traicionarle
+79;;unas semillas;;;;;;;;;;la puerta;parlante;de la sabiduría;El Lago;Montañoso|Montañosa|Montañosos|Montañosas;;anguila;champiñones;;;;;;;;dadivoso;tiene el pelo castaño;es un gorrón;Electo;Desear;Establos;Espora;Esclavitud;Ghoul;;un frasco de veneno;todo parece peligroso;tubería;una nube;;;;un embajador;finge ser un familiar de;procreación;;;escritura;con grandes columnas;;;;;la fosa;de los ojos;el monolito;parlante|parlante|parlantes|parlantes;Si eso era cierto, sería alta traición
+80;;sus ropas;;;;;;;;;;el pórtico;silencioso;de carisma;El Látigo;Mudo|Muda|Mudos|Mudas;;;pasta;;;;;;;;dadivoso;tiene el pelo corto;es un jugador compulsivo;Elfo;Desestabilizar;Estadio;Esqueleto;Estado de pánico;Gigante;;un juego de cartas;todo tiene trampas;alcantarilla;una estrella;;;;un emperador;finge conocer a la familia de;hijos;;;meditación;con mosaicos;;;;;el faro;de la vaca;el mundo;silencioso|silenciosa|silenciosos|silenciosas;Lo buscó por todas partes, pero no estaba allí
+81;;su oro;;;;;;;;;;la torre;curador;de persuasión;El Laúd;Negro|Negra|Negros|Negras;;ternero;gambas;;;;;;;;de buen corazón;tiene el pelo cuidado;es un líder vocacional;Embajador;Despertar;Estudio;Estandarte;Esterilidad;Githerai;;unas misivas;todo está encantado;galería de arte;un caballero;;;;un enano;se hace pasar a menudo por;ladrones;;;trascendencia;con tapices;;;;;el barco;de la cabra;el norte;curador|curadora|curadores|curadoras;Si le encontraban, le matarían
+82;;su alma;;;;;;;;;;el alcázar;sanador;de hechizo;El León;Nevado|Nevada|Nevados|Nevadas;;cabrito;erizos de mar;;;;;;;;de corazón duro;tiene el pelo ensortijado;es un ligón;Emperador;Desterrar;Excavación;Estatua;Evento astronómico;Githyanki;;un escritorio;todo está maldito;centro de exposición;un paladín;;;;un enemigo;pretende ser;allanamiento;;;abstinencia;con frescos;;;;;el buque;de la oveja;el obelisco;sanador|sanadora|sanadores|sanadoras;
+83;;su filacteria;;;;;;;;;;el pie;ciego;de latón;El Libro;Noble|Noble|Nobles|Nobles;;;angulas;;;;;;;;de palabra;tiene el pelo grasiento;es un malhablado;Enano;Destilar;Fábrica;Estrella;Excavación;Gnoll;;una poción;todo es corriente;sala de trofeos;un pie;;;;un enviado;actúa como si fuera;leyes;;;enfermedad;con bajorrelieves;;;;;las ciénagas;del lince;el ocaso;ciego|ciega|ciegos|ciegas;
+84;;una reliquia;;;;;;;;;;la oreja;sordo;de recuperación;El Limón;Norteño|Norteña|Norteños|Norteñas;;;huevas;;;;;;;;decidido;tiene el pelo hirsuto;es un maniático;Enemigo;Destruir;Fondo;Filacteria;Expansión;Gnomo;;armas;está todo impregnado de aceite;cuarto de entrenamiento;un mago;;;;un ermitaño;se transforma en;palabras;;;tierra;con runas;;;;;el hayedo;del esqueleto;el ojo;sordo|sorda|sordos|sordas;
+85;;una deidad;;;;;;;;;;el mechón;podrido;del tirano;El Luchador;Nublado|Nublada|Nublados|Nubladas;;;huevos;;;;;;;;dedicado;tiene el pelo lacio;es un mentiroso;Enviado;Diseñar;Fortaleza;Flecha;Expedición;Goblin;;una armadura;está todo cubierto de ceniza;sala de visitas;un ladrón;;;;un erudito;lleva una vida secreta como;escritura;;;polvo;con baldosas;;;;;el pinar;de los huesos;el olvido;podrido|podrida|podridos|podridas;
+86;;un veneno;;;;;;;;;;la pata;enfermo;de la tiranía;El Mago;Occidental|Occidental|Occidentales|Occidentales;;;granada;;;;;;;;dejado;tiene el pelo largo;es un mocoso;Ermitaño;Disfrazarse;Fosa;Flor;Experimento;Gólem;;lanzas;está todo cubierto de polvo;aseo;una manzana;;;;un esclavo;quiere demostrar algo sobre;ciencia;;;componentes arcanos;con colores vivos;;;;;los montes;del cráneo;el oráculo;enfermo|enferma|enfermos|enfermas;
+87;;un escudo;;;;;;;;;;el cuenco;corrupto;de esclavitud;El Maíz;Oriental|Oriental|Orientales|Orientales;;;pepitas;;;;;;;;depravado;tiene el pelo liso;es un novato;Erudito;Dormir;Fuente;Forja;Exploración;Grell;;provisiones;está todo cubierto de sangre;letrina;una pera;;;;un escriba;quiere desestabilizar a;respeto;;;alquimia;con arquitectura austera;;;;;la capilla;de la calavera;el orbe;corrupto|corrupta|corruptos|corruptas;
+88;;un mapa;;;;;;;;;;la bandeja;incólume;del silencio;El Mar;Oscuro|Oscura|Oscuros|Oscuras;;;cacahuetes;;;;;;;;depresivo;tiene el pelo muy largo;es un opositor al régimen;Esclavo;Edificar;Fuerte;Fórmula;Explosión;Grifo;;cuerdas;está inundada;cuarto de baño;un montaraz;;;;un escudero;cree haber descubierto algo sobre;tolerancia;;;pintura;con arquitectura simple;;;;;el oratorio;de la bruma;el órgano;incólume|incólume|incólumes|incólumes;
+89;;un sótano;;;;;;;;;;la fuente;incorrupto;de la luz;El Martillo;Otoñal|Otoñal|Otoñales|Otoñales;;;avellanas;;;;;;;;derrochador;tiene el pelo rizado;es un pelmazo;Escriba;Ejecutar;Galeón;Fuego;Expolio;Grimlock;;lámparas;hay un sistema de alarma;baños;un pino;;;;un espadachín;quiere destruir a;odio;;;bálsamos;con arquitectura moderna;;;;;la cárcel;de las nubes;el orgullo;incorrupto|incorrupta|incorruptos|incorruptas;
+90;;una bodega;;;;;;;;;;el escudo;volador;de la oscuridad;El Mediano;Oxidado|Oxidada|Oxidados|Oxidadas;;;queso rallado;;;;;;;;derrotista;tiene el rostro picado de viruela;es un piropeador;Escudero;Emerger;Géiser;Galeón;Falla;Gusano;;agua bendita;hay un sistema de protección;cuarto de limpieza;un druida;;;;un espía;busca desterrar a;persecución;;;baños;con arquitectura sólida;;;;;la prisión;del cielo;el oro;volador|voladora|voladores|voladoras;
+91;;un pasadizo;;;;;;;;;;el tapiz;maravilloso;de ceguera;El Mendigo;Pelado|Pelada|Pelados|Peladas;;;queso fundido;;;;;;;;descarado;tiene el tabique nasal roto;es un practicante de religión minoritaria;Espadachín;Encarcelar;Glaciar;Ganzúa;Fenómeno atmosférico;Hada;;un relicario;alguien está vigilando;cuarto de invitados;una fuente;;;;un exarca;despierta junto a;racismo;;;adiestramiento;con arquitectura refinada;;;;;el refugio;de los vientos;el pánico;maravilloso|maravillosa|maravillosos|maravillosas;
+92;;un acceso secreto;;;;;;;;;;la alfombra;mítico;de curación;El Mercenario;Piadoso|Piadosa|Piadosos|Piadosas;;;cortezas;;;;;;;;descortés;tiene encías sangrantes;es un quejica;Espía;Encerrar;Globo aerostático;Garras;Feria;Hidra;;un mensaje;hay algo escondido;habitación del pánico;un tiburón;;;;un excéntrico;quiere desenterrar el cadáver de;éxito;;;adoctrinamiento;con grandes tesoros en su interior;;;;;el puesto;del este;el pico;mítico|mítica|míticos|míticas;
+93;;una vía de escape;;;;;;;;;;la lámpara;legendario;de sanación;El Monje;Plateado|Plateada|Plateados|Plateadas;;;patatas;;;;;;;;descuidado;tiene la boca grande;es un rebelde sin causa;Exarca;Encontrar;Granero;Gema;Fiesta popular;Hobgoblin;;lava;hay algo esperando merodeadores;bar;un tigre;;;;un exiliado;busca;fracaso;;;actividades al aire libre;con una gran torre;;;;;el torreón;del oeste;el pie;legendario|legendaria|legendarios|legendarias;
+94;;el mar;;;;;;;;;;el templo;terrible;de sordera;El Murciélago;Primaveral|Primaveral|Primaverales|Primaverales;;;patata hervida;;;;;;;;descuidado;tiene la boca pequeña;es un sobón;Excéntrico;Enfrentar;Granja;Grilletes;Fiesta privada;Hombre-lagarto;;barro;alguien se dejó algo olvidado;cuartel;un corcel;;;;un explorador;busca la tumba de;perseverancia;;;hogueras;con un campanario;;;;;la aguja;del norte;el polvo;terrible|terrible|terribles|terribles;
+95;;un fuerte;;;;;;;;;;la catedral;horrible;de enfermedad;El Naipe;Prisionero|Prisionera|Prisioneros|Prisioneras;;;moras;;;;;;;;desdeñoso;tiene la cara alargada;es un tipo duro;Exiliado;Enloquecer;Gremio;Guantelete;Firma de tratado;Hombre-lobo;;tierra;alguien ha pasado por aquí recientemente;sala del trono;un trono;;;;un extranjero;busca resucitar a;constancia;;;fuegos artificiales;con tejados a dos aguas;;;;;el patio;del sur;el pórtico;horrible|horrible|horribles|horribles;
+96;;un camino;;;;;;;;;;el oráculo;consciente;de los deseos;El Necrófago;Púrpura|Púrpura|Púrpuras|Púrpuras;;;frutos secos;;;;;;;;desgarbado;tiene la frente huidiza;es un viajero interplanario;Explorador;Enterrar;Grieta;Guantes;Frío;Hombre-rata;;goteras;alguien entra en la habitación en ese momento;sala de audiencias;una corona;;;;un extraplanario;quiere curar a;familia;;;golems;con tejado a un agua;;;;;la fuente;escarlata;el pozo;consciente|consciente|conscientes|conscientes;
+97;;un torreón;;;;;;;;;;el guante;inteligente;del miedo;El Nicho;Real|Real|Reales|Reales;;;peras;;;;;;;;desmedido;tiene la mandíbula ancha;es un zalamero;Extranjero;Entrar;Gruta;Hacha;Fuga;Homúnculo;;humedades;el lugar está maldito;oratorio;una doncella;;;;un familiar;quiere envenenar a;reino;;;resurrección;con tejados a cuatro aguas;;;;;el callejón;carmesí;el rayo;inteligente|inteligente|inteligentes|inteligentes;
+98;;una fuente;;;;;;;;;;el collar;omnisciente;del pánico;El Ogro;Rebosante|Rebosante|Rebosantes|Rebosantes;;;ajonjolí;;;;;;;;desordenado;tiene la piel cubierta de llagas;es una criatura polimorfada;Extraplanario;Entregar;Guarida;Hebilla;Funeral;Hongo;;escombros;el lugar está bendecido;cuarto de música;un murciélago;;;;un famoso;quiere contagiar a;justicia;;;muertos vivientes;con agujas;;;;;la puerta;de oro;el relámpago;omnisciente|omnisciente|omniscientes|omniscientes;
+99;;un cadáver;;;;;;;;;;las botas;omnipotente;de la voluntad;El Ojo;Retorcido|Retorcida|Retorcidos|Retorcidas;;;sésamo;;;;;;;;despectivo;tiene la piel curtida;es veterano en mil batallas;Familiar;Envenenar;Gueto;Herramienta;Granizo;Hormiga gigante;;una trampilla en el techo;el lugar está en contacto con otro plano;auditorio;un hacha;;;;un fanático;se despierta encadenado junto a;castigo;;;;con varias cúpulas;;;;;la muralla;de plata;el resplandor;omnipotente|omnipotente|omnipotentes|omnipotentes;
+100;;una moneda;;;;;;;;;;el báculo;todopoderoso;de pesadilla;El Olmo;Rojo|Roja|Rojos|Rojas;;;pan frito;;;;;;;;despegado;tiene la tez aceitunada;esinmigrante;Famoso;Escalar;Habitación secreta;Hielo;Guerra;Horror enredadera;;una cornisa;el lugar está en sombras;teatro;un gigante;;;;un fiscal;es encarcelado junto a;crimen;;;;semienterradas;;;;;el otero;de bronce;el rubí;todopoderoso|todopoderosa|todopoderosos|todopoderosas;
+101;;una armadura;;;;;;;;;;la reliquia;verde;de la traición;El Orbe;Ruidoso|Ruidosa|Ruidosos|Ruidosas;;;panecillos;;;;;;;;despilfarrador;tiene labios carnosos;está afectado por magia;Fanático;Escapar;Hondonada;Hierbas;Guerra civil;Huargo;;una grieta;está medio derruido;camerino;un ogro;;;;un fugitivo;se encuentra con;asesinato;;;;con pozos;;;;;la mansión;pálido;el silencio;verde|verde|verdes|verdes;
+102;;un espada;;;;;;;;;;el artefacto;blanco;del engaño;El Orco;Sabroso|Sabrosa|Sabrosos|Sabrosas;;;tostadas;;;;;;;;despistado;tiene labios finos;está aquejado de algún tipo de locura;Fiscal;Esclavizar;Hostal;Hilo;Hambruna;Ifriti;;un abismo;está en malas condiciones;sala común;un gato;;;;un gemelo;quiere volver loco a;secuestro;;;;con acequias y canales;;;;;la residencia;oscuro;el sueño;blanco|blanca|blancos|blancas;
+103;;una corona;;;;;;;;;;el órgano;inmaculado;de la libertad;El Orco;Sagrado|Sagrada|Sagrados|Sagradas;;;salsa;;;;;;;;despreciable;tiene la mirada esquiva;está buscando a alguien;Fugitivo;Escoltar;Iceberg;Hongo;Hechizo;Insecto;;hongos;está bien vigilado;buhardilla;una campana;;;;un genasí;se disfraza a menudo de;hermandad;;;;con ventanales;;;;;el palacio;del curtidor;el tahalí;inmaculado|inmaculada|inmaculados|inmaculadas;
+104;;un cetro;;;;;;;;;;el arpa;bienhallado;de la liberación;El Orégano;Sediento|Sedienta|Sedientos|Sedientas;;;trufas;;;;;;;;dialogante;tiene la mirada fría;está enamorado de alguien importante;Gato;Esconder;Iglesia;Hueso;Heladas;Kelpie;;moho;está abandonado;escalinata;una iglesia;;;;un general;quiere reemplazar a;caridad;;;;con vidrieras;;;;;el palacete;del cuchillero;el tapiz;bienhallado|bienhallada|bienhallados|bienhalladas;
+105;;un bastón;;;;;;;;;;el laúd;vorpal;de los esclavos;El Órgano;Septentrional|Septentrional|Septentrionales|Septentrionales;;;mostaza;;;;;;;;dicharachero;tiene la mirada furibunda;está escapando de alguien;Gemelos;Esperar;Infraoscuridad;Huevo;Herencia;Kóbold;;plantas;nadie ha pasado por aquí en mucho tiempo;escalera de caracol;una gota;;;;un gitano;quiere derrocar a;oro;;;;con muchos colores;;;;;la carretera;del aguador;el templo;vorpal|vorpal|vorpales|vorpales;
+106;;un collar;;;;;;;;;;el atrio;siegavidas;de la pobreza;El Oso;Solitario|Solitaria|Solitarios|Solitarias;;;fresas;;;;;;;;diplomático;tiene la mirada nerviosa;está fascinado por la magia;Genasí;Espiar;Isla;Impuesto;Hundimiento;Kraken;;maleza;alguien quería que no se encontrara este lugar;refugio;una lágrima;;;;un guardabosques;quiere destituir a;riquezas;;;;con muchos adornos;;;;;el pórtico;del pastor;el tentáculo;siegavidas|siegavidas|siegavidass|siegavidass;
+107;;la costa;;;;;;;;;;el altar;segador;de la riqueza;El Palacio;Sombrío|Sombría|Sombríos|Sombrías;;;frambuesas;;;;;;;;discreto;tiene la mirada penetrante;está iniciando una rebelión;General;Establecer;Isla;Inscripción;Idea;Kuo-toa;;vegetación;alguien esperaba que otros llegaran aquí;acceso;un rayo;;;;un guardaespaldas;quiere desprestigiar a;tesoro;;;;de forma austera;;;;;el volcán;del labriego;el tintero;segador|segadora|segadores|segadoras;
+108;;un acantilado;;;;;;;;;;el ara;buscador;del oro;El Paladín;Sureño|Sureña|Sureños|Sureñas;;;jengibre;;;;;;;;discutidor;tiene la mirada pícara;está interesado en algún tipo de monstruo;Gitano;Estudiar;Isla;Joya;Inauguración;Lamia;;enredaderas;alguien dejó pistas;salida;un relámpago;;;;un guardia;quiere entrar en la casa de;búsqueda;;;;sin adornos;;;;;la montaña;del rey;el tirano;buscador|buscadora|buscadores|buscadoras;
+109;;unas cavernas;;;;;;;;;;la hoguera;celestial;de búsqueda;El Pantalón;Triste|Triste|Tristes|Tristes;;;olivas;;;;;;;;distraído;tiene la nariz afilada;está maldito;Guardabosques;Excavar;Islote;Lámpara;Incendio;Licántropo;;algo enterrado;aquí se cometió un crimen;centro de investigación;un ala;;;;un guardián;está enamorado de la pareja de;exploración;;;;sin símbolos;;;;;la ciudadela;de la reina;el tomo;celestial|celestial|celestiales|celestiales;
+110;;un altar;;;;;;;;;;la cima;celeste;de jade;El Pegaso;Tuerto|Tuerta|Tuertos|Tuertas;;;aceitunas;;;;;;;;divertido;tiene la nariz aguileña;está recién salido de la cárcel;Guardaespaldas;Experimentar;Jardín;Lanza;Incesto;Liche;;sangre;alguien ocultó pruebas aquí;sala de magia;un cetro;;;;un guerrero;es el amante secreto de;hojas;;;;sin representaciones;;;;;el hogar;del príncipe;el trueno;celeste|celeste|celestes|celestes;
+111;;una cripta;;;;;;;;;;la cumbre;subterráneo;de diamante;El Pergamino;Vacío|Vacía|Vacíos|Vacías;;;hojas de parra;;;;;;;;dócil;tiene la nariz ancha;frecuentemente guiña el ojo;Guardia;Explorar;Jungla;Lápida;Incursión;Limo;;restos de comida;hay algo enterrado;sala de oración;una varita;;;;un heredero;es el amante de la pareja de;plantas;;;;sin paredes;;;;;;del monje;el túnel;subterráneo|subterránea|subterráneos|subterráneas;
+112;;un círculo mágico;;;;;;;;;;el pie;ilimitado;de rubí;El Perro;Valiente|Valiente|Valientes|Valientes;;;dátiles;;;;;;;;dogmático;tiene la nariz colorada;fue desheredado por su familia;Guardián;Expulsar;Laberinto;Lentes;Independencia;Lobo;;cadáveres;hay un mecanismo;sala de meditación;un bastón;;;;un hermano;ha escondido a;bestias;;;;sólo con columnas;;;;;;del montaraz;el vaso;ilimitado|ilimitada|ilimitados|ilimitadas;
+113;;una pirámide;;;;;;;;;;la pezuña;;de obsidiana;El Pescado;Venenoso|Venenosa|Venenosos|Venenosas;;;cerezas;;;;;;;;dormilón;tiene la nariz prominente;fue desterrado;Guerrero;Extirpar;Laboratorio;Libro;Infiltración;Mantícora;;huesos;no hay forma de pasar;sala de recogimiento;un orbe;;;;un héroe;ha dado asilo a;piratería;;;;sólo con un altar;;;;;;del druida;el veneno;meridional|meridional|meridionales|meridionales;
+114;;un templo;;;;;;;;;;la lágrima;;de oro;El Peto;Verde|Verde|Verdes|Verdes;;;miel;;;;;;;;educado;tiene la nariz puntiaguda;fuma compulsivamente;Heredero;Extraer;Lago;Licor;Inicio;Manto;;insectos muertos;;basurero;un ancla;;;;un herrero;busca protección de;pillaje;;;;con un altar de piedra exótica;;;;;;del mago;el viento;destructor|destructora|destructores|destructoras;
+115;;una secta;;;;;;;;;;el ánfora;;de plata;El Pícaro;Viejo|Vieja|Viejos|Viejas;;;caramelo;;;;;;;;egoísta;tiene la nariz respingona;guarda un secreto familiar;Hermano;Fabricar;Laguna;Lodo;Inquisición;Medusa;;insectos;;aljibe;una perdiz;;;;un hierofante;busca asilo de;navegación;;;;con un altar adornado;;;;;;del brujo;el yelmo;buscador|buscadora|buscadores|buscadoras;
+116;;un artefacto;;;;;;;;;;;;del cielo;El Pico;Volador|Voladora|Voladores|Voladoras;;;jarabe;;;;;;;;elitista;tiene la piel de color extraño;guarda un terrible secreto;Héroe;Falsificar;Licorería;Luna;Intoxicación;Micónido;;grava;;lago;un gallo;;;;una hija;se esconde en la casa de;mar;;;;con un altar engalanado;;;;;;del hechicero;la agilidad;creador|creadora|creadores|creadoras;
+117;;una nota;;;;;;;;;;;;de las alturas;El Pimiento;;;;endrinas;;;;;;;;elocuente;tiene la piel oscura;habla con una jerga ininteligible;Herrero;Fingir;Localización arcana;Madera;Inundación;Minotauro;;un rastrillo cerrado;;río;una garza;;;;un hijo;se siente observado por;olas;;;;con un altar de sacrificios;;;;;;de la bruja;la alfombra;encantador|encantadora|encantadores|encantadoras;
+118;;un espíritu;;;;;;;;;;;;;El Pincel;;;;anís;;;;;;;;empático;tiene las cejas pobladas;habla demasiado;Hierofante;Forjar;Localización elemental;Máquina;Invasión;Modrón;;una compuerta;;acantilado;una llave;;;;un historiador;viaja junto a;acantilados;;;;con una gran hoguera;;;;;;de la saga;la armadura;hechizador|hechizadora|hechizadores|hechizadoras;
+119;;el cielo;;;;;;;;;;;;;El Plato;;;;piñones;;;;;;;;enérgico;tiene las patillas gruesas;habla demasiado despacio;Hija;Fortalecer;Lodazal;Marca;Invento;Mole terrosa;;una esclusa;;abismo;un sable;;;;un infernal;escolta a;pozos;;;;con un gran pozo;;;;;;del alquimista;la bandeja;convocador|convocadora|convocadores|convocadoras;
+120;;las estrellas;;;;;;;;;;;;;El Plebeyo;;;;naranja;;;;;;;;envidioso;tiene los labios cortados;habla mal de sus conocidos;Hijo;Forzar;Manicomio;Marmita;Invierno;Momia;;un túnel;;precipicio;un estoque;;;;un investigador;debe proteger a;cuevas;;;;en torno a una sima;;;;;;del capitán;la baraja;desterrador|desterradora|desterradores|desterradoras;
+121;;la luna;;;;;;;;;;;;;El Poeta;;;;aceite;;;;;;;;equilibrado;tiene los labios gruesos;habla muy bajo;Historiador;Frustrar;Mansión;Máscara;Juicio;Monstruo corrosivo;;una reliquia;;sala del tesoro;un mandoble;;;;un jefe;organiza una expedición junto a;lluvia;;;;con un puente;;;;;;del caballero;la biblioteca;asesino|asesina|asesinos|asesinas;
+122;;un cometa;;;;;;;;;;;;;El Potaje;;;;vinagre;;;;;;;;escrupuloso;tiene los ojos azules;habla muy rápido;Infernal;Fundir;Mar;Mensaje;Justa;Morfópodo;;un objeto olvidado;;cuarto de tesoros;un mangual;;;;un jinete;se asocia con;tormentas;;;;en las grandes ciudades;;;;;;del paladín;la bolsa;portador|portadora|portadores|portadoras;
+123;;las nubes;;;;;;;;;;;;;El Príncipe;;;;melocotones;;;;;;;;especulativo;tiene los ojos claros;hizo una promesa que debe cumplir;Investigador;Ganar;Mar;Mercancía;Ley;Muerto viviente;;restos de una criatura;;cámara del tesoro;una mano;;;;un juez;crea una compañía junto con;calma;;;;en los pueblos;;;;;;de los dioses;la botella;controlador|controladora|controladores|controladoras;
+124;;;;;;;;;;;;;;;El Puchero;;;;grosellas;;;;;;;;esquivo;tiene los ojos de color miel;huele a flores del bosque;Jefe;Hacer trampas;Marca;Mesa;Ley marcial;Murciélago;;un libro sagrado;;estercolero;una constelación;;;;un juglar;quiere suplantar a;caballos;;;;en las villas;;;;;;del dios;la bruma;luchador|luchadora|luchadores|luchadoras;
+125;;;;;;;;;;;;;;;El Puerro;;;;pasas;;;;;;;;estrecho de miras;tiene los ojos grandes;idolatra a su padre;Jinete;Huir;Marjal;Miembro;Linchamiento;Mutante;;un anillo;;agujero;una cadena;;;;Juiblex;encuentra el cadáver de;espadas;;;;en los campos;;;;;;del armero;la búsqueda;hacedor|hacedora|hacedores|hacedoras;
+126;;;;;;;;;;;;;;;El Puré;;;;menta;;;;;;;;estricto;tiene los ojos grises;le da igual todo;Juez;Huír;Mausoleo;Misiva;Llamada a las armas;Naga;;pinturas al fresco;;sala de vigilancia;un látigo;;;;un ladrón;encuentra malherido a;forja;;;;en los bosques;;;;;;del marinero;la cámara;corruptor|corruptora|corruptores|corruptoras;
+127;;;;;;;;;;;;;;;El Queso;;;;hierbabuena;;;;;;;;estudioso;tiene los ojos hundidos;le encantan las apuestas;Juglar;Hundir;Mazmorras;Mithril;Lluvia;Necrófago;;un cuadro;;puesto de vigilancia;un tridente;;;;un líder;quiere fortalecer sus relaciones con;acero;;;;en el mar;;;;;;de la sirena;la capa;esclavizador|esclavizadora|esclavizadores|esclavizadoras;
+128;;;;;;;;;;;;;;;El Rey;;;;hinojo;;;;;;;;exaltado;tiene los ojos inyectados;le falta un dedo;Juiblex;Husmear;Megalito;Moneda;Luna llena;Neogi;;una caja fuerte;;sala de control;una herradura;;;;un lisiado;finge ser el amigo de;armas;;;;en los acantilados;;;;;;del kraken;la carta;liberador|liberadora|liberadores|liberadoras;
+129;;;;;;;;;;;;;;;El Montaraz;;;;albaricoques;;;;;;;;exigente;tiene los ojos marrones;le falta un objeto en su colección;Ladrón;Impacientarse;Mercado;Naipe;Magnicidio;Nigromante;;vidrios;;mercado;un cuervo;;;;una madre;finge ser el emisario de;combate;;;;bajo cascadas;;;;;;del titán;la catedral;reanimador|reanimadora|reanimadores|reanimadoras;
+130;;;;;;;;;;;;;;;El Caballero;;;;sandía;;;;;;;;expresivo;tiene los ojos negros;le gusta mostrar una parte de su cuerpo;Líder;Incendiar;Mina;Nicho;Maldición;No-muerto;;un orbe;;atrio;un cáliz;;;;un maestro;finge hablar en nombre de;gloria;;;;en las alturas;;;;;;del gigante;la caverna;desintegrador|desintegradora|desintegradores|desintegradoras;
+131;;;;;;;;;;;;;;;El Riachuelo;;;;calabaza;;;;;;;;extrovertido;tiene los ojos oscuros;le gusta viajar;Lisiado;Infiltrar;Minarete;Obra de arte;Marea;Ogro;;un cuerno;;piscina;una copa;;;;un maestro gremial;finge ser representante de;lucha;;;;en los hielos;;;;;;del gólem;la ceguera;restablecedor|restablecedora|restablecedores|restablecedoras;
+132;;;;;;;;;;;;;;;El Río;;;;pepino;;;;;;;;falaz;tiene los ojos pequeños;le gustan los acertijos;Madre;Influir;Monasterio;Ojo;Marea;Oni;;una imagen;;sala de cría;una cueva;;;;un mago;finge ser el enviado de;pelea;;;;en pantanos;;;;;;de arcilla;la cima;sanador|sanadora|sanadores|sanadoras;
+133;;;;;;;;;;;;;;;El Sauce;;;;melaza;;;;;;;;FALSO;tiene los ojos rasgados;lucha por un ideal;Maestro;Informar;Montaña;Olla;Maremoto;Orco;;una figurita;;guardería;una flauta;;;;un malabarista;quiere huir de;lid;;;;;;;;;;de roca;la condenación;curador|curadora|curadores|curadoras;
+134;;;;;;;;;;;;;;;El Soldado;;;;ciruelas;;;;;;;;fanático;tiene los ojos saltones;masca tabaco;Maestro gremial;Inmovilizar;Montes;Olvidado;Matrimonio;Osgo;;una tiara;;caballeriza;una lira;;;;un marinero;quiere hundir a;justas;;;;;;;;;;de piedra;la convocación;envenenador|envenenadora|envenenadores|envenenadoras;
+135;;;;;;;;;;;;;;;El Sombrero;;;;;;;;;;;;fatalista;tiene los ojos verdes;mira de reojo;Mago;Interceptar;Morgue;Orbe;Mensaje;Oso-lechuza;;gemas;;aviario;un laúd;;;;un marmitón;quiere vencer a;artes marciales;;;;;;;;;;de arena;la copa;enajenador|enajenadora|enajenadores|enajenadoras;
+136;;;;;;;;;;;;;;;El Sótano;;;;;;;;;;;;fiel;tiene los pies grandes;murmura contínuamente;Malabarista;Interrumpir;Muelles;Oro;Mercado;Otyugh;;gemas falsas;;jardines;un arpa;;;;un marqués;quiere ganar a;artes;;;;;;;;;;de polvo;la coraza;enloquecedor|enloquecedora|enloquecedores|enloquecedoras;
+137;;;;;;;;;;;;;;;El Tahalí;;;;;;;;;;;;fiero;tiene los pómulos prominentes;necesita ayuda para una misión;Marinero;Introducir;Muralla;Pan;Migración;Parásito;;arañas;;laberinto;un hipogrifo;;;;una marquesa;quiere anticiparse a;artesanía;;;;;;;;;;blanco;la corona;regenerador|regeneradora|regeneradores|regeneradoras;
+138;;;;;;;;;;;;;;;El Tambor;;;;;;;;;;;;fiero;tiene los rasgos afilados;no es quien dice ser;Marmitón;Investigar;Museo;Pendientes;Milagro;Pesadilla;;un cadalso;;sala de reparación;una pluma;;;;un matón;quiere influir en;pintura;;;;;;;;;;rojo;la cueva;reductor|reductora|reductores|reductoras;
+139;;;;;;;;;;;;;;;El Templo;;;;;;;;;;;;fisgón;tiene mejillas sonrosadas;no mueve un dedo si no hay oro por medio;Marqués;Invocar;Naufragio;Pergamino;Misión;Plaga;;una pista de baile;;sala comunal;una catapulta;;;;un mayordomo;es coaccionado por;escultura;;;;;;;;;;verde;la cumbre;comandador|comandadora|comandadores|comandadoras;
+140;;;;;;;;;;;;;;;El Tenedor;;;;;;;;;;;;frágil;tiene un brazo de menos;no puede quedarse quieto;Marquesa;Irritar;Nave mágica;Piel;Monzón;Plaga inteligente;;una criatura petrificada;;archivo;un molino;;;;un médico;informa a;música;;;;;;;;;;azul;la curación;líder|líder|líderes|líderes;
+141;;;;;;;;;;;;;;;El Tigre;;;;;;;;;;;;galante;tiene un color de ojos inusual;no se fía de nadie;Matón;Lamentar;Navío;Pilar;Muerte;Planodeudo;;una esfera;;librería;una semilla;;;;Mefistófeles;es informado por;comida;;;;;;;;;;bermellón;la daga;atractor|atractora|atractores|atractoras;
+142;;;;;;;;;;;;;;;El Tintero;;;;;;;;;;;;generoso;tiene un color de pelo inusual;no se ríe con nada;Mayordomo;Lanzar;Necrópolis;Pluma;Nacimiento;Planta;;un agujero negro;;sala de escribanía;un candado;;;;un mensajero;es informador de;cocina;;;;;;;;;;celeste;la diadema;repulsor|repulsora|repulsores|repulsoras;
+143;;;;;;;;;;;;;;;El Tomate;;;;;;;;;;;;gracioso;tiene un color de piel inusual;no tiene sentido del humor;Médico;Leer;Nido;Pócima;Naufragio;Quimera;;una puerta;;alfarería;un rastrillo;;;;un mercader;quiere interceptar un cargamento de;alimento;;;;;;;;;;de la alegría;la enfermedad;aliado|aliada|aliados|aliadas;
+144;;;;;;;;;;;;;;;El Tonel;;;;;;;;;;;;gris;tiene un corte de pelo inusual;nunca se mete en problemas;Mefistófeles;Limpiar;Oasis;Poción;Negociación;Rakshasa;;un arco;;galería de tiro;una mano abierta;;;;un merodeador;quiere interceptar un mensaje de;gula;;;;;;;;;;del martillo;la esclavitud;enemigo|enemiga|enemigos|enemigas;
+145;;;;;;;;;;;;;;;El Toro;;;;;;;;;;;;grosero;tiene un ojo vacío;nunca se quita sus guantes;Mensajero;Llamar;Océano;Poesía;Niebla;Rata;;una arcada;;sala sagrada;un anillo;;;;un místico;quiere introducir un espía en casa de;pereza;;;;;;;;;;del yunque;la esfera;descubridor|descubridora|descubridores|descubridoras;
+146;;;;;;;;;;;;;;;El Torrente;;;;;;;;;;;;guarro;tiene un parche en el ojo;odia a casi todos;Mercader;Llenar;Olvidado;Portal;Nieve;Remorhaz;;una intersección;;sala sacrílega;una gema;;;;un monje;quiere invocar a;belleza;;;;;;;;;;de la forja;la espada;ocultador|ocultadora|ocultadores|ocultadoras;
+147;;;;;;;;;;;;;;;El Torreón;;;;;;;;;;;;hábil;tiene un porte noble;odia a un animal;Merodeador;Llevar;Oscuridad;Probeta;Nombramiento;Roc;;algo del futuro;;sala de adoración;una joya;;;;un montaraz;está harto de;pureza;;;;;;;;;;de los fuegos;la eternidad;absorbedor|absorbedora|absorbedores|absorbedoras;
+148;;;;;;;;;;;;;;;El Trasgo;;;;;;;;;;;;habilidoso;tiene un porte orgulloso;padece insomnio;Místico;Luchar;Otro plano;Puerta;Nueva ley;Sabandija;;algo del pasado;;muelle;un ojo cerrado;;;;un náufrago;está irritando a;fealdad;;;;;;;;;;de la llama;la flauta;succionador|succionadora|succionadores|succionadoras;
+149;;;;;;;;;;;;;;;El Tridente;;;;;;;;;;;;harapiento;tiene una dentadura perfecta;parpadea nerviosamente;Monje;Maldecir;Pantano;Rastro;Ofrenda;Sacerdote maligno;;algo de otro mundo;;embarcadero;un ojo reptiliano;;;;un navegante;está molestando a;corrupción;;;;;;;;;;de la hoguera;la flecha;extractor|extractora|extractores|extractoras;
+150;;;;;;;;;;;;;;;El Trigo;;;;;;;;;;;;heroico;tiene una narizota;pertenece a algún gremio;Montaraz;Medir;Páramo;Recompensa;Ola de crímenes;Saga;;una antigüedad;;centro de mercancías;un ojo felino;;;;un nieto;está acosando a;transformación;;;;;;;;;;de las pinzas;la fortaleza;consumidor|consumidora|consumidores|consumidoras;
+151;;;;;;;;;;;;;;;El Troll;;;;;;;;;;;;hipocondríaco;tiene una pierna de menos;pertenece a alguna facción;Náufrago;Meditar;Pasadizo;Regalo;Oscuridad;Sajuaguín;;un amuleto;;cuarto de celadores;un oso;;;;un nigromante;se siente acosado por;muerte viviente;;;;;;;;;;de la espada;la fortuna;enervante|enervante|enervantes|enervantes;
+152;;;;;;;;;;;;;;;El Tronco;;;;;;;;;;;;holgazán;tiene una sonrisa falsa;piensa que cualquier tiempo pasado fue mejor;Navegante;Merodear;Patio de armas;Reliquia;Otoño;Salamandra;;un ritual;;sala de guardia;un huargo;;;;un oráculo;se siente perseguido por;guerra;;;;;;;;;;del hacha;la fuente;abrasador|abrasadora|abrasadores|abrasadoras;
+153;;;;;;;;;;;;;;;El Unicornio;;;;;;;;;;;;honesto;tiene una sonrisa socarrona;posee un artefacto extraño;Nieto;Moldear;Pedregal;Roca;Pánico;Sátiro;;incienso;;sala de artesanía;un orco;;;;Orcus;persigue a;matanza;;;;;;;;;;del mangual;la fuerza;helador|heladora|heladores|heladoras;
+154;;;;;;;;;;;;;;;El Vaso;;;;;;;;;;;;honrado;usa muletas;posee una filosofía vital exótica;Nigromante;Morar;Pirámide;Runa;Parálisis;Señor de los muertos;;aceite;;cuarto de costura;un troll;;;;un orfebre;necesita llamar a;lanzas;;;;;;;;;;de la lanza;la garra;tronante|tronante|tronantes|tronantes;
+155;;;;;;;;;;;;;;;El Vestido;;;;;;;;;;;;hosco;va bien afeitado;pronuncia mal;Oráculo;Morir;Playa;Saco;Parricidio;Serpiente;;ácido;;sastrería;una pala;;;;un padre;tiene que llevar a;dagas;;;;;;;;;;del sol;la gema;de latón|de latón|de latón|de latón;
+156;;;;;;;;;;;;;;;El Vino;;;;;;;;;;;;huidizo;va enjoyado;proviene de una familia rica venida a menos;Orcus;Mudarse;Plaza;Sarcófago;Penitencia;Shadar-Kai;;una maceta;;galería de adiestramiento;una carreta;;;;un paje;maldice a;flechas;;;;;;;;;;de la luna;la gota;de jade|de jade|de jade|de jade;
+157;;;;;;;;;;;;;;;El Violín;;;;;;;;;;;;humilde;va siempre guiñado;quiere a su caballo más que al oro;Orfebre;Nacer;Portal;Seda;Persecución;Slaad;;un jardín;;sala de curtido;un caballo;;;;un paladín;merodea cerca de;frío;;;;;;;;;;de las estrellas;la guerra;de diamante|de diamante|de diamante|de diamante;
+158;;;;;;;;;;;;;;;El Zapato;;;;;;;;;;;;huraño;viste a la moda;repite una coletilla sin cesar;Padre;Nadar;Posada;Sello;Pesadilla;Tarasca;;unos hongos;;bodega de secado;un jinete;;;;un peregrino;vive cerca de;calor;;;;;;;;;;del tiempo;la hoguera;de rubí|de rubí|de rubí|de rubí;
+159;;;;;;;;;;;;;;;El Zombi;;;;;;;;;;;;idealista;viste anticuado;sabe dónde hay enterrado un tesoro;Paje;Navegar;Pozo;Señal;Peste;Tíflin;;unas setas;;sala de envasado;un elfo;;;;un perro;vive junto a;fuego;;;;;;;;;;de la eternidad;la inteligencia;de obsidiana|de obsidiana|de obsidiana|de obsidiana;
+160;;;;;;;;;;;;;;;La Alcoba;;;;;;;;;;;;imaginativo;;se cree un tipo duro;Paladín;Negociar;Pradera;Símbolo;Petrificación;Titán;;unos hierbajos;;despacho;un enano;;;;un pescador;nació bajo el mismo signo que;rayo;;;;;;;;;;de las alturas;la jarra;de oro|de ora|de ora|de ora;
+161;;;;;;;;;;;;;;;La Almohada;;;;;;;;;;;;impío;;se expresa con pedantería;Peregrino;Obligar;Prisión;Sombrero;Pillaje;Trasgo;;mucho polvo;;cuarto de contabilidad;un vaso;;;;un pícaro;nació el mismo día que;relámpago;;;;;;;;;;perdida;la justicia;de plata|de plata|de plata|de plata;
+162;;;;;;;;;;;;;;;La Alubia;;;;;;;;;;;;imprudente;;se mesa las barbas;Perro;Ocultar;Profundidades;Suministro;Pista;Troglodita;;telarañas;;sala de mapas;un grial;;;;un pirata;rescata a;trueno;;;;;;;;;;escondida;la lágrima;de carisma|de carisma|de carisma|de carisma;
+163;;;;;;;;;;;;;;;La Antorcha;;;;;;;;;;;;impulsivo;;se muerde las uñas;Pescador;Ofrecer;Prostíbulo;Tahalí;Plaga;Troll;;un conducto;;sala de proyectos;un colmillo;;;;una pitonisa;salva a;luz;;;;;;;;;;de la llave;la lámpara;del norte|del norte|del norte|del norte;
+164;;;;;;;;;;;;;;;La Araña;;;;;;;;;;;;incansable;;se pega mucho al hablar;Pícaro;Otorgar;Pueblo fantasma;Tapiz;Posesión;Unicornio;;unas tuberías;;despacho de ingeniería;una uña;;;;un plebeyo;es rescatado por;día;;;;;;;;;;de la puerta;la levedad;de oriente|de oriente|de oriente|de oriente;
+165;;;;;;;;;;;;;;;La Avena;;;;;;;;;;;;inculto;;se pelea con todo el mundo;Pirata;Pagar;Puente;Tatuaje;Previsión;Vampiro;;unos huesos;;sala de mando;un monje;;;;un policía;es salvado por;noche;;;;;;;;;;de las piedras;la liberación;de poniente|de poniente|de poniente|de poniente;
+166;;;;;;;;;;;;;;;La Ballesta;;;;;;;;;;;;indeciso;;se pone a hablar con cualquiera;Pitonisa;Pedir;Puerta secreta;Taza;Primavera;Wraith;;un esqueleto;;observatorio;un arquero;;;;un posadero;cura a;lujuria;;;;;;;;;;empedrado;la libertad;del sur|del sur|del sur|del sur;
+167;;;;;;;;;;;;;;;La Baraja;;;;;;;;;;;;independiente;;se rasca contínuamente;Plebeyo;Perder;Puerto;Tela;Profecía;Yuan-ti;;unas ropas viejas;;sala de convocación;unas flechas;;;;un prestidigitador;es curado por;pasión;;;;;;;;;;de humo;la locura;de occidente|de occidente|de occidente|de occidente;
+168;;;;;;;;;;;;;;;La Bisagra;;;;;;;;;;;;indiferente;;se relame;Policía;Perseguir;Puesto;Telar;Prohibición;Yugoloth;;un códice;;sala de conjuración;una punta de lanza;;;;un procurador;acoge;sacrificio;;;;;;;;;;de seda;la luz;de oropel|de oropel|de oropel|de oropel;
+169;;;;;;;;;;;;;;;La Bota;;;;;;;;;;;;indiscreto;;se repeina los cabellos;Popular;Planear;Refugio;Telaraña;Publicación;Zombi;;una librería;;sala de espejos;una alabarda;;;;un profeta;es acogido por;sangre;;;;;;;;;;de nieve;la magia;escondido|escondida|escondidos|escondidas;
+170;;;;;;;;;;;;;;;La Brida;;;;;;;;;;;;individualista;;se ríe por cualquier cosa;Posadero;Polimorfar;Río;Tentáculo;Quiebra;;;unos libros;;sala de ilusión;un cinturón;;;;una prostituta;debe dinero a;conversión;;;;;;;;;;de hojalata;la maldad;oculto|oculta|ocultos|ocultas;
+171;;;;;;;;;;;;;;;La Burra;;;;;;;;;;;;indomable;;sesea;Prestidigitador;Presagiar;Ruinas;Tiara;Rapiña;;;plumas;;sala de abjuración;una bota;;;;un protector;tiene una deuda con;intolerancia;;;;;;;;;;de oropel;la mano;;
+172;;;;;;;;;;;;;;;La Cabaña;;;;;;;;;;;;inexpresivo;;siempre bromea acerca de todo;Procurador;Profetizar;Ruta;Tinaja;Rebelión;;;un tonel;;sala de encantamientos;un camino;;;;un ratero;tiene que pagar a;peregrinación;;;;;;;;;;de latón;la montaña;;
+173;;;;;;;;;;;;;;;La Cabra;;;;;;;;;;;;influenciable;;siempre busca bronca;Profeta;Proteger;Sala acorazada;Tótem;Recaudación;;;un saco;;cuarto de protección;una hoja de roble;;;;un renegado;tiene que cobrar de;silencio;;;;;;;;;;de fuego;la muerte;;
+174;;;;;;;;;;;;;;;La Cacerola;;;;;;;;;;;;ingenioso;;siempre contesta con evasivas;Prominente;Quebrar;Sala de baile;Trampa;Regalo;;;unas hierbas;;depósito de cadáveres;una hoja de olmo;;;;un representante;ha perdido a;vista;;;;;;;;;;de frío;la muerte viviente;;
+175;;;;;;;;;;;;;;;La Calavera;;;;;;;;;;;;ingenuo;;siempre cuenta anécdotas;Prostituta;Quemar;Sala de fiestas;Trampilla;Reunión;;;sacas de cereal;;sala de autopisas;una hoja de fresno;;;;un rey;planea algo contra;oscuridad;;;;;;;;;;de ácido;la niebla;;
+176;;;;;;;;;;;;;;;La Cama;;;;;;;;;;;;inocente;;siempre cuenta chistes;Protector;Raptar;Sala de torturas;Tratado;Revuelta;;;una cortina;;sala de nigromancia;unas semillas;;;;un rival;profetiza algo sobre;resplandor;;;;;;;;;;del trueno;la noche;;
+177;;;;;;;;;;;;;;;La Cama;;;;;;;;;;;;inquisidor;;siempre cuenta sus batallitas;Ratero;Rasgar;Salón;Tumba;Riada;;;una cómoda;;bodega de destilación;unos granos;;;;un sabio;quiere secuestrar a;mente;;;;;;;;;;del relámpago;la orden;;
+178;;;;;;;;;;;;;;;La Camisa;;;;;;;;;;;;inquisitivo;;siempre está afilando su navaja;Renegado;Rastrear;Semiplano;Túnel;Ritual;;;un pedestal;;ropero;una hoz;;;;un sacerdote;es secuestrado por;cuerpo;;;;;;;;;;del rayo;la oreja;;
+179;;;;;;;;;;;;;;;La Cañada;;;;;;;;;;;;insensato;;siempre está con que el primo de un amigo se lo dijo;Representante;Reclutar;Sendero;Túnica;Ruina;;;columnas;;laboratorio;un arado;;;;un salvaje;quiere reastrear a;atletismo;;;;;;;;;;del avatar;la oscuridad;;
+180;;;;;;;;;;;;;;;La Capa;;;;;;;;;;;;insistente;;siempre está con que él sólo mató al dragón;Rey;Recolectar;Sima;Ungüento;Rumor;;;un balcón;;sala de armas;un burro;;;;un sanador;es rastreado por;perfección;;;;;;;;;;el mensajero;la partida;;
+181;;;;;;;;;;;;;;;La Capucha;;;;;;;;;;;;insulso;;siempre está fanfarroneando;Rival;Recuperar;Sótano;Valla;Sacrificio;;;balcones;;cuarto de calderas;un cerdo;;;;un secretario;está huyendo de;imperfección;;;;;;;;;;del muerto;la pata;;
+182;;;;;;;;;;;;;;;La Carne;;;;;;;;;;;;intimidante;;siempre está riendo;Sabio;Redimir;Submundo;Vara;Saqueo;;;un murete;;carbonera;un buey;;;;un secuestrador;quiere capturar a;reparación;;;;;;;;;;del moribundo;la perla;;
+183;;;;;;;;;;;;;;;La Casa;;;;;;;;;;;;intolerante;;siempre está sacando brillo a su símbolo sagrado;Sacerdote;Regalar;Subterráneos;Vara;Secreto revelado;;;un escudo;;almacén de leña;una res;;;;un semidiós;quiere averiguar la verdad sobre;construcción;;;;;;;;;;del héroe;la persuasión;;
+184;;;;;;;;;;;;;;;La Catacumba;;;;;;;;;;;;intransigente;;siempre golpea con el dedo;Salvaje;Relampaguear;Sumergible;Varita;Secuestro;;;un tapiz;;serrería;una vaca;;;;un semielfo;quiere recuperar algo de;destrucción;;;;;;;;;;del bardo;la pesadilla;;
+185;;;;;;;;;;;;;;;La Catedral;;;;;;;;;;;;intrigante;;siempre invita a una ronda;Sanador;Rescatar;Sumergido;Vegetal;Señal;;;una alfombra;;almacén de víveres;una oveja;;;;un señor de la guerra;quiere redimir a;licor;;;;;;;;;;del juglar;la pezuña;;
+186;;;;;;;;;;;;;;;La Caverna;;;;;;;;;;;;intrigante;;siempre juega con un puñal;Secretario;Resucitar;Taberna;Vela;Sequía;;;un mecanismo;;silo;una cabra;;;;un siervo;quiere atraer a;alcohol;;;;;;;;;;del bufón;la piedra;;
+187;;;;;;;;;;;;;;;La Cebada;;;;;;;;;;;;introvertido;;siempre juega con una moneda;Secuestrador;Revivir;Taller;Veneno;Siembra;;;un sistema de poleas;;búnker;un pico nevado;;;;una sirvienta;tienta a;magia;;;;;;;;;;del duque;la pirámide ;;
+188;;;;;;;;;;;;;;;La Cebolla;;;;;;;;;;;;iracundo;;siempre lo sabe todo;Semidiós;Rezar;Tanque;Ventana;Silencio;;;un pozo;;almacén de magia;una cascada;;;;un sirviente;atrae a su fe a;hechicería;;;;;;;;;;de la duquesa;la pluma;;
+189;;;;;;;;;;;;;;;La Cerradura;;;;;;;;;;;;irascible;;siempre olvida los nombres;Semielfo;Robar;Teatro;Verja;Sitio;;;un portal;;altar;un ocaso;;;;un socio;quiere hechizar a;brujería;;;;;;;;;;del conde;la pobreza;;
+190;;;;;;;;;;;;;;;La Cerveza;;;;;;;;;;;;irónico;;siempre se teme lo peor;Señor de la guerra;Romper;Tejado;Vial;Suceso;;;un artefacto mágico;;hilandería;una luna creciente;;;;un soldado;quiere engañar a;adivinación;;;;;;;;;;de la condesa;la polimorfía;;
+191;;;;;;;;;;;;;;;La Chimenea;;;;;;;;;;;;irrespetuoso;;siempre tamborilea con los dedos;Siervo;Sacrificar;Teletransportador;Vidrio;Tarea;;;un glifo custodio;;cuarto de mantenimiento;una luna menguante;;;;un sultán;se ve engañado por;locura;;;;;;;;;;del barón;la puerta;;
+192;;;;;;;;;;;;;;;La Choza;;;;;;;;;;;;irreverente;;siempre vocifera;Sirvienta;Saltar;Templo;Vino;Teatro;;;una runa de poder;;sala de invocación;un duende;;;;un sumo sacerdote;quiere revivir a;masoquismo;;;;;;;;;;de la baronesa;la pureza;;
+193;;;;;;;;;;;;;;;La Cítara;;;;;;;;;;;;irritable;;silba contínuamente;Sirviente;Salvar;Tienda;Víveres;Terremoto;;;un círculo mágico;;sala de sacrificios;un hada;;;;un superviviente;quiere resucitar a;sadismo;;;;;;;;;;del señor;la razón;;
+194;;;;;;;;;;;;;;;La Cocatriz;;;;;;;;;;;;jovial;;sisea;Socio;Sanar;Torre;Yelmo;Timo;;;espejos;;patio de armas;un ent;;;;un tabernero;quiere robar a;diablos;;;;;;;;;;de la señora;la reanimación;;
+195;;;;;;;;;;;;;;;La Colina;;;;;;;;;;;;juicioso;;su fe se tambalea;Soldado;Saquear;Tumba;;Toque de queda;;;botellas;;tocador;una esfera;;;;un terrateniente;quiere sacrificar a;demonios;;;;;;;;;;de la dama;la recuperación;;
+196;;;;;;;;;;;;;;;La Copa;;;;;;;;;;;;lacónico;;su negocio se va a pique;Sultán;Secuestrar;Túmulo;;Tormenta;;;tarros;;sala de belleza;un cubo;;;;un testigo;quiere salvar a;sierpes;;;;;;;;;;del escudero;la reliquia;;
+197;;;;;;;;;;;;;;;La Copa;;;;;;;;;;;;lastimero;;suele blasfemar;Sumo sacerdote;Seguir;Túnel;;Torneo;;;frascos;;cuarto de tortura;un cuadrado;;;;un tíflin;quiere saquear el pueblo de;serpientes;;;;;;;;;;del caballo;la resurrección;;
+198;;;;;;;;;;;;;;;La Corona;;;;;;;;;;;;legal;;"suele decir: ""¡no puede ser cierto!""";Superviviente;Sellar;Vado;;Trampa;;;utensilios de alquimia;;sala de torturas;un pentágono;;;;un timador;quiere las tierras de;arañas;;;;;;;;;;del toro;la riqueza;;
+199;;;;;;;;;;;;;;;La Cripta;;;;;;;;;;;;lenguaraz;;"suele decir: ""¡viva el rey!""";Tabernero;Sembrar;Valle;;Travesía;;;un tocador;;sala de justicia;una runa;;;;un torturador;quiere la bancarrota de;escorpiones;;;;;;;;;;del basilisco;la roca;;
+200;;;;;;;;;;;;;;;La Cuchara;;;;;;;;;;;;lento;;"suele decir: ""¿cómo dices?""";Terrateniente;Sentenciar;Villa;;Tributo;;;una camilla;;tribunal;un anagrama;;;;un traidor;quiere las posesiones de;veneno;;;;;;;;;;del cieno;la runa;;
+201;;;;;;;;;;;;;;;La Cuerda;;;;;;;;;;;;lisonjero;;"suele decir: ""¿has oído eso?""";Testigo;Sobrevivir;Volcán;;Turba;;;una cama;;sala de ajusticiamiento;una letra;;;;un trampero;desea a la pareja de;enfermedad;;;;;;;;;;de barro;la sabiduría;;
+202;;;;;;;;;;;;;;;La Cueva;;;;;;;;;;;;locuaz;;"suele decir: ""¿no sabes con quién estás hablando?""";Tíflin;Soñar;Vórtice;;Vacío de poder;;;un camastro;;sala de interrogatorios;un glifo;;;;un trotamundos;funda una secta junto a;putrefacción;;;;;;;;;;de plomo;la sanación;;
+203;;;;;;;;;;;;;;;La Cumbre;;;;;;;;;;;;lujurioso;;"suele decir: ""¿tienes una moneda?""";Timador;Sumergir;Zigurat;;Velatorio;;;una horca;;corredor de la muerte;un símbolo;;;;un usurero;funda un gremio junto a;sabandijas;;;;;;;;;;de la luz;la sangre;;
+204;;;;;;;;;;;;;;;La Daga;;;;;;;;;;;;mal genio;;"suele decir: ""¿tu nombre era…?""";Torturador;Talar;;;Ventisca;;;una guillotina;;ala de sacrificios;un número;;;;un usurpador;llega tarde a una cita con;licantropía;;;;;;;;;;de la oscuridad;la suerte;;
+205;;;;;;;;;;;;;;;La Doncella;;;;;;;;;;;;mal hablado;;"suele decir: ""esto me huele muy mal""";Traidor;Tejer;;;Verano;;;unas cadenas;;cercado;una oreja;;;;un vagabundo;quiere convertirse en;odio;;;;;;;;;;de la magia;la sustancia;;
+206;;;;;;;;;;;;;;;La Dríada;;;;;;;;;;;;maleducado;;suele encogerse de hombros;Trampero;Teleportar;;;Verbena;;;unas poleas;;campo;un pendiente;;;;un vasallo;ha sido polimorfado en;soberbia;;;;;;;;;;del poder;la tierra;;
+207;;;;;;;;;;;;;;;La Empanada;;;;;;;;;;;;malhumorado;;sueña con el futuro;Trotamundos;Traicionar;;;Viaje;;;un barril de comida;;cultivo;un hexágono;;;;un verdugo;quiere usurpar la posición de;narcisismo;;;;;;;;;;de la debilidad;la tiranía;;
+208;;;;;;;;;;;;;;;La Escalera;;;;;;;;;;;;malicioso;;sufre aracnofobia;Usurero;Transformar;;;Victoria;;;una caja de víveres;;terraza;un heptágono;;;;un viajero;quiere comprar algo en posesión de;nobleza;;;;;;;;;;de la tristeza;la torre;;
+209;;;;;;;;;;;;;;;La Escudilla;;;;;;;;;;;;manazas;;sufre de alucinaciones ocasionales;Usurpador;Transportar;;;Visita diplomática;;;una alacena;;taller;un octógono;;;;un vidente;duda si vender algo a;paciencia;;;;;;;;;;del adiós;la traición;;
+210;;;;;;;;;;;;;;;La Espada;;;;;;;;;;;;mandón;;sufre de doble personalidad;Vagabundo;Trasladar;;;;;;una mesa de comedor;;faro;un eneágono;;;;un vigía;vendió algo a;ira;;;;;;;;;;del regalo;la transformación;;
+211;;;;;;;;;;;;;;;La Especia;;;;;;;;;;;;marrullera;;sufre insomnio;Vasallo;Usurpar;;;;;;un sofá;;camarote;un polígono;;;;un visir;regaló algo a;justo castigo;;;;;;;;;;del presente;la tumba;;
+212;;;;;;;;;;;;;;;La Espuela;;;;;;;;;;;;melancólico;;sufre jaquecas;Verdugo;Vaciar;;;;;;una butaca;;camarín;un poliedro;;;;un aprendiz;recibió algo de;competición;;;;;;;;;;del pasado;la varita;;
+213;;;;;;;;;;;;;;;La Estrella;;;;;;;;;;;;mentiroso;;sufre una extraña enfermedad;Viajero;Vagar;;;;;;un taburete;;cadalso;un tetraedro;;;;una mujer;recibió un regalo de;deporte;;;;;;;;;;del futuro;la vida;;
+214;;;;;;;;;;;;;;;La Falda;;;;;;;;;;;;meticuloso;;sufre undefecto de pronunciación;Vidente;Vender;;;;;;migas de pan;;barbacana;un pergamino;;;;una esposa;vendió a;fuerza;;;;;;;;;;del oráculo;la voluntad;;
+215;;;;;;;;;;;;;;;La Flauta;;;;;;;;;;;;mezquino;;sufrió una tragedia familiar;Vigía;Viajar;;;;;;pan rancio;;vestíbulo;una sandía;;;;una concubina;compró como esclavo a;agilidad;;;;;;;;;;de los sueños;las alturas;;
+216;;;;;;;;;;;;;;;La Flecha;;;;;;;;;;;;narcisista;;tartamudea;Visir;Volar;;;;;;unas plumas;;;una calabaza;;;;una amante;quiere esclarecer un crimen sobre;destreza;;;;;;;;;;de la doncella;las arenas;;
+217;;;;;;;;;;;;;;;La Fritura;;;;;;;;;;;;nervioso;;teme que le roben;Aprendiz;;;;;;;una almohada;;;una pera;;;;un villano;;misericordia;;;;;;;;;;del heredero;las botas;;
+218;;;;;;;;;;;;;;;La Fruta;;;;;;;;;;;;neurótico;;tiene acento extranjero;Mujer;;;;;;;cubiertos;;;una zanahoria;;;;un burgomaestre;;perdón;;;;;;;;;;de los pesares;las hadas;;
+219;;;;;;;;;;;;;;;La Fusta;;;;;;;;;;;;noble;;tiene algún prejuicio;Esposa;;;;;;;tazas;;;un conejo;;;;un maestre;;conquista;;;;;;;;;;de la añoranza;las ilusiones;;
+220;;;;;;;;;;;;;;;La Ganzúa;;;;;;;;;;;;observador;;tiene alma de bardo;Concubina;;;;;;;copas;;;una liebre;;;;un maestro;;esclavitud;;;;;;;;;;de la compasión;las mentes;;
+221;;;;;;;;;;;;;;;La Gema;;;;;;;;;;;;obstinado;;tiene alma de comerciante;Amante;;;;;;;vasos;;;un chacal;;;;un rebelde;;liberación;;;;;;;;;;de la guerra;las montañas;;
+222;;;;;;;;;;;;;;;La Gruta;;;;;;;;;;;;ocurrente;;tiene andares elásticos;Villano;;;;;;;platos;;;un camello;;;;un hechicero;;sosiego;;;;;;;;;;de la victoria;las nubes;;
+223;;;;;;;;;;;;;;;La Guadaña;;;;;;;;;;;;olvidadizo;;tiene antecedentes militares;Burgomaestre;;;;;;;fuentes;;;un elefante;;;;una hechicera;;calma;;;;;;;;;;de la derrota;las perlas;;
+224;;;;;;;;;;;;;;;La Guarida;;;;;;;;;;;;optimista;;tiene debilidad por el sexo opuesto;Maestre;;;;;;;cuencos;;;un león;;;;una bruja;;paz;;;;;;;;;;de la conquista;las plagas;;
+225;;;;;;;;;;;;;;;La Harina;;;;;;;;;;;;ordenado;;tiene dientes de menos;Maestro;;;;;;;un tintero;;;un lagarto;;;;una saga;;hambre;;;;;;;;;;del recuerdo;las profundidades;;
+226;;;;;;;;;;;;;;;La Hidra;;;;;;;;;;;;orgulloso;;tiene fobia a algo;Drow;;;;;;;una carta;;;una medusa;;;;un ilícido;;austeridad;;;;;;;;;;de la rebelión;las sabandijas;;
+227;;;;;;;;;;;;;;;La Hierba;;;;;;;;;;;;pacífico;;tiene la mirada perdida;Príncipe Elfo;;;;;;;una misiva;;;un centauro;;;;un dragón;;vanidad;;;;;;;;;;de los esclavos;las sierpes;;
+228;;;;;;;;;;;;;;;La Hogaza;;;;;;;;;;;;palurdo;;tiene mal aliento;Rey Enano;;;;;;;un pergamino;;;un buitre;;;;un drow;;humildad;;;;;;;;;;del honor;las tierras;;
+229;;;;;;;;;;;;;;;La Honda;;;;;;;;;;;;paranoico;;tiene manos temblorosoas;General Enano;;;;;;;una nota;;;un azor;;;;un contemplador;;sencillez;;;;;;;;;;de la libertad;los ajenos;;
+230;;;;;;;;;;;;;;;La Hoz;;;;;;;;;;;;peleón;;tiene parásitos;Mediano;;;;;;;un panfleto;;;una gaviota;;;;un rey elfo;;esfuerzo;;;;;;;;;;de la liberación;los ángeles;;
+231;;;;;;;;;;;;;;;La Infusión;;;;;;;;;;;;pendenciero;;tiene sed de venganza;Gnomo;;;;;;;un aviso;;;un pez espada;;;;un príncipe elfo;;trampa;;;;;;;;;;de la gloria;los arcanos;;
+232;;;;;;;;;;;;;;;La Jabalina;;;;;;;;;;;;perezoso;;tiene un acento gracioso;Saqueador;;;;;;;una señal;;;un salmón;;;;un rey enano;;engaño;;;;;;;;;;del campeón;los bienes;;
+233;;;;;;;;;;;;;;;La Jarra;;;;;;;;;;;;perfeccionista;;tiene un aliento fétido;Mercenario;;;;;;;una marca;;;una trucha;;;;un general enano;;decepción;;;;;;;;;;del sacerdote;los cadáveres;;
+234;;;;;;;;;;;;;;;La Joya;;;;;;;;;;;;perseverante;;tiene un andar peculiar;Bucanero;;;;;;;una advertencia;;;una carpa;;;;un mediano;;sombras;;;;;;;;;;del ermitaño;los cielos;;
+235;;;;;;;;;;;;;;;La Judía;;;;;;;;;;;;perspicaz;;tiene un don con los animales;Cambiaformas;;;;;;;manchas de sangre;;;una tienda;;;;un gnomo;;ocultismo;;;;;;;;;;del topo;los demonios;;
+236;;;;;;;;;;;;;;;La Lanza;;;;;;;;;;;;pertinaz;;tiene un extraño don mágico;Joyero;;;;;;;un ara;;;un telar;;;;un hada;;secretismo;;;;;;;;;;del escarabajo;los deseos;;
+237;;;;;;;;;;;;;;;La Lápida;;;;;;;;;;;;pesimista;;tiene un gemelo malvado;Bardo;;;;;;;una fogata;;;una rueca;;;;un genio;;novedad;;;;;;;;;;del faraón;los diablos;;
+238;;;;;;;;;;;;;;;La Lechuga;;;;;;;;;;;;petimetre;;tiene un grupo de seguidores;Actor;;;;;;;un fuego improvisado;;;un pozo;;;;un diablo;;creación;;;;;;;;;;del sha;los diamantes;;
+239;;;;;;;;;;;;;;;La Lengua;;;;;;;;;;;;piadoso;;tiene un hijo bastardo;Intérprete;;;;;;;un campamento;;;unas grebas;;;;un demonio;;matrimonio;;;;;;;;;;del emir;los dioses;;
+240;;;;;;;;;;;;;;;La Lira;;;;;;;;;;;;pícaro;;tiene un hobby característico (pesca, caza…);Saqueador de tumbas;;;;;;;una tienda;;;un rostro;;;;un ángel;;mentira;;;;;;;;;;del sultán;los dragones;;
+241;;;;;;;;;;;;;;;La Lluvia;;;;;;;;;;;;polemista;;tiene un objeto único;Ilusionista;;;;;;;un saco de dormir;;;una máscara;;;;un aasimar;;traición;;;;;;;;;;de la vela;los drow;;
+242;;;;;;;;;;;;;;;La Mansión;;;;;;;;;;;;práctico;;tiene un olor corporal intenso;Conjurador;;;;;;;harina;;;un racimo de uvas;;;;un deva;;decencia;;;;;;;;;;de la cuchara;los ejércitos;;
+243;;;;;;;;;;;;;;;La Manta;;;;;;;;;;;;preguntón;;tiene un peinado extraño;Emisario;;;;;;;cereal;;;;;;;un modrón;;castidad;;;;;;;;;;del cuenco;los elfos;;
+244;;;;;;;;;;;;;;;La Manzana;;;;;;;;;;;;prepotente;;tiene un sueño recurrente;;;;;;;;vino barato;;;;;;;un planodeudo;;templanza;;;;;;;;;;del tenedor;los enanos;;
+245;;;;;;;;;;;;;;;La Maza;;;;;;;;;;;;presumido;;tiene un talismán o fetiche;;;;;;;;vino de buena calidad;;;;;;;un semidemonio;;virtud;;;;;;;;;;de la daga;los enemigos;;
+246;;;;;;;;;;;;;;;La Mazmorra;;;;;;;;;;;;presuntuoso;;tiene un tatuaje especial;;;;;;;;cerveza;;;;;;;un saqueador;;independencia;;;;;;;;;;del laúd;los esclavos;;
+247;;;;;;;;;;;;;;;La Moneda;;;;;;;;;;;;pródigo;;tiene un tic nervioso;;;;;;;;una pintura;;;;;;;un mercenario;;soledad;;;;;;;;;;del arpa;los gigantes;;
+248;;;;;;;;;;;;;;;La Montaña;;;;;;;;;;;;prudente;;tiene una enfermedad desagradable;Vampiro;;;;;;;un fresco;;;;;;;un bucanero;;azar;;;;;;;;;;de la manzana;los horrores;;
+249;;;;;;;;;;;;;;;La Morada;;;;;;;;;;;;pulcro;;tiene una marca de nacimiento;Noble;;;;;;;tapices;;;;;;;un cambiaformas;;entrenamiento;;;;;;;;;;del ciervo;los huesos;;
+250;;;;;;;;;;;;;;;La Muerte;;;;;;;;;;;;pusilánime;;tiene una mascota;;;;;;;;una lámpara de pie;;;;;;;un joyero;;gemas;;;;;;;;;;de la cereza;los ilícidos;;
+251;;;;;;;;;;;;;;;La Nave;;;;;;;;;;;;rácano;;tiene una misión que cumplir;;;;;;;;antorchas;;;;;;;un bardo;;vigilancia;;;;;;;;;;de la naranja;los magos;;
+252;;;;;;;;;;;;;;;La Niebla;;;;;;;;;;;;racista;;tiene una tos seca;;;;;;;;una cúpula;;;;;;;un actor;;violación;;;;;;;;;;de la calabaza;los mares;;
+253;;;;;;;;;;;;;;;La Nieve;;;;;;;;;;;;realista;;tiene vértigo;;;;;;;;hierbajos;;;;;;;un intérprete;;;;;;;;;;;;de la cebolla;los mundos;;
+254;;;;;;;;;;;;;;;La Ninfa;;;;;;;;;;;;rebelde;;tuerto;;;;;;;;un casco;;;;;;;un saqueador de tumbas;;;;;;;;;;;;de la patata;los planos;;
+255;;;;;;;;;;;;;;;La Olla;;;;;;;;;;;;reflexivo;;va siempre perfumado;;;;;;;;un arma;;;;;;;un ilusionista;;;;;;;;;;;;del tomate;los portales;;
+256;;;;;;;;;;;;;;;La Oreja;;;;;;;;;;;;reformista;;ve conspiraciones en todas partes;;;;;;;;un yunque;;;;;;;un conjurador;;;;;;;;;;;;de la lechuga;los reinos;;
+257;;;;;;;;;;;;;;;La Oveja;;;;;;;;;;;;relamido;;viene de un linaje proscrito;;;;;;;;algunas herramientas;;;;;;;un emisario;;;;;;;;;;;;del guisante;los reptiles;;
+258;;;;;;;;;;;;;;;La Pala;;;;;;;;;;;;reservado;;vive al margen de la ley;;;;;;;;una alarma;;;;;;;un fantasma;;;;;;;;;;;;del agua;los reyes;;
+259;;;;;;;;;;;;;;;La Palanca;;;;;;;;;;;;retraído;;vive un amor prohibido;;;;;;;;unas sábanas;;;;;;;un espíritu;;;;;;;;;;;;del guerrero;los rubíes;;
+260;;;;;;;;;;;;;;;La Patata;;;;;;;;;;;;reverente;;vivió una relación incestuosa;;;;;;;;un cofre;;;;;;;un espectro;;;;;;;;;;;;del soldado;los tesoros;;
+261;;;;;;;;;;;;;;;La Pera;;;;;;;;;;;;riguroso;;vivió una relación que mantiene en secreto;;;;;;;;un baúl;;;;;;;un liche;;;;;;;;;;;;del mercenario;los tritones;;
+262;;;;;;;;;;;;;;;La Piedra;;;;;;;;;;;;sabelotodo;;se encuentra en una misión;;;;;;;;un arcón;;;;;;;un vampiro;;;;;;;;;;;;del vampiro;los vientos;;
+263;;;;;;;;;;;;;;;La Pimienta;;;;;;;;;;;;sabihondo;;busca aventureros;;;;;;;;un escudo;;;;;;;un noble;;;;;;;;;;;;de los vampiros;el saco;;
+264;;;;;;;;;;;;;;;La Pluma;;;;;;;;;;;;sabio;;recibió una herencia hace poco;;;;;;;;un joyero;;;;;;;;;;;;;;;;;;;de las hojas;la cuerda;;
+265;;;;;;;;;;;;;;;La Polea;;;;;;;;;;;;sacrificado;;llora con cualquier cosa;;;;;;;;unos cajones;;;;;;;;;;;;;;;;;;;de los escribas;la joya;;
+266;;;;;;;;;;;;;;;La Posada;;;;;;;;;;;;sádico;;;;;;;;;;un banco;;;;;;;;;;;;;;;;;;;del escriba;la perdición;;
+267;;;;;;;;;;;;;;;La Puerta;;;;;;;;;;;;sagaz;;;;;;;;;;un asiento;;;;;;;;;;;;;;;;;;;del pregonero;la espesura;;
+268;;;;;;;;;;;;;;;La Puta;;;;;;;;;;;;sarcástico;;;;;;;;;;una lanza;;;;;;;;;;;;;;;;;;;del mercader;el laúd;;
+269;;;;;;;;;;;;;;;La Rana;;;;;;;;;;;;segundón;;;;;;;;;;una saca;;;;;;;;;;;;;;;;;;;de los carros;el cerebro;;
+270;;;;;;;;;;;;;;;La Rata;;;;;;;;;;;;serio;;;;;;;;;;una valla;;;;;;;;;;;;;;;;;;;de las posadas;el cuerno;;
+271;;;;;;;;;;;;;;;La Reina;;;;;;;;;;;;servicial;;;;;;;;;;una verja;;;;;;;;;;;;;;;;;;;de los cuchilleros;el guantelete;;
+272;;;;;;;;;;;;;;;La Rueda;;;;;;;;;;;;servil;;;;;;;;;;unos tomates;;;;;;;;;;;;;;;;;;;de los curtidores;el sultán;;
+273;;;;;;;;;;;;;;;La Ruleta;;;;;;;;;;;;severo;;;;;;;;;;unas manzanas;;;;;;;;;;;;;;;;;;;del asesino;el emperador;;
+274;;;;;;;;;;;;;;;La Sábana;;;;;;;;;;;;simpático;;;;;;;;;;ratas;;;;;;;;;;;;;;;;;;;de los asesinos;el mensajero;;
+275;;;;;;;;;;;;;;;La Sal;;;;;;;;;;;;simplón;;;;;;;;;;lagartijas;;;;;;;;;;;;;;;;;;;del atardecer;el ermitaño;;
+276;;;;;;;;;;;;;;;La Sal;;;;;;;;;;;;sin sentido común;;;;;;;;;;una lápida;;;;;;;;;;;;;;;;;;;de poniente;el escarabajo;;
+277;;;;;;;;;;;;;;;La Salchicha;;;;;;;;;;;;soberbio;;;;;;;;;;un ataúd;;;;;;;;;;;;;;;;;;;de occidente;el faraón;;
+278;;;;;;;;;;;;;;;La Sartén;;;;;;;;;;;;sobrio;;;;;;;;;;una luz mágica;;;;;;;;;;;;;;;;;;;de levante;el sha;;
+279;;;;;;;;;;;;;;;La Serpiente;;;;;;;;;;;;socarrón;;;;;;;;;;un estrado;;;;;;;;;;;;;;;;;;;de la lluvia;el emir;;
+280;;;;;;;;;;;;;;;La Silla De Montar;;;;;;;;;;;;sociable;;;;;;;;;;un trono;;;;;;;;;;;;;;;;;;;de la tempestad;el sacerdote;;
+281;;;;;;;;;;;;;;;La Soga;;;;;;;;;;;;soez;;;;;;;;;;una silla;;;;;;;;;;;;;;;;;;;de la ventisca;el monje;;
+282;;;;;;;;;;;;;;;La Sopa;;;;;;;;;;;;sofisticado;;;;;;;;;;una baraja;;;;;;;;;;;;;;;;;;;del granizo;el campeón;;
+283;;;;;;;;;;;;;;;La Tarta ;;;;;;;;;;;;sombrío;;;;;;;;;;unas tabas;;;;;;;;;;;;;;;;;;;del olvido;el paladín;;
+284;;;;;;;;;;;;;;;La Taza;;;;;;;;;;;;soñador;;;;;;;;;;un espejo;;;;;;;;;;;;;;;;;;;del encuentro;el héroe;;
+285;;;;;;;;;;;;;;;La Tienda;;;;;;;;;;;;soñoliento;;;;;;;;;;un cajón;;;;;;;;;;;;;;;;;;;de los secretos;el guerrero;;
+286;;;;;;;;;;;;;;;La Torre;;;;;;;;;;;;soso;;;;;;;;;;alfombras;;;;;;;;;;;;;;;;;;;de los amantes;la estatua;;
+287;;;;;;;;;;;;;;;La Tumba;;;;;;;;;;;;sospechoso;;;;;;;;;;unas pieles;;;;;;;;;;;;;;;;;;;de la piedad;la estatuilla;;
+288;;;;;;;;;;;;;;;La Túnica;;;;;;;;;;;;sucio;;;;;;;;;;un caldero;;;;;;;;;;;;;;;;;;;de los piadosos;la figura;;
+289;;;;;;;;;;;;;;;La Vaca;;;;;;;;;;;;sumiso;;;;;;;;;;una marmita;;;;;;;;;;;;;;;;;;;de las cuestas;la figurita;;
+290;;;;;;;;;;;;;;;La Varita;;;;;;;;;;;;susceptible;;;;;;;;;;un desagüe;;;;;;;;;;;;;;;;;;;de las monedas;el honor;;
+291;;;;;;;;;;;;;;;La Vela;;;;;;;;;;;;suspizaz;;;;;;;;;;un pozo;;;;;;;;;;;;;;;;;;;de la joya;el pasado;;
+292;;;;;;;;;;;;;;;La Ventana;;;;;;;;;;;;tacaño;;;;;;;;;;una jardinera;;;;;;;;;;;;;;;;;;;de la gema;el adiós;;
+293;;;;;;;;;;;;;;;La Verdura;;;;;;;;;;;;taciturno;;;;;;;;;;una escultura;;;;;;;;;;;;;;;;;;;de las gemas;la debilidad;;
+294;;;;;;;;;;;;;;;Las Riendas;;;;;;;;;;;;tarambana;;;;;;;;;;estatuas;;;;;;;;;;;;;;;;;;;de las joyas;el tratado;;
+295;;;;;;;;;;;;;;;Las Uvas;;;;;;;;;;;;temerario;;;;;;;;;;un mural;;;;;;;;;;;;;;;;;;;de la corona;el pacto;;
+296;;;;;;;;;;;;;;;El Buey;;;;;;;;;;;;temperamental;;;;;;;;;;lava;;;;;;;;;;;;;;;;;;;del cetro;el círculo;;
+297;;;;;;;;;;;;;;;El Minotauro;;;;;;;;;;;;tenaz;;;;;;;;;;goteras;;;;;;;;;;;;;;;;;;;del báculo;la cábala;;
+298;;;;;;;;;;;;;;;La Mantícora;;;;;;;;;;;;testarudo;;;;;;;;;;humedades;;;;;;;;;;;;;;;;;;;del bastón;la secta;;
+299;;;;;;;;;;;;;;;La Sepia;;;;;;;;;;;;tierno;;;;;;;;;;baldosines;;;;;;;;;;;;;;;;;;;del pordiosero;la congregación;;
+300;;;;;;;;;;;;;;;El Pulpo;;;;;;;;;;;;tímido;;;;;;;;;;un mosaico;;;;;;;;;;;;;;;;;;;del mendigo;la alianza;;
+301;;;;;;;;;;;;;;;El Kraken;;;;;;;;;;;;titubeante;;;;;;;;;;ventanas;;;;;;;;;;;;;;;;;;;de los mendigos;la unión;;
+302;;;;;;;;;;;;;;;El Calamar;;;;;;;;;;;;tolerante;;;;;;;;;;arpilleras;;;;;;;;;;;;;;;;;;;de la misericordia;la tristeza;;
+303;;;;;;;;;;;;;;;El Ciervo;;;;;;;;;;;;tontorrón;;;;;;;;;;un catalejo;;;;;;;;;;;;;;;;;;;de los verdugos;las lágrimas;;
+304;;;;;;;;;;;;;;;El Oso;;;;;;;;;;;;torpe;;;;;;;;;;moscas;;;;;;;;;;;;;;;;;;;de las ejecuciones;la lluvia;;
+305;;;;;;;;;;;;;;;El Juglar;;;;;;;;;;;;tosco;;;;;;;;;;un cable;;;;;;;;;;;;;;;;;;;del cadalso;las rocas;;
+306;;;;;;;;;;;;;;;El Bufón;;;;;;;;;;;;traicionero;;;;;;;;;;un acertijo;;;;;;;;;;;;;;;;;;;del verdugo;el basilisco;;
+307;;;;;;;;;;;;;;;;;;;;;;;;;;;tramposo;;;;;;;;;;unos versículos;;;;;;;;;;;;;;;;;;;de la tortura;el bufón;;
+308;;;;;;;;;;;;;;;;;;;;;;;;;;;trapicheador;;;;;;;;;;un calendario;;;;;;;;;;;;;;;;;;;del sufrimiento;el bandido;;
+309;;;;;;;;;;;;;;;;;;;;;;;;;;;tratable;;;;;;;;;;un mapa;;;;;;;;;;;;;;;;;;;de la perdición;el libertador;;
+310;;;;;;;;;;;;;;;;;;;;;;;;;;;tristón;;;;;;;;;;una gárgola;;;;;;;;;;;;;;;;;;;de la bendición;el liberador;;
+311;;;;;;;;;;;;;;;;;;;;;;;;;;;trotamundos;;;;;;;;;;una cuerda;;;;;;;;;;;;;;;;;;;de la salvación;el circo;;
+312;;;;;;;;;;;;;;;;;;;;;;;;;;;vacilante;;;;;;;;;;una soga;;;;;;;;;;;;;;;;;;;del curandero;la arena;;
+313;;;;;;;;;;;;;;;;;;;;;;;;;;;vago;;;;;;;;;;una rueda;;;;;;;;;;;;;;;;;;;del hospicio;la bruja;;
+314;;;;;;;;;;;;;;;;;;;;;;;;;;;valeroso;;;;;;;;;;una rueca;;;;;;;;;;;;;;;;;;;del atajo;el rey;;
+315;;;;;;;;;;;;;;;;;;;;;;;;;;;valiente;;;;;;;;;;un montón de paja;;;;;;;;;;;;;;;;;;;del luto;el mago;;
+316;;;;;;;;;;;;;;;;;;;;;;;;;;;veleidoso;;;;;;;;;;un árbol;;;;;;;;;;;;;;;;;;;del ahorcado;el hechicero;;
+317;;;;;;;;;;;;;;;;;;;;;;;;;;;vengativo;;;;;;;;;;un montón de leña;;;;;;;;;;;;;;;;;;;del fin;el nigromante;;
+318;;;;;;;;;;;;;;;;;;;;;;;;;;;veraz;;;;;;;;;;un tocón;;;;;;;;;;;;;;;;;;;de los elementos;el liche;;
+319;;;;;;;;;;;;;;;;;;;;;;;;;;;vergonzoso;;;;;;;;;;una barra;;;;;;;;;;;;;;;;;;;del viento;el contemplador;;
+320;;;;;;;;;;;;;;;;;;;;;;;;;;;violento;;;;;;;;;;un botellero;;;;;;;;;;;;;;;;;;;del tormento;los liches;;
+321;;;;;;;;;;;;;;;;;;;;;;;;;;;vivaracho;;;;;;;;;;un fogón;;;;;;;;;;;;;;;;;;;de las rocas;los nigromantes;;
+322;;;;;;;;;;;;;;;;;;;;;;;;;;;voluntarioso;;;;;;;;;;un torno;;;;;;;;;;;;;;;;;;;de los esqueletos;los hechiceros;;
+323;;;;;;;;;;;;;;;;;;;;;;;;;;;llorón;;;;;;;;;;unos grilletes;;;;;;;;;;;;;;;;;;;de los espíritus;las brujas;;
+324;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;unas aldabas;;;;;;;;;;;;;;;;;;;de las brujas;los druidas;;
+325;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;unas almenas;;;;;;;;;;;;;;;;;;;de los druidas;el druida;;
+326;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;una almenara;;;;;;;;;;;;;;;;;;;de perdición;los paladines;;
+327;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;un ánfora;;;;;;;;;;;;;;;;;;;de los ojos;los caballeros;;
+328;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del ojo;los adoradores;;
+329;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los susurros;los seguidores;;
+330;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la noche;los siervos;;
+331;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del ocaso;los discípulos;;
+332;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de condenación;el siervo;;
+333;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los gigantes;el amo;;
+334;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los aullidos;los amos;;
+335;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los gritos;los señores;;
+336;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del dragón;el señor;;
+337;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los dragones;la leyenda;;
+338;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del oro;las leyendas;;
+339;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de oriente;el canto;;
+340;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del norte;;;
+341;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de las especias;;;
+342;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del comercio;;;
+343;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los mercaderes;;;
+344;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la balanza;;;
+345;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del colmillo;;;
+346;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de las fauces;;;
+347;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la cabellera;;;
+348;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del contemplador;;;
+349;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la hiedra;;;
+350;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la hidra;;;
+351;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la esfinge;;;
+352;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los enigmas;;;
+353;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los acertijos;;;
+354;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de las trampas;;;
+355;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la caída;;;
+356;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la muerte en vida;;;
+357;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la nigromancia;;;
+358;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los planos;;;
+359;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la independencia;;;
+360;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los hongos;;;
+361;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la maleza;;;
+362;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de las arañas;;;
+363;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la araña;;;
+364;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los drow;;;
+365;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del artesano;;;
+366;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los bardos;;;
+367;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del lince;;;
+368;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del grifo;;;
+369;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del lobo;;;
+370;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los lobos;;;
+371;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del león;;;
+372;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del toro;;;
+373;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los cuernos;;;
+374;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del corzo;;;
+375;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del conejo;;;
+376;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del demonio;;;
+377;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del diablo;;;
+378;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los demonios;;;
+379;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los diablos;;;
+380;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del gato;;;
+381;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los perros;;;
+382;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del trasgo;;;
+383;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del orco;;;
+384;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los goblins;;;
+385;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los orcos;;;
+386;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la garra;;;
+387;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la sangre;;;
+388;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de sangre;;;
+389;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del agua;;;
+390;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la convocación;;;
+391;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la destrucción;;;
+392;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la creación;;;
+393;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la conjuración;;;
+394;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la ilusión;;;
+395;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de ilusión;;;
+396;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la música;;;
+397;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la melodía;;;
+398;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la visión;;;
+399;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la locura;;;
+400;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la tragedia;;;
+401;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de las visiones;;;
+402;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de las pesadillas;;;
+403;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de topacio;;;
+404;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los rubíes;;;
+405;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de esmeralda;;;
+406;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de diamante;;;
+407;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de plata;;;
+408;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de bronce;;;
+409;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de latón;;;
+410;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del fuego;;;
+411;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del aire;;;
+412;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la tierra;;;
+413;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de las profundidades;;;
+414;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del abismo;;;
+415;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del infierno;;;
+416;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del rajá;;;
+417;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del jarl;;;
+418;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la leyenda;;;
+419;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de las leyendas;;;
+420;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del que nadie habla;;;
+421;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la cabra;;;
+422;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del carnero;;;
+423;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la espada;;;
+424;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del hacha;;;
+425;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del mandoble;;;
+426;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del anillo;;;
+427;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del oro;;;
+428;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de platino;;;
+429;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de electro;;;
+430;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de mithril;;;
+431;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los enanos;;;
+432;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los gnomos;;;
+433;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los trolls;;;
+434;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la peste;;;
+435;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del azufre;;;
+436;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la pestilencia;;;
+437;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la enfermedad;;;
+438;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del cieno;;;
+439;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de las luces;;;
+440;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los espectros;;;
+441;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los fantasmas;;;
+442;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los cadáveres;;;
+443;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la ceniza;;;
+444;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de lava;;;
+445;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los diablillos;;;
+446;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del hidromiel;;;
+447;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del licor;;;
+448;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del vino;;;
+449;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la cerveza;;;
+450;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de las flores;;;
+451;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de las hadas;;;
+452;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la brisa;;;
+453;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la luna;;;
+454;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del sol;;;
+455;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los rostros;;;
+456;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los recuerdos;;;
+457;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del pensamiento;;;
+458;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de las ramas;;;
+459;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la batalla;;;
+460;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;del perdón;;;
+461;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de las nubes;;;
+462;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de la tormenta;;;
+463;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;de los relámpagos;;;
+464;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+465;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+466;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+467;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+468;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+469;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+470;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+471;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+472;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+473;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+474;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+475;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+476;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+477;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+478;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+479;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+480;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+481;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+482;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+483;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+484;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+485;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+486;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+487;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+488;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+489;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+490;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+491;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+492;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+493;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+494;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+495;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+496;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+497;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+498;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+499;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+500;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+501;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+502;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+503;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+504;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+505;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+506;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+507;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+508;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+509;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+510;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+511;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+512;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+513;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+514;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+515;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+516;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+517;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+518;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+519;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+520;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+521;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+522;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+523;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+524;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+525;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+526;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+527;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+528;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+529;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+530;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+531;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+532;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+533;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+534;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+535;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+536;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+537;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+538;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+539;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+540;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+541;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+542;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+543;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+544;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+545;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+546;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+547;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+548;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+549;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+550;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+551;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+552;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+553;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+554;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+555;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+556;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+557;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+558;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+559;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+560;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+561;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+562;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+563;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+564;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+565;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+566;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+567;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+568;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+569;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+570;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+571;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+572;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+573;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+574;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+575;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+576;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+577;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+578;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+579;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+580;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+581;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+582;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+583;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+584;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+585;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+586;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+587;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+588;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+589;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+590;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+591;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+592;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+593;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+594;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+595;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+596;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+597;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+598;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+599;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+600;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+601;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+602;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+603;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+604;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+605;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+606;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+607;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+608;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+609;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+610;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+611;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+612;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+613;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+614;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+615;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+616;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+617;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+618;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+619;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+620;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+621;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+622;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+623;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+624;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+625;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+626;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+627;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+628;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+629;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+630;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+631;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+632;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+633;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+634;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+635;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+636;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+637;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+638;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+639;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+640;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+641;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+642;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+643;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+644;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+645;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+646;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+647;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+648;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+649;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+650;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+651;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+652;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+653;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+654;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+655;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+656;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+657;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+658;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+659;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+660;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+661;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+662;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+663;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+664;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+665;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+666;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+667;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+668;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+669;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+670;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+671;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+672;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+673;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+674;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+675;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+676;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+677;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+678;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+679;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+680;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+681;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+682;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+683;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+684;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+685;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+686;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+687;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+688;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+689;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+690;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+691;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+692;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+693;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+694;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+695;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+696;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+697;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+698;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

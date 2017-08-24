@@ -1,0 +1,16 @@
+Sustantivos con artículo:
+	El Orco
+	La Espada
+	Los Magos
+	Las tribus
+
+Adjetivos con géneros:
+	Rojo|Roja|Rojos|Rojas
+	de oro|*
+
+Concatenar aleatoriamente sustantivos con adjetivos como se quiera:
+	El tesoro de la mina de los enanos malditos
+	La piedra lunar del rey del cetro del castigo divino
+
+Después de un adjetivo no debería venir otro, sino un sustantivo (¿o sí?)
+	El cofre perdido maldito azul

@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>JN Random Generator v0.1</title>
+
+<script type="text/javascript" charset="utf-8" src="parsecsv.js"></script>
+<script type="text/javascript" charset="utf-8" src="jquery-1.11.1.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="jnaleagen.js"></script>
+<link rel="stylesheet" type="text/css" charset="utf-8" href="jnaleagen.css">
+
+<script type="text/javascript">
+	
+	var miArray =[];
+	var lista = [];
+	var modo = 0;
+	var resultado = 0;
+
+$(document).ready(function() {
+	
+	console.log("Iniciando");
+	Iniciar("jnaleagen_20140820.csv");
+	
+	$("#btnLimpiar").click( function () {
+		$("#texto").text("Sólo el vacío");
+	});
+	
+	$("#btnLanzar").click( function(){
+		modo = ComprobarModo();
+		resultado = Generar(modo);
+		$("#texto").html( resultado );
+	});
+	
+});
+    
+</script>
+
+
+</head>
+
+
+<body>
+	<div id="genSelect">
+		<input type="radio" name="radioGroup1" id="radioHook" value="Gancho" checked>Gancho</input>
+		<input type="radio" name="radioGroup1" id="radioCharacter" value="Personaje">Personaje</input>
+		<input type="radio" name="radioGroup1" id="radioFairy" value="Cuentos">Cuentos de hadas</input>
+		<input type="radio" name="radioGroup1" id="radioTrap" value="Trampas">Trampa</input>
+		<input type="radio" name="radioGroup1" id="radioDungeon" value="Dungeon">Dungeon</input>
+</div>
+	<br>
+	<div id="buttonsArea">
+		<input type="button" id="btnLanzar" value="Lanzar"></input>
+		<input type="button" id="btnLimpiar" value="Limpiar"></input>
+	</div>
+	<br>
+	<p id="texto">Sólo el vacío</p>
+</body>
+
+
